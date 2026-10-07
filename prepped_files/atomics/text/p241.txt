@@ -1,0 +1,44 @@
+
+Atomic-energy rockets? . . .
+
+The subject of space ships traveling almost effortlessly between the planets
+has been a frequent companion of futuristic stories and comic-strip thrillers.
+If, with atomic engines, speeds of 2,000 miles per hour could be attained, then
+no place on this earth would be more than 6 hours away. What designer of a
+suitable space ship will be the first to visit the moon and report back on his
+experiences? What bold Columbus will venture to visit our planetary neighbor
+Mars and at last bring back a decisive answer to that long-debated question
+as to the existence of life on that planet?
+
+Lest our imaginations run away with us, let us bear in mind that there are
+many difficult problems to be solved before such a rocket ship can be produced.
+The rocket ship propels itself forward by shooting out material in the
+opposite direction. There is no known way of propelling a rocket out in space
+other than by the actual loss of some material from the rocket itself. We can
+if we wish hurl stones out the back end to send the ship forward. The greater
+the speed with which the stone is hurled out backward, the greater the push
+forward on the ship. But every time that stone is thrown out, it is gone forever
+from the rocket. Even if we tried to rig up some device to capture and use
+the stone over again in that same ship, we would find that the force required
+to stop it and bring it back would exactly cancel out the forward kick and
+we would have completely defeated our purpose.
+
+Thus, a rocket must irretrievably lose some material that it carries along at
+the start, regardless of whether it is powered by fuel or by atomic energy.
+
+How then can atomic energy help? The key to the solution of this problem
+lies in the velocity with which the material is shot out. Present-day rockets
+using chemical fuels send their gases hurling out the back with speeds of
+thousands of miles per hour to produce sufficient force to propel the ship.
+If the speed of the gases coming out could be multiplied, then the speed of
+the rocket ship could also be multiplied--using the same quantity of material.
+If an atomic-energy motor could thus be built to cause the ejection of a gas
+or other material at speeds of many miles per second, then it might become
+practical to operate a space ship. The high speed of the propelling gases would
+reduce the weight of material that must be carried.
+
+This is no simple obstacle to overcome. Assuming we used a pile to heat
+water and change it to steam, the enormous pressures necessary to propel a
+space ship would tend to shatter the material of which the pile is made, as
+well as the container for the steam. It is doubtful whether present techniques
+could cope with this problem. Furthermore, the great weight of the pile itself

@@ -1,0 +1,42 @@
+lake. Measurements were made in airplanes and on balloons. Expeditions
+were organized which traveled to the far recesses of the earth, to the Arctic
+regions. Occasionally tragedy stalked these expeditions and lives were lost.
+But the desire to ferret out the secret of these cosmic relations remained unquenchable.
+
+Putting the instruments to work . . .
+
+Here was a case where the tools of the physicist that had been so useful
+in earlier work resulted in an interplay of vital information. Electroscopes were
+used in order to measure the total intensity of the radiation coming from above.
+This was accomplished by placing lead and other metallic radiation shields
+on the bottom of these instruments to block radiations coming from the earth.
+
+The cloud chamber was found especially helpful in this detective work.
+Ordinarily, photons do not leave any tracks in cloud-chamber photographs.
+But an occasional electron knocked out of an atom by a photon had sufficient
+velocity to leave a wake of water droplets in its path which could be photographed.
+The general appearance of the track photographed in this instrument
+was a clue as to the nature of the charged particle that had passed through.
+Tracks made by an electron are beaded and light in intensity. Proton and alpha-particle
+tracks are heavy. We have already made use of the fact that a moving
+charged particle is deflected by a magnetic field, so that the original straight
+path becomes an arc of a circle. By placing a magnetic field at right angles
+to the direction of incoming cosmic rays, these curvatures could be photographed
+and their energies estimated. The fact that a positive particle will
+swerve oppositely from a negative particle enables us to discover the kind of
+charge carried.
+
+An important instrument used in these studies was the Geiger counter
+tube. In its simplest form it consists of a tube into which have been sealed
+two metallic terminals. These terminals are attached to a high-voltage source
+and filled with a suitable gas. Ordinarily no electric current will flow across
+the tube. But when a high-energy particle enters the tube, ionization of the
+gas occurs and a pulse of current flows. This current is then amplified and can
+operate a mechanical counting device. In this manner, this simple instrument
+is able to detect the presence of individual atomic projectiles. When several
+of these instruments were placed in a line and arranged to record a particle
+only when all instruments went off together, it was possible to determine the
+number of ionizing particles that descended on the earth from a very definite
+direction. With the use of an amplifier it was possible to note the entrance
+of individual particles as clicks from a loud-speaker. Or the instrument could
+be attached to an oscilloscope (familiar to us as the circular screen in radar

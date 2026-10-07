@@ -1,0 +1,42 @@
+of uranium and then into the carbon. Here, repeated collisions with carbon
+atoms would slow it down to speeds of about i mile per second, in which
+condition the neutron could no longer be captured by U238 but could still
+be captured by U235. The neutron would then wander about in the carbon
+space, colliding with atom after atom, until it eventually reached a container
+of uranium. Now in the uranium space it would continue its wandering,
+bouncing off U238 atoms without capture, until it chanced to hit that
+1 atom of U235 out of 140 atoms of uranium. Once this occurred, the U235
+would be split open by the slow neutron and it would have accomplished
+its mission of producing a new crop of neutrons to keep the chain reaction
+going. The slow neutron's careful selectivity for capture by U235 but not
+by U238 thus makes a chain reaction possible with ordinary uranium.
+
+The lattice arrangement is therefore ideal for our purpose. Some neutrons
+will--even under this arrangement--be captured by U238. Some will
+be lost to neutron-robber impurities. Some will escape to the outside. But
+with this method we can cut the neutron losses down so much that at least
+one out of each crop of several neutrons resulting from a fission will
+be effective in causing another fission. Our chain reaction can now proceed.
+
+But many problems remained. In order to construct such a pile, a great
+deal of information had to be obtained. How fast are the neutrons from
+fission? How many are there? How much space for carbon shall there
+be in the lattice? How much uranium shall be placed in one can? How
+much will be needed before the critical size is reached where k equals 1 and
+the chain reaction proceeds? How pure must the uranium and carbon be
+to cut down on losses from neutron robbers? All these questions and more
+had to be answered before a pile could be constructed. Experimentation on
+these problems was undertaken with great vigor.
+
+In the fall of 1941, Fermi reported a value of 0.87 for k. This was disappointing,
+for only 87 new neutrons were produced at the cost of 100 original
+neutrons. But it seemed that this was only a beginning estimate; other arrangements
+of uranium and graphite could be used and the purity of the
+materials could be improved. By May of 1942, uranium of higher purity was
+used. The total impurities were now less than 1 per cent and the neutron
+robber, boron, was reduced to only a few parts per million. Using these materials,
+a value of 0.98 was reported--only 0.02 away from the desired goal. In
+June, 1942, sufficiently pure materials were used and a k of 1.007 was reportedl
+This value, greater than 1, indicated that a chain-reaction pile using ordinary
+uranium and graphite was possible. Now all that remained to be done was to
+get enough material together to build one of sufficient size to be actually

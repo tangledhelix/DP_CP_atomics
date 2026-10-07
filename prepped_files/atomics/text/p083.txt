@@ -1,0 +1,45 @@
+charged particle is deflected into a curved path when it passes between the
+poles of a magnet.
+
+Lawrence took advantage of these well-known facts in the construction
+of his cyclotron for obtaining high-speed atomic bullets. Let us see how an
+early model was constructed.
+
+He arranged a flat cylindrical metal can, cut right down the middle as
+shown in the diagram. He then separated the two halves A and B by an inch
+or so and connected them to the
+terminals of a source of alternating
+voltage producing about 10,000
+volts. Using this alternating voltage,
+the positive and negative
+charges are made to reverse many
+times each second so that at one
+instant one side of the box is + and
+the other -- while an instant later
+the situation is reversed. The half
+box formerly charged + now becomes
+--, and vice versa. We shall
+see presently the purpose of this
+alternating voltage.
+
+The two half boxes are placed between the poles of a giant magnet. The box
+and its container are then connected to a high vacuum pump and most of the
+air removed, to permit the particles to move without interference from air
+molecules.
+
+And now the "merry-go-round" begins. Some charged hydrogen atoms
+(protons) are created by bombarding ordinary hydrogen gas with electrons
+(produced by a hot filament). These rip off the planetary electrons to form
+hydrogen ions, which in this case happen to be protons. These protons are
+formed close to the center of the cylindrical box, between the two halves. The
+positive proton is immediately attracted toward whichever half of the box
+happens to be negative at that moment. If A happens to be negatively charged
+it will move toward A. But at the same time the magnetic field acting on the
+particle causes it to swerve in a circular path and thus return to the space
+between the two boxes once again.
+
+Now, since the two halves A and B alternate in being the plus and minus
+terminals, in the same manner as an ordinary alternating-current house electricity
+supply, the following interesting effect takes place. At the very moment
+that the proton returns to the center line, the plus and minus terminals alternate.
+As a result the negative charge on B now attracts the proton back across

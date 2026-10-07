@@ -1,0 +1,44 @@
+current from a battery through a solution of a salt, acid, or caustic, and chemical
+changes would take place. One interesting fact noted was that metals
+plated out onto the negative terminal in every case.
+
+Out of these simple electrolysis experiments came many giant chemical industries,
+particularly in the field of metal production and use. Our aluminum
+is made by this process of electrolysis. Copper is refined and purified by this
+method. Materials such as sodium, chlorine, and lye are made in this manner.
+Metal plating is also based on this simple procedure of passing an electric current
+through certain solutions.
+
+Are materials electrical in nature? . . .
+
+And now our familiar "why" recurs. Why should the molecule of water be
+split apart by the flow of electric charges? Why should metals always plate out
+at the negative terminal?
+
+The answer to these questions also provides us with the solution to the
+puzzling questions we raised earlier in the chapter. Why do not all molecules
+simply fly off into space as a result of their great motion? What keeps them
+together in solids and liquids?
+
+The solution began to appear toward the end of the nineteenth century.
+It was found that the atoms themselves were intimately tied up with electric
+charge and its effects. Atoms could become positively charged, become negatively
+charged, or be neutral (with no charge at all). Positively charged atoms
+remained attracted to negatively charged atoms in a stable solid structure such
+as common table salt. The forces keeping atoms together in the form of a molecule,
+or keeping molecules together in the form of a liquid or solid are electrical
+in nature. They consist of the same
+attractions and repulsions that we
+noted earlier with charged objects.
+Thus it was discovered that metals
+always plated onto the negative
+terminal because the "atom" of
+metal (always found in salt solutions)
+was positive, and thus was
+attracted to the opposite negative
+charge.
+
+But as might have been suspected, this explanation raised more new questions
+than it answered. How could an atom be sometimes neutral and at other
+times positive or negative? Was there some smaller part of an atom that was
+electrical in nature and whose gain or loss could leave the atom positive or

@@ -1,0 +1,48 @@
+Thus light atoms have a greater effect in slowing down and stopping neutrons.
+
+More billiard-ball effects . . .
+
+When we describe the first atomic-energy machine, we shall see that it was
+essential to find a material which could efficiently slow down fast-moving
+neutrons. It is clear from the above discussion that the solution would lie
+among the lighter atoms. Actually, carbon atoms, atomic weight 12, were used
+for this purpose in the first machine operated in December, 1942.
+
+The billiard-ball collision calculation for neutrons striking hydrogen atoms
+shows that on the average a neutron loses 60 per cent of its energy on collision.
+It is no wonder then that fast neutrons hitting the hydrogen atoms in
+water or paraffin can knock out high-speed protons (the nuclei of hydrogen
+atoms) from these compounds. Calculations show that a neutron is reduced to
+about Yi 0,0 00 of its original energy after making only 12 collisions with
+different hydrogen atoms.
+
+Thus a great many facts led to the conclusion that the mysterious radiation
+consisted of particles having a mass about equal to that of the proton but
+without any electric charge. These particles are called neutrons.
+
+As we have stated before, it appears to be more satisfactory to consider the
+nucleus as made up of protons and neutrons with the number of protons equal
+to the atomic number, or the charge on the nucleus. The sum of the neutrons
+and protons is approximately equal to the atomic weight. For example, consider
+an atom of the poisonous gas, chlorine. The atomic weight of one of the
+isotopes of chlorine is 35, the atomic number is 17. The model of the nucleus
+would then be 17 protons and 18 neutrons.
+
+Again applying atomic arithmetic . . .
+
+Let us return now to one of the processes which led to the discovery of the
+neutron and see whether we can balance the mass and the charge. An alpha
+particle bullet hit a beryllium target and the products of this collision were a
+carbon atom, a neutron, and energy, as follows :
+
+Helium + beryllium --> carbon + neutron + energy
+
+protons   2    4    6    0
+neutrons  2    5    6    1
+         --   --   --   --
+weight    4    9   12    1
+          ------   -------
+            13   =    13
+
+According to this simple scheme, the total number of protons in these
+atoms is the same before and after. In the same manner, the approximate total

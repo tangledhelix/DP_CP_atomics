@@ -1,0 +1,45 @@
+The exchange principle j ust described was used in conj unction with electrolysis
+to obtain water that was rich in heavy hydrogen.
+
+Bpth the distillation and exchange reaction methods for concentrating
+heavy water represent important technical accomplishments. The distillation
+method is not a chemical but a physical process. The H20 molecules are
+separated fom the D20 molecules by taking advantage of the lower boiling
+point of the former. The exchange process is a chemical method. Using this
+principle, H. C. Urey has had success in recent attempts to separate other
+isotopes that have valuable peacetime scientific uses, such as heavy carbon
+and heavy nitrogen.
+
+The first uranium heavy-water chain-reacting pile . . .
+
+The advantages of heavy water as a moderator in a chain-reacting uranium
+pile excited considerable interest. It is more effective than graphite in slowing
+down neutrons and also has less tendency to rob neutrons. As a result, a pile
+using heavy water as a moderator can be made more compactly than an
+equivalent carbon-uranium pile. But it would have required 2 years to produce
+enough heavy water for a fair-sized pile producing plutonium. It was
+therefore decided to curtail the program and to limit production to a 250-
+kilowatt pile located at the Argonne site near Chicago. Although a "laboratory"
+pile, its successful operation marks another pioneer step in the story
+of atomic energy. The fascinating details of this atomic-energy machine
+taken from the Smyth report, are given below:
+
+"Perhaps the most striking aspect of the uranium and heavy-water pile at
+the Argonne is its small size. Even with its surrounding shield of concrete it
+is relatively small compared to the uranium-graphite piles.
+
+"By May 15, 1944, the Argonne uranium and heavy-water pile was ready
+for test. With the uranium slugs in place, it was found that the chain reaction
+in the pile became self sustaining when only three fifths of the heavy water had
+been added. The reactivity of the pile was so far above expectations that it
+would have been beyond the capacity of the control rods to handle if the remainder
+of the heavy water had been added. To meet this unusual and pleasant
+situation some of the uranium was removed and extra control rods were
+added.
+
+"With these modifications it was possible to fill the tank to the level planned.
+By July 4, 1944, W. H. Zinn reported that the pile was running satisfactorily
+at 190 kw, and by August 8,1944, he reported that it was operating at 300 kw.
+
+"In general the characteristics of this pile differed slightly from those of
+comparable graphite piles. This pile takes several hours to reach equilibrium.

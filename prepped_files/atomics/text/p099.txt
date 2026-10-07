@@ -1,0 +1,44 @@
+
+Checking the Einstein equation . . .
+
+There were few rules in science so firmly entrenched as the principle of
+conservation of matter. Many of the reactions performed by the chemist,
+such as the burning of coal, liberated what might be considered large amounts
+of energy. Despite very accurate measurements of mass before and after
+reaction, no loss was ever observed by the chemist. Why was a loss in mass
+never observed?
+
+Einstein's equation provides the answer. There was a loss of mass in every
+one of these reactions, but it was so infinitesimal that it could not be detected
+by the most delicate chemical balances.
+
+However, nuclear reactions liberate so much energy in many cases that
+the tools of the physicist are sharp enough to detect these changes in mass.
+It is a tribute to the genius of Albert Einstein that his equation was developed
+from purely theoretical considerations and was presented without any experimental
+proof. Decades later, it was found to apply cxacdy to the nuclear
+collision processes that were beginning to interest the physicist. As a matter
+of fact, it can be stated that the study of nuclear processes has been the best
+experimental confirmation of the Einstein equation. Of course, the equation
+was to become of practical significance years later when science found a way
+to unleash large-scale amounts of atomic energy.
+
+Let us apply the Einstein relation to one of the transmutations which we
+described in an earlier section. In doing this, we must, of course, use precise
+values for the atomic weights before and after because the change in mass
+will be small.
+
+Lithium bombarded with protons produces two alpha particles (helium).
+
+Lithium + hydrogen --> 2 helium + energy
+Atomic weight 7.0182 + 1.0081  = 2 X 4.0040 + energy
+8.0263 = 8.0080 + energy
+
+According to this calculation there is a loss of 0.0183 atomic units of mass.
+Calculation with Einstein's equation shows that this destruction of mass
+should result in the production of about 17 M.e.v. of additional energy.
+Measurement of the energies of the two fast helium atoms resulting from the
+collision of the proton against the lithium atom showed them to have about
+8.5 M.e.v. of energy each, or a total of 17 M.e.v. together. Thus, the measurements
+confirmed with great exactitude the unusual prediction of Einstein's
+equation.

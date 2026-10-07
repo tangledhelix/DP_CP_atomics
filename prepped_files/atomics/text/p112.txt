@@ -1,0 +1,21 @@
+
+Very fast neutrons are also produced in the collision of deuterons with
+lithium atoms. When 5-M.e.v. deuterons are used, the neutrons produced
+range in energy up to 20 M.e.v. The nuclear event is written :
+
+Deuteron + lithium = helium + helium + neutron
+
+These processes were used in order to obtain high-energy neutron sources--effective
+in unraveling many secrets of nuclear particles and forces. The deuteron
+will be a useful atomic projectile as long as cyclotrons are used in
+producing high-energy beams of this material.
+
+Another important particle, the positron . . .
+
+Thus far our list of important particles includes the proton, electron, neutron,
+deuteron, and the alpha particle (or helium nucleus). Still another fundamental
+particle, the positron, was discovered at about the same time that the
+neutron and the deuteron were found. But the way in which it was found,
+through a study of the cosmic rays, is an important story in itself. We shall
+turn now to a consideration of cosmic rays and to the discovery of this new
+atomic particle.

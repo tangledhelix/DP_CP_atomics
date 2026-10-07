@@ -1,0 +1,44 @@
+been used for shipping a mattress. There is material inside the box, but its arrangement
+is unknown to us. It may consist of a great many solid balls packed
+closely together, or of occasional small objects separated by great distances.
+How can we tell?
+
+To find the answer, let us shoot thousands of bullets into the box and note
+carefully what happens to them. Suppose that every bullet is deflected sharply
+or is actually forced to rebound. Our conclusion would be that the material
+making up these unknown objects was distributed rather uniformly with few
+spaces between objects. On the other hand, suppose that, out of 1,000 bullets,
+999 ripped through the cardboard box without showing any deflection whatsoever.
+It would then become clear that the matter in each unknown object
+must be very highly concentrated in a small region and that the bulk of the
+object is simply empty space. Of course, this example is rather crude, but
+the same basic principle was applied to the study of atomic architecture.
+
+The first bullets used were high-speed electrons. Later, alpha particles
+(helium nuclei) shot out of radioactive atoms proved to be highly successful
+artillery. The targets were atoms whose size was known to be about one one-hundred-millionth
+of an inch in diameter. That is, ioo million of these atoms
+would have to be lined up side by side to measure i inch in length. Or, to put
+it in another way, in order to magnify an atom to the size of a penny, the thickness
+of a human hair would have to be enlarged to cover more than 20 city
+blocks !
+
+Rutherford proposes a solar-system model for the atom . . .
+
+Among the first to carry on this strange target practice was the German
+physicist Lenard. He shot high-speed electrons into various materials. To his
+surprise, they encountered little resistance and the great majority of the electrons
+passed through undetected. Lenard concluded that very few electrons
+would have gone through if the atoms were uniformly massive. He reasoned
+that the atom consists of a core that is very difficult to penetrate, surrounded
+by a diffuse electron cloud.
+
+Rutherford carried on this pioneering work with great vigor and success.
+Instead of using electrons, he conceived the idea of using natural heavy
+artillery, namely, the alpha particles shot out from radioactive atoms. The
+alphas are 7,500 times as heavy as the electrons and therefore should yield more
+information about the massive core of the atom--in exactly the same manner
+that the resistance of a wall is better gauged by a battering ram than by a
+sling shot. Rutherford found that, on the average, an alpha particle would
+travel through about 200,000 atoms before suffering a serious deflection.
+Since the alpha particle would be stopped only by a massive atomic core or

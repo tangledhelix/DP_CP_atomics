@@ -1,0 +1,29 @@
+
+Very high voltages by gradually building up electric charge . . .
+
+How do these machines operate? In order to obtain very high speed particles,
+it is necessary to do two things: First, obtain a source of high voltage. Then,
+place charged particles in this region, and they will speed up to the charged
+plate that is attracting them. How can we obtain this high voltage? An
+ordinary dry cell furnishes about 1.5 volts. A typical automobile storage battery
+will furnish 6 volts. By hooking together 1,000 of the latter, we could
+obtain 6,000 volts, but that would not be very convenient. Direct-current house
+voltage furnishes about no volts. If we could use the third rail of a typical
+electric railway system, we would have about 500 volts. Special transformers can
+supply only several hundred thousand volts. To achieve the millions of volts
+needed in atom smashing requires much skill and ingenuity.
+
+One of the methods for developing extremely high voltages was suggested
+and developed by R. J. Van de Graaff, a young electrical engineer and Rhodes
+scholar, early in the thirties. His instrument is called the Van de Graaff, or
+electrostatic, generator.
+
+In an early model, capable of hurling multimillion-volt "lightning" bolts,
+two giant 15-foot spheres, mounted on insulated supports 6 feet wide and 20
+feet high, were made to accumulate enormous amounts of electric charge.
+The charge was supplied at the base of the insulating support by a 10,000-volt
+source. A silk belt picked up this charge and carried it up to the inside of the
+sphere, where the mutual repulsion of the charges caused them to scatter to the
+outside. One of the spheres was charged up positively and the other negatively.
+The charge was gradually accumulated until an electrical tension of several
+million volts was built up.

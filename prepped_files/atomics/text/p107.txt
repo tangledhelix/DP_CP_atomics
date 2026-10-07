@@ -1,0 +1,46 @@
+
+The neutron is an excellent bombardier . . .
+
+The fact that the neutron has no electric charge makes it one of the most
+effective projectiles in the roll call of atomic artillery. This is so despite the
+fact that we are able to speed up charged particles such as protons by applying
+electric and magnetic forces, which we cannot do with neutrons. But the
+electric charge on particles produced by atom guns also makes it very difficult
+for them to penetrate into the nucleus. A high-speed proton or alpha particle
+can penetrate the light electron rings about the nucleus quite easily, but it is
+strongly repelled as it approaches the like positive charge on the nucleus. The
+number of actual effective hits is therefore very small compared with the
+number of particles that must be used in the bombardment.
+
+However, the neutron does not experience this difficulty. Since it has no
+electric charge, it can approach very close to the nucleus of the target atom
+without being repelled and therefore scores a far greater percentage of hits.
+In fact, most neutrons eventually end their existence by entering the nucleus
+of some atom.
+
+The neutron can bring about many transmutations . . .
+
+Scarcely any element is "impregnable" to neutron bombardment. In many
+cases the first step in a successful penetration is the simple capture of the
+neutron by the target atom. This merely adds to the weight of the nucleus
+without changing the nature of the element itself. But this chemical twin that
+is formed is frequently unstable. It is radioactive and frequently ejects a beta
+particle from the nucleus. However, this emission of a negative particle leaves
+a nucleus with one higher positive charge. In other words, the next higher
+element in the chemists' rogues' gallery, or table of elements, is produced.
+In this way many striking examples of artificially radioactive materials have
+been produced. (We shall leave to a later chapter the story of the discovery
+of man-made radioactivity.)
+
+Let us expose a copper coin to neutrons. Observe that the coin is now
+radioactive! What has happened?
+
+Neutron (bullet) + copper (target) --> radioactive copper
+
+The copper atom so formed is unstable and a beta particle is ej ected from the
+nucleus.
+
+Radioactive copper --> zinc + beta particle
+
+In this manner, copper has been transmuted into zinc. Where did the beta
+particle come from? According to current theory, a neutron inside the copper

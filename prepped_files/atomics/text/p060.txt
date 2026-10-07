@@ -1,0 +1,37 @@
+thick, while the alphas will probably be stopped by a sheet of paper. Consequently,
+these betas account in the main for the action of radioactive substances
+on a photographic plate through opaque black paper. But even the
+more penetrating beta particles are almost completely stopped by 1/8 inch of
+aluminum.
+
+Gamma rays, penetrating rays akin to x-rays, are also present . . .
+
+In addition to the alpha and beta particles, a third form of radiation was
+found emanating from naturally radioactive material. Some of the radiation
+was completely unaffected by electric or magnetic forces and traveled in
+straight lines, although alphas and betas were deflected by these forces. It was
+therefore concluded that this radiation consisted of photon bullets similar to
+x-rays. Furthermore, like x-rays, this radiation was able to penetrate great
+thicknesses of matter. Today, we refer to this radiation as gamma rays.
+
+CLOUD CHAMBER TRACKS
+
+ALPHA
+
+BETA
+
+GAMMA
+
+The direct paths of these photon bullets from gamma rays are invisible in
+the cloud chamber. However, they ionize the air in the same manner as do the
+x-rays. They knock but a large number of electrons from the molecules which
+they strike. It is the paths of these electrons which are observed in the Wilson
+cloud chamber. Since these electrons have considerably lower energy than
+the gamma-ray photons, their paths are short and crooked, as seen in the
+illustration.
+
+Gamma rays have approximately ioo times the penetrating power of beta
+particles and 10,000 times that of alpha particles. Some of the rays emitted by
+radioactive materials are "soft," low-frequencey gammas which are stopped
+by about 1/2 inch of lead. "Hard," high-frequency gamma rays produced by
+some radioactive atoms can penetrate several inches of lead.

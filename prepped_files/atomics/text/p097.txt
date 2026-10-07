@@ -1,0 +1,47 @@
+
+Mass in grams. (1 pound contains 454 grams.)
+
+Velocity of light in centimeters per second. (This amounts to about 30
+billion centimeters per second. There are approximately 2-1/2 centimeters
+to the inch.)
+
+The extremely large value of the velocity of light results in the production
+of a very large amount of energy for an exceedingly small loss in mass. Let us
+express this relation in terms of units with which we are more familiar.
+For mass, we shall use the pound. For energy, let us use the kilowatt-hour.
+We are more familiar with this unit because our consumption of electric
+energy in the home is rated in units of kilowatt-hours. If you read a book
+with the aid of a 100-watt bulb for 10 hours, the electrical energy consumed
+is 1 kilowatt-hour. In terms of these units, the Einstein relation may be
+written
+
+Energy in kilowatt-hours = 11400,000,000 times the mass in pounds
+
+In other words, the annihilation of a 1-pound mass results in the liberation of
+11.4 billion kilowatt-hours of energy!
+
+Quantities of energy almost beyond the imagination . . .
+
+Energy quantities of this magnitude are indeed difficult for us to comprehend.
+All we can do is provide a few examples showing the use of this
+equation.
+
+Considering the average cost of
+a kilowatt-hour of electric energy
+as approximately 3 cents, the value
+of the energy that could be produced
+by the annihilation of the
+matter in 1 pound of sand would be
+about 340 million dollars.
+
+Compare this with the fuel value
+of 1 pound of coal when burned,
+approximately 8 kilowatt-hours instead
+of 114 billion (11400,000,000).
+The value of this energy from
+a pound of coal, at the rate of 3
+cents per kilowatt-hour, would be only 24 cents.
+
+According to Einstein's formula, the matter in a breath of air could power
+a large ship for several years if converted completely into energy. The electric
+power requirements of the United States could be supplied for a number of

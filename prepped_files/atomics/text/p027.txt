@@ -1,0 +1,46 @@
+these charges were to flow out of a material it would leave an excess of the other,
+and the object would become charged. Thus, if some negative charge left a
+neutral object, it would have an excess of positive charge. The object gaining
+the negative charge would now have an excess of negative electricity and would
+thus be charged negatively. This explains the interesting observation that when
+two objects are rubbed on each other one always becomes negative and the
+other becomes equally positive. One has gained negative charge, the other has
+lost it.
+
+In all this early speculation there was little evidence as to the nature of these
+positive and negative charges. Were they in any way connected with, or a
+part of matter itself? Or were they instead some foreign material that oozed
+out of all things? Not until the end of the eighteenth century were any facts
+discovered that had bearing on this question. The first hint in this quest
+came from an observation that at first seemed far removed from the question
+of what happens when two materials are rubbed together.
+
+A frog's leg--and electricity . . .
+
+It was customary for doctors of the eighteenth century to prescribe such
+delicacies as frogs' legs for certain ailments. Accordingly, the Italian Galvani
+prepared frogs' legs for his ailing
+wife. As described in one
+story, his wife happened to
+hold a metal scalpel near a
+charged electric machine while
+it was touching an exposed
+nerve in the frog's leg. A spark
+passed through the scalpel to
+the nerve and the leg suddenly
+moved.
+
+BATTERY +
+
+Galvani's scientific curiosity
+was aroused. He soon discovered
+that he could duplicate
+this effect of sudden twitching
+of the dead frog's leg by touching
+one end of a wire made of two different metals, such as copper and iron,
+to the nerve of the leg, and the other end to a muscle. In this instance there
+were prolonged convulsions of the dead leg.
+
+Galvani could not find any good explanation for this peculiar action. Soon
+others began to search for reasons for the behavior of the frog's leg. Among
+these, the Italian Volta obtained some astounding results. He discovered that

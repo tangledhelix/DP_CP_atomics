@@ -1,0 +1,46 @@
+ton, grew up out of the wilderness. In addition to the piles, the final installation
+included separation plants for the extraction of the plutonium from the hot
+slugs.
+
+Three large uranium-graphite piles were in operation at Hanford by the
+summer of 1945. Despite all the difficulties, both piles and plutonium-separation
+plants were operating cfficiendy, a tribute to the skill and enterprise
+of American science and industry.
+
+Plutonium by remote control . . .
+
+We have seen how a small portion of the uranium is converted to plutonium
+while the pile operates. The problem now is to separate the small amounts
+of plutonium from the uranium. This differs markedly from the problem of
+separating U235 from U238, which is mainly the concern of the physicist. The
+separation of the isotopes of uranium is made extremely difficult by the fact
+that there is virtually no difference in chemical properties of the atoms of
+U238 and U235. Maximum exploitation of the very slight difference in weight
+of the atoms must therefore be undertaken.
+
+But in the case of plutonium we have an entirely new element, which differs
+from uranium in both chemical and physical properties. It thus becomes
+possible to separate the plutonium using simple chemical procedures, in very
+much the same manner that Marie Curie separated radium and polonium from
+uranium and thorium.
+
+When the chemist is presented with the problem of separating a new
+element from a given material, he first finds out what the chemical and
+physical properties of the material involved are, so that he may utilize these
+differences to cause the separation. Once these different properties are known,
+the chemist proceeds to separate the metals by a series of chemical and physical
+steps. These include such methods as dissolving in various reagents (such
+as acids), precipitation of powders from the solution, heating, crystallization,
+whirling in centrifuges, distillation, etc. These and other similar methods are
+the ones that a chemist would apply to the separation of plutonium from
+uranium.
+
+But the problem is complicated in this case by the fact that nobody can
+approach the pile or its contents while it is operating because of the intensity
+of the radioactivity. This radioactivity persists in the uranium-plutonium
+slug even after it has been removed from the pile. The entire chemical and
+physical separation must therefore be performed by remote control. No human
+hand may touch the materials at any time during the separation process. In
+fact, even a close approach for examination is too risky to be permitted.
+
+In addition to this difficult requirement, the problem was still further corn-

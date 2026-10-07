@@ -1,0 +1,45 @@
+upon atom-smashing machines such as the cyclotron for a variety of atoms
+that cannot be made in the uranium-carbon pile. But occasionally some isotopes
+were very difficult to obtain. At other times, the biologists and research groups
+were in no position to extract the desired atom from the cyclotron target.
+
+For this reason, the opening of the "atomic grocery store" at Oak Ridge,
+Tenn., by the Manhattan Project about the middle of 1946 almost represents
+a dream come true. Here is stock-piled a great assortment of useful radioactive
+atoms, processed and laboriously purified by chemists and physicists
+who are skilled in working near a pile and with highly radioactive sources.
+Here about 50 different kinds of radioactive atoms are offered to qualified
+people throughout the entire country, at a relatively nominal price. In a
+grocery store we would buy tomatoes by the pound. In this atomic grocery
+store we order material in an equally reasonable unit--the radioactive strength
+of the purchase. A convenient unit for tracer work is the millicurie. Any
+sample in which 37 million atoms are breaking up each second has a strength
+of 1 millicurie. A single millicurie of many of these useful atoms will usually
+be enough for hundreds of chemical experiments.
+
+What price radioactivity? . . .
+
+When we describe any interesting store, we should mention some of the
+things sold in it and their price. Suppose we consider just a few of the important
+isotopes.
+
+We have already mentioned carbon 14. This atom has a half-life of approximately
+5,000 years. This is favorable because the activity of a sample
+does not diminish during any experiment. Before carbon 14 was discovered,
+investigators had to use carbon 11, which was made using the cyclotron beam.
+Unfortunately, carbon 11 decays to one-half its original intensity in about
+21 minutes. Thus the short-lived carbon 11 was not suitable for long-term
+experiments. In August, 1946, the cost of a millicurie of carbon 14 was about
+$400. In April, 1947, the cost was reduced to $50.
+
+A much less expensive but very useful isotope is radioactive phosphorus of
+atomic weight 32. In 1947 the price was only $1 for a millicurie. Phosphorus
+32 has a much shorter life than carbon 14 and decays to half its original activity
+in about 14 days. It breaks down by ejecting a high-speed electron with
+an energy of about 1.7 M.e.v. Great things are expected from the use of this
+isotope not only in the study of the functioning of the organs of our bodies
+but also as a means of arresting or possibly curing certain diseases. This use
+will be described in the next chapter.
+
+One additional item for sale which will be of great use is a radioactive
+form of sulfur having an atomic weight of 35. Sulfur 35 decays to half its

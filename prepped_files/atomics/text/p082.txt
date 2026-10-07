@@ -1,0 +1,47 @@
+
+At that extremely high voltage the charges, in the form of miniature lightning
+discharges, are capable of jumping across large distances. Or, the large
+electric forces can be harnessed by connecting an accelerating tube between
+the two spheres as a passageway through which charged particles can be
+speeded up to enormous velocities and energies. If some positive particles, such
+as protons, are formed at the end of the tube near the positive sphere, the
+multimillion-volt forces will drive them across the tube to the negative sphere.
+A suitable target can then be placed at the negative end of the tube to receive
+the impact of the high-energy particles. Atom-smashing observations with
+cloud chambers or other suitable instruments can then be made.
+
+A most interesting feature of this machine is that the safest place for a man
+is inside the metal sphere itself! Work can go on inside this apparently dangerous
+spot without any noticeable effect on the people in it. This is due to
+the fact that like electric charges repel each other and always tend to travel to
+the outside of metal objects. The electric charge therefore has no effect on objects
+and persons inside the sphere.
+
+In a later and less spectacular model, the two spheres were combined into
+one unit for collecting the charge and one of the supporting columns was
+used as the "accelerating tube" for the charged particles. In this form the
+machine was more compact and convenient for atom-smashing experiments.
+
+The Van de Graaff generator relies on simple brute force to give the charged
+particles the high speeds necessary for atom smashing. Once the voltage has
+been built up, a particle in the tube is given one steady but gigantic push as it
+speeds to the other terminal. Another machine, designed with great ingenuity
+by E. O. Lawrence of California, relies upon a series of steady, separate pushes
+to achieve equivalent energies.
+
+The cyclotron--atomic merry-go-round . . .
+
+The basic principle of the cyclotron is analogous to the increase of speed
+given to a boy on a swing. If he is given a small push every time the swing is
+completed, he will go faster and faster, and higher and higher, because the
+slight increases in speed caused by each push add up.
+
+The happy feature of the cyclotron is that the high-speed particles can be
+given energies of millions of electron volts by using a series of many small
+pushes obtained, say, from only a 10,000-volt source. The particle is speeded
+up by 300 pushes from the source to the same extent that it would be by a
+3,000,000-volt Van de Graaff generator.
+
+We are already familiar with two basic principles that were applied in the
+cyclotron. We know that a charged particle speeds up as it falls through a
+distance under the influence of electric forces. We have also seen that a moving

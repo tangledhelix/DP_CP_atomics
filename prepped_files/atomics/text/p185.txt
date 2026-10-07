@@ -1,0 +1,44 @@
+
+Do all gases diffuse at the same rate? This question was raised by the Scotchman
+Thomas Graham, working at the University of London early in the
+nineteenth century. Simple experiments showed that the amounts of gases
+that would diffuse through a tiny hole in a given time varied with the particular
+gas used. As might have been expected, lighter gases diffused more
+rapidly than heavier gases.
+
+In 1896, Lord Rayleigh suggested that the diffusion method might be used
+to separate two gases in a mixture. After diffusing through a porous barrier,
+the mixture would be richer in the lighter gas since the faster moving light
+molecules would go through the small pores of a barrier more rapidly. However,
+this idea did not appear very exciting to the chemist. In the first place,
+large volumes of gases would be needed. Further, there usually are simple
+chemical methods of separating one gas in a mixture from another. If we wish
+to remove the carbon dioxide from a sample of air, we can bubble the air
+through a caustic medium, which combines with the carbon dioxide. If we
+desire to remove water vapor from the air, we may simply pass the air over
+a good drying agent, such as calcium chloride.
+
+However, 17 years later, the suggestion of Lord Ray leigh found a new and
+important use. As has been described earlier, J. J. Thomson, F. W. Aston, and
+others had revealed early in the twentieth century the existence of isotopes, or
+chemical twins, of ordinary stable elements. Mass spectrometer measurements
+showed that neon gas contained two isotopes of weight 20 and 22, with about
+90 per cent of the neon atoms having weight 20. Separation of these isotopes
+by gas diffusion was undertaken.
+
+Minute separation is achieved . . .
+
+In 1913, Aston was able to bring about a very slight separation of the isotopes
+by allowing them to diffuse through clay pipestems. In the early twenties
+the American physical chemist W. D. Harkins experimented with the separation
+of the isotopes of chlorine (35 and 37). He succeeded in obtaining a sample
+of chlorine which was slightly enriched with the heavier isotope and with
+atomic weight 35.515 instead of 35457 as found in nature. Even obtaining this
+slight difference meant a great deal of laboratory effort and time!
+
+By using a large number of pumps and porous surfaces in series with each
+other, the German physicist Hertz greatly improved this process. In 1933,
+by the use of 48 gas-diffusion steps, he succeeded in separating almost pure
+heavy hydrogen, deuterium, from light hydrogen. This was an exciting
+achievement because deuterium is present in ordinary hydrogen to the
+extent of only about 1 atom in 5,000. Although the work of Hertz with other

@@ -1,0 +1,24 @@
+Notes for eventual PP phase
+===========================
+
+Chapters are divided into sections. Use "4-dots" rule on those section headings.
+
+MULTIPLICATION SIGN (U+00D7) [part of Basic Latin character suite]
+pp. 96, 99, 117
+
+RIGHTWARDS ARROW (U+2192) [enabled as custom character]
+pp. 61, 90, 93-95, 99, 105, 107-108, 111, 128, 243
+
+Horizontal curly braces (grouping items in a table)
+pp. 94, 105, 111, 128
+
+Poetry used as chapter subtitle? p. 7
+
+h3 immediately follows h2: pp. 53, 66, 89, 101
+
++ = ✕ printed larger in the paper edition - increase size with <span>?
+
+Ratios, e.g. 23:35-1/2 - does fraction tool understand this?
+
+Comma in fraction: 1/1,000 - does fraction tool understand this?
+

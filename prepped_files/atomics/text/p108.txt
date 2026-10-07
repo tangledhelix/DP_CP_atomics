@@ -1,0 +1,45 @@
+atom is converted to a proton and an electron, which is ejected from the
+nucleus. Of course, using neutrons from sources such as radium and beryllium
+or a cyclotron beam, it would take a long time to convert any practical amount
+of copper into zinc.
+
+If you are in a room in which there is a near-by radium-beryllium source of
+neutrons, you will discover that the silver coins in your pocket have become
+radioactive. The event that has taken place in the core of the silver atom may
+be written in this manner:
+
+Neutron (bullet) + silver (target) --> radioactive silver
+
+Then the silver nucleus ejects a beta particle :
+
+Radioactive silver --> cadmium + beta particle
+
+In this way silver is being transmuted into cadmium. Some of the gold in a
+coin of this more precious metal becomes converted to mercury (the next
+higher element) under these conditions. Dozens of other examples of this
+type might be given.
+
+There is thus no doubt that transmutations of the elements arc readily effected
+by neutrons. The alchemists would have been successful (at least on a
+microscopic scale) had they had this tool of the modern physicist. The actual
+amount of transmutation is very small under ordinary laboratory conditions,
+even when a neutron beam from a fair-sized cyclotron source is used. Even in
+an entire day, the amounts would probably not be weighable.
+
+There are other types of encounters that can occur with neutrons, but the
+type mentioned above is probably the most important. A neutron hitting a
+boron atom might result in the formation of lithium and helium (alpha particle).
+On striking a nitrogen atom, a carbon atom and a hydrogen atom might
+be formed.
+
+Gold is not the object of modern alchemy . . .
+
+In the last few years there has taken place what is probably the outstanding
+development of this century, the operation of an atomic-energy machine,
+commonly called a pile. We say little here concerning this because the latter
+part of this book is largely devoted to its description. At this point we shall
+simply state that the operation of such a pile makes it possible to obtain a
+beam of neutrons so intense that "practical alchemy" is actually being carried
+on. What is the prize? Not gold, or platinum, but a great variety of radioactive
+atoms now at our disposal for the accomplishment of a multitude of
+tasks. In addition, the supply of neutrons now available makes it possible

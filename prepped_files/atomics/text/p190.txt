@@ -1,0 +1,43 @@
+containers were substituted for the film or electrical meter and tiny amounts
+of the pure separate isotope atoms obtained.
+
+Several million years using early magnet . . .
+
+With the vapor of a uranium compound used as the source of ions, this
+method of electromagnetic separation would enable us to obtain absolutely
+pure U235 immediately. But the question was, How much could we produce?
+It turned out that only insignificant amounts of absolutely pure U235 could
+be obtained with apparatus existing during the early stages of the bomb
+project.
+
+The difficulties were numerous, as was the case with all problems on the
+project. To obtain the ions, it is necessary to introduce uranium in the form
+of a gas of one of its compounds into a chamber. We then bombard these
+atoms with electrons or some other form of radiation so as to knock out electrons
+from the outer rings and produce ions. Some of these ions are made to
+pass through a slit where the attraction of a near-by plate (oppositely charged)
+speeds them up. It is important at this point for all ions to have practically
+the same speed. A small fraction of these ions pass through another hole in
+the attracting plate, and the beam is thus narrowed down sharply. Note that
+many ions which strike the first plate without passing through the hole are
+eliminated. In addition many ions which get through the first hole strike the
+second plate and are stopped. Only a small fraction of the original ions go
+through the second hole to form a beam. As a result the yield is extremely
+small.
+
+Nevertheless, this method of separating U235 from uranium offered the
+only quick method of getting pure U235. In 1941, A. O. Nier's mass spectrometer
+was put to work and succeeded in collecting U235 at the rate of about
+2 billionths of an ounce per hour. At this rate it would take about 2 million
+years to make a 2-pound piece of U235!
+
+Improving the yield . . .
+
+For purposes of mass production, it became necessary to use much larger
+magnets than those generally used for mass spectrometers. Consequently
+work was begun in 1941 with the magnet of Lawrence's cyclotron at Berkeley,
+Calif. This giant magnet had poles that were more than 3 feet in diameter.
+Its powerful magnetic field speeded up the separation process considerably
+and led to important discoveries. This device for separating U235 from uranium
+came to be known as the calutron (contraction of California University
+Cyclotron).

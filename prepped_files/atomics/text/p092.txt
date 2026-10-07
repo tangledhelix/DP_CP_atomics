@@ -1,0 +1,44 @@
+is the fact that the bullets and the targets are usually of different weight. But
+the relative weights are known from the atomic weights and calculations can
+be made for the impact of two balls of known weight for any angle of collision.
+
+In his experiment Rutherford used alpha particles shot out from radium C.
+These particles can travel about 2-3/4 inches in air before they are stopped.
+This distance is called the range of the particle and is a good measure of its
+original energy. When these alpha particles were allowed to bombard a
+sample of hydrogen, an interesting observation was made. As a result of the
+collisions, particles were shot out that had a range of 11H inches in air. What
+had happened? The simplest assumption was soon found to be true. Hydrogen
+atoms consist of one proton as nucleus and one external electron. The
+alpha particle bullet is four times as heavy as the proton. The result of the
+collision is to kick these smaller protons forward at high speeds. But this is no
+transmutation of elements. A fast helium nucleus has hit a stationary hydrogen
+atom. As a result, the helium nucleus is slowed down and the hydrogen
+nucleus is kicked forward. As a matter of fact, simple calculations proved that
+a head-on collision would be expected to give hydrogen nuclei a range of just
+11H inches. The same type of calculation could be applied to a simple billiard-ball
+collision. Nothing really unusual had happened.
+
+High-speed alpha particles collide with nitrogen atoms . . .
+
+When, however, Rutherford used nitrogen gas as the supply of target atoms,
+an extremely unusual result was observed. Occasionally (recall that most artillery
+practice results in many misses) particles shot out from the collision
+scene with ranges of about 15.7 inches. What could these high-energy particles
+be? They could not be the original alpha particles, because their range is
+only 2-3/4 inches. They could not be the target nitrogen nuclei or ions, because
+simple billiard-ball calculations showed that a light alpha particle could not
+possibly give a heavier nitrogen atom such a great kick.
+
+The diagram shows a collison of an alpha particle with a nitrogen atom as
+it might be observed in a cloud-chamber photograph. The track seems to break
+in two. One particle comes shooting out slightly to the left at high speed with
+a 15.7-inch range.
+
+When we measure the angles of the paths of the colliding particles and their
+ranges, the calculations for a billiard-ball type of collision do not come out
+right. Rutherford measured the angles carefully. He estimated the speeds and
+energies of the particles leaving the scene of the collision. From this information
+and from the appearance of the tracks he was able to deduce the nature of
+
+the particles. He came to the conclusion that the two particles leaving the

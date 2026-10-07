@@ -1,0 +1,33 @@
+investigation they discovered that protons were being shot out of the paraffin.
+The original mysterious radiation was ejecting protons from hydrogen, one
+of the elements present in large proportion in the paraffin. They also discovered
+that other materials containing hydrogen, such as water, acted in a
+similar manner. The collisions must have been quite effective to rip the proton
+away from the external electron in the hydrogen atom and send it shooting
+out with energies corresponding to millions of electron volts. It was also found
+that this "radiation" could impart high energies of motion to nuclei of helium
+and carbon.
+
+ALPHAS
+BERYLLIUM
+PARAFFIN
+PROTONS
+
+The hunt now shifts to Cambridge, England . . .
+
+In Rutherford's laboratory at Cambridge, England, where hunting expeditions
+for the neutron had been organized before, the possibility that these
+radiations were neutrons was examined by Chadwick. From the cloud-chamber
+tracks of the protons given off from this mysterious radiation, Chadwick
+was able to estimate the weight (mass) and speed of the particles causing
+the protons to be thrown out of the paraffin (on the assumption that the effect
+was caused by moving particles). His calculations showed that the weight
+was approximately 1, the same as that of the neutron he sought. The fact that
+the radiation passed so easily through lead and other materials was exactly
+the property that Rutherford had predicted for such an uncharged particle.
+The fact that it did not leave a visible track in the cloud chamber was another
+property that had been surmised in advance.
+
+But the most important indication that he was dealing with a particle
+rather than with a gamma-ray type of radiation came with the discovery
+that this radiation was stopped more easily by light substances such as paraffin

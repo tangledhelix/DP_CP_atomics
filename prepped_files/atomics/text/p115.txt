@@ -1,0 +1,47 @@
+troscope is negative, it will attract the positive ions, and again the charge is
+neutralized and the leaves come together.
+
+A match flame brought near the electroscope will do the same thing, because
+the gases in a flame are partially ionized by the rapid motion of the
+molecules as they rearrange themselves in the process of burning. X-rays
+will also discharge an electroscope by ionizing the air.
+
+IONS
+
+Thus the coming together of the
+leaves of a charged electroscope can
+be used to measure the extent of
+ionization of the air and can indirectly
+be used to detect the presence
+of radioactive materials and other
+ionizing agents. In fact, the electroscope
+is used in this manner to locate
+radium that has been lost accidentally.
+Occasionally newspaper
+accounts describe the search
+electroscope for radium thrown
+out by mistake into incinerators or
+garbage pails. A charged electroscope carried about near the refuse reveals the
+presence of the radium by the ionization of the air around it and the consequent
+disappearance of the charge on the leaves.,
+
+Slow leakage of the charge on an electroscope . . .
+
+The interesting observation was made that the leaves on a charged electroscope
+gradually come together even when known sources of radioactive
+material or x-rays have been removed and all known leakage has been accounted
+for. Apparently there was some leakage due to ions existing in the air.
+What caused this ionization? Why should it be present in the air at all times?
+
+When radioactive substances were discovered, it was quite natural for
+scientists to assume that this ionization was caused by radiations from radium
+and other naturally radioactive substances in the surface of the earth. It seemed
+most simple to assume that the surface of the earth or the air immediately
+above it contained the origin of these ionizing radiations. Experiments designed
+to test this idea were begun as early as 1903. In one experiment, an
+electroscope was surrounded by a brick container. In another experiment, this
+instrument was submerged in a large tank of water. In both cases, the ionization
+was more feeble as a result of the shielding action of the surrounding
+material.
+
+But really useful and surprising clues were unearthed when the electro-

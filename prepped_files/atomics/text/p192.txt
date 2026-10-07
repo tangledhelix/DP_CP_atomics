@@ -1,0 +1,43 @@
+
+Large-scale production . . .
+
+On the basis of the improvements that had been developed by the group
+of scientists working with Lawrence at California, it was decided in September,
+1942, to proceed with the erection of an electromagnetic separation plant
+Location of the plant at Clinton, Tenn., afforded convenient access to TVA
+electric power needed in large quantities for the electromagnets. The main
+reason for the decision to proceed with such a plant was that it was the only
+method at the time which could produce greatly enriched U235 almost immediately.
+At the same time, each production unit could be relatively small
+Each magnet was a unit in itself that could be used for production of enriched
+U235. Unlike the gaseous diffusion method, which required thousands
+of stages, the electromagnetic method needed considerably fewer stages.
+Quantity in this case could be obtained by building many individual units, the
+only limitation being that of expense. But at the same time it was more certain
+than any other known method. Furthermore, improvements discovered at a
+later date could always be introduced into new units as they were constructed.
+
+In the actual operation of these electromagnetic separation units at Clinton,
+Tenn., it was found possible to increase the yield in a number of ways. By
+widening the slits and the beam, a certain amount of separation is lost and the
+collectors get an enriched sample instead of pure U235. This enriched sample
+can then be used over again in another electromagnetic separator for further
+enrichment. It was found more economical to widen the beam and use several
+stages of operation than to narrow the beam down and obtain a much smaller
+quantity of pure U235 with one operation.
+
+As a result of these procedures it was possible to obtain practical amounts
+of U235 from magnets. By 1945, the electromagnetic plant had proved successful
+in the attainment of the original objective, that of making U235 for
+atomic bombs. According to Smyth: "The electromagnetic separation plant
+was in large-scale operation during the winter of 1944-1945, and produced
+U235 of sufficient purity for use in atomic bombs."
+
+The plant for electromagnetic separation of U235 at Clinton--like the gas
+diffusion plant--represented an enormous effort. It consists of 175 buildings,
+erected at a cost of almost a third of a billion dollars. About 28,000 workers
+were required at the peak of the construction period and 22,000 operating personnel
+were required at peak production. Because of the scarcity of copper
+during the war, over 14,000 tons of silver, worth more than 400 million dollars,
+were borrowed from the Treasury Department to be used for cables and wires
+in the plant.

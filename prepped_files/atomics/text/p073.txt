@@ -1,0 +1,44 @@
+nucleus. At the start the nucleus of the atom has a charge of 81+. But, in
+losing an electron, the nucleus has lost a negative charge. Loss of a negative
+charge is the same as gaining a positive charge. Therefore the old atom with a
+charge of 81+ becomes a new atom with a charge of 82+. This new atom is
+element number 82, lead. Another example of this "radioactivity bookkeeping"
+is given in the illustration.
+
+The fact that these changes in the nucleus are accompanied by extremely
+high frequency photons, or gamma rays, shows that the energies involved are
+far greater than for changes that take place in the outer planetary electrons.
+Thus we must expect, as we probe into the structure of the nucleus, to find
+energies much greater than those involved in ordinary chemical changes.
+It is to the nucleus that we now turn in our quest for atomic energy. We shall
+find from this point on that the center of the atom, the nucleus, will become
+the focus of our attention as we unravel the threads that led to large-scale
+atomic energy.
+
+Radioactivity leads to the discovery of "chemical twins" . . .
+
+Among the many gifts bestowed on us by the discovery of radioactivity
+was a clue which helped us to understand the nature of the so-called chemical
+twins, or isotopes. We have already seen that one of the pillars of Dalton's
+atomic theory was that all the atoms of an element must have exactly the same
+weight. Thousands of chemists attempted to check this assertion during the
+nineteenth century. Oxygen atoms were arbitrarily assigned a weight of 16.00
+and the weights of all other atoms were expressed on this basis. It was soon
+established that carbon, regardless of the compound in which it was found
+or the region of the world from which it was obtained, had a definite atomic
+weight close to 12.0. Atomic weights were obtained for dozens of other elements.
+At the end of the nineteenth century, it appeared that Dalton's assertion
+was absolutely valid.
+
+This very pleasant state of affairs was rudely jarred in the early years of
+the twentieth century by the discovery of the radioactive families of elements.
+One such family, starting with uranium as the parent and radium G as the
+final generation, was described in the last chapter. The chemical properties
+of this final element, radium G, were identical in every respect with those of
+ordinary lead. Tests with the spectroscope revealed that radium G gave lines
+in the spectrum practically identical with those from ordinary lead. Hence it
+was certain that radium G and lead were one and the same element.
+
+A real surprise was in store for the curious investigators who measured
+the atomic weight of the lead that was formed in this manner from uranium.
+T. W. Richards, American Nobel prize winner, after very careful studies

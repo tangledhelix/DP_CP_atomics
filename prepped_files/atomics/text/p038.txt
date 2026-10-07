@@ -1,0 +1,47 @@
+
+According to Thomson, the other atoms are also made up of these fundamental
+packages of electricity, the electron and the proton. Even though this
+is still a hazy picture, it is a step forward. Soon other clever observations
+were to give us a deeper insight into the architecture of all atoms.
+
+Electrons and protons explain many things . . .
+
+With this bold venture by Thomson, the jigsaw puzzle of the structure of
+all materials began to fit together and the explanation of many observations
+became clearer.
+
+What does it mean to electrify an object by rubbing it with another, an observation
+first made thousands of years ago? Normally, matter consists of equal
+amounts of positive and negative electricity in the form of protons and electrons.
+Rub two pieces of matter together and some of the more easily moved
+electrons in one object transfer to the other. Therefore, the object which gains
+electrons becomes negative, while the other which has lost electrons becomes
+positive to the same degree.
+
+Where do the cathode rays come from? The metal making up the negative
+terminal consists of electrons and positive particles. Apparently, some electrons
+are less firmly attached to this metal terminal and are induced by the positive
+charge on the opposite terminal to cross over the "empty tube." These electrons
+exist in the metal of the cathode. The cathode was made negative by pushing
+into the metal an excess number of electrons, which repel each other because
+they are like charges. Consequently, they distribute themselves around the
+outside of the metal atoms and on the outside of the electrode. A positive charge
+(made by removing electrons) exists on the positive terminal. When the attraction
+becomes great enough the electrons can jump the gap. The resulting
+electron streams are the cathode rays.
+
+Where do the positive rays come from? Mainly from the molecules of gas
+that are still present in the tube. The high-speed electrons leaving the cathode
+can smash into these molecules, rip off electrons from them, and sometimes
+separate the atoms that paired up to make the molecules. We now have positive
+ions and more electrons. The positive ions are attracted to the negative electrode
+and many of them pass through the holes in this terminal to form the
+positive rays.
+
+Can anyone appreciate the size of these numbers? . . .
+
+Finding out the charge on the electron and the actual weight of atoms using
+Thomson's method has given us a reliable value for the enormous number of
+molecules and atoms present in a sample of matter.
+
+In a pound of uranium, for example, the numbr of atoms is about 1 million

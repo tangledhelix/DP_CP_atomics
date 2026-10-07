@@ -1,0 +1,39 @@
+two plates connected to a i-volt battery, then the electron will have gained
+1 electron volt of energy when it strikes the positive plate. If we had used
+1,000 volts on the plates, the energy of the electron would be 1,000 electron
+volts as it reaches the positive plate. The electron volt is thus a measure of the
+amount of energy possessed by the particle.
+
+In the case of an electron, an energy of i electron volt ( 1 e.v.) corresponds to
+a speed of about 360 miles per second. But since the electron volt is an energy
+unit--just as is a calorie or a kilowatt-hour--it can be used to express the
+energy of any charged particle, any uncharged particle, and even photon
+bullets of radiant energy such as x-ray photons. Here are a few signposts
+that are worth recalling whenever energy is expressed in these units.
+
+When an atom of carbon "burns" in air to give a molecule of carbon dioxide,
+the heat energy liberated for each atom of carbon burned is about 4 electron
+volts. We give this example to emphasize the fact that the energies liberated
+during ordinary chemical reactions are only a few electron volts. The energy
+necessary to rip apart a molecule into two fragments (to ionize a molecule)
+may be in the neighborhood of 30 e.v. Now compare these small values with
+the energies in processes involving the nucleus of the atom. These energies are
+so great that we have found it more convenient to use the unit million electron
+volts, abbreviated M.e.v. The splitting of the uranium atom, from which we
+obtain large-scale atomic energy, involves the liberation of 200 million electron
+volts (200 M.e.v.) per atom.
+
+These figures help us to understand why we must magnify our concepts
+by a factor of millions when we shift our gaze from the energies involved in
+ordinary chemical reactions to those concerned with the nucleus of an atom.
+That is why we shall be using M.c.v. much more frequently than e.v. In order
+to penetrate into this nucleus, we shall want to impart to our charged projectiles
+high speeds--possessing energies of the order of millions of electron
+volts. A proton approaching an atomic nucleus with an energy of 1 M.e.v.
+will more effectively penetrate the "repulsive region" close to the nucleus than
+one with an energy of only 100 e.v.
+
+The alpha particle ejected from a radium atom has a high energy, about
+7 M.c.v. The cyclotron and similar machines can be used to produce positively
+charged particles that have even greater penetrating ability. Using these
+enormous energies, we have been able to break up the nuclei of many atoms,

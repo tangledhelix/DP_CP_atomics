@@ -1,0 +1,47 @@
+being emitted--an alpha particle, an electron, or a positron? The Joliots were
+able to prove that the particle being emitted by the target was a positron. This
+was surprising, because all known naturally radioactive substances emitted
+alpha particles or high-speed electrons (beta particles).
+
+The arithmetic of this historic discovery . . .
+
+Ingenious studies by the Joliots led them to state the atomic collision in this
+way:
+
+Alpha particle + aluminum --> phosphorus + neutron
+(bullet)         (target)
+
+neutrons    2   13      15    0
+protons     2   14      15    1
+           --   --      --   --
+            4   27      30    1
+           -------      -------
+weight        31     =     31
+
+The phosphorus produced in this collision with an atomic weight of 30 is not
+stable. It breaks down in the following manner with the ejection of a positron:
+
+Phosphorus --> silicon + positron
+(parent)  (daughter)
+
+protons      15     14
+neutrons     15     16
+             __      __
+weight       30  =  30
+
+Although the details of this breakdown of unstable phosphorus are not
+yet well understood, it is helpful to consider that the proton might be able to
+split into a neutron and a positron. The positron is ejected with high velocity.
+As a result the nucleus now has a positive charge one smaller than it had
+originally. A new atom of atomic number 14, silicon, is produced. This silicon
+atom of atomic weight 30 is a stable atom found in nature. And so the nuclear
+breakdown comes to a halt.
+
+What proof could the Joliots offer in favor of this nuclear rearrangement?
+Several lines of evidence could be used. The aluminum-foil target was made
+part of the cloud chamber. During the alpha-particle bombardment, tracks of
+atoms hit by the neutrons could be identified. Positron tracks were also
+observed. But when the alpha-particle source was taken away, the traces due
+to the neutron collisions disappeared. The number of positron traces, however,
+did not disappear immediately but gradually diminished in the manner
+mentioned above.

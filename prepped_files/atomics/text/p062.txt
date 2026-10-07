@@ -1,0 +1,44 @@
+ferent one. We shall soon find evidence for many more of these transmuta
+tions.
+
+If radium is spontaneously decomposing into radon with the emission
+an alpha particle, it is clear that the radium is gradually disappearing. How
+long does this proceed? Does radium stop committing suicide in this manner
+after a fraction of the original has disappeared? Or does it decay in a continu-
+manner according to some law? If so, what is the law governing radioactive
+decay?
+
+The answers to these questions were eagerly sought. As a result of many
+experiments, they proved to be quite simple, similar to the mortality tables
+of the insurance experts.
+
+Life insurance tables for radium . . .
+
+We all know that mortality rates may vary from year to year as a result of
+plagues, famine, wars, remarkable advances in medicine, etc. Nevertheless, it
+is still possible for a life insurance firm, dealing with a very large clientele,
+to base insurance rates on a definite table and to be able to predict, within
+a reasonable safety factor, the average life expectancy for an individual in a
+definite age bracket. But the statistics governing the probable life period
+of any given radium atom are far simpler than any mortality table. True
+enough, some radioactive elements decay so rapidly that less than i per cent
+of the original quantity may be left after a few minutes; others so slowly
+that more than half may still be present after billions of years. But for
+a specific radioactive element, there is a definite number that expresses its
+chance of survival.
+
+Let us consider the case of radium. The entire mortality table for this element
+is summarized in the simple statement that 1/2,300 of any sample of
+radium will have disappeared every year, giving of! alpha particles and ending
+up as atoms of the gas radon. A very convenient way of expressing the
+survival probability is by use of the expression known as half-life, which represents
+the time required for one-half the original element present to undergo
+disintegration and form a new element. This term half-life might be compared
+with the meaning of life expectancy in insurance parlance. The life
+expectancy of a person born in the United States is about sixty-five years. This
+means that half the people born will reach the age of sixty-five. In the case of
+radium its life expectancy, or half-life, is 1,590 years. Half the atoms will have
+disintegrated in that time.
+
+Start with a sample containing 16 pounds of radium. After 1,590 years, only
+8 pounds of radium are left. After another 1,590 years, 4 pounds of radium are

@@ -1,0 +1,45 @@
+schoolboy knows that green plants take in water by the roots and carbon
+dioxide gas through the leaves and in the presence of sunlight combine these
+simple materials into life-sustaining substances. It appears that certain green
+bodies in the cells of the leaves are needed to bring about this process. Despite
+a great deal of study, the chemist does not yet understand how all this occurs,
+and he certainly has not been able to duplicate it. Of course, being able to
+solve this last problem carries with it some enticing features, including the
+ability to manufacture food material without having to grow it.
+
+Several years ago this problem was studied in the laboratory, using radioactive
+carbon in the form of carbon dioxide. The early experiments had to
+use short-lived carbon 11 with a half-life of only 21 minutes. The plants studied
+were given water and radioactive carbon dioxide and were illuminated. After
+a time, the amount of fresh carbohydrate formed was measured by finding
+out how radioactive the plant carbohydrate had become. These were only
+preliminary studies and the problem remained far from solved. Now long-lived
+carbon 14 is available for these studies. Plants can be grown using
+radioactive carbon dioxide and water containing radioactive hydrogen
+(tritium) of atomic weight 3. With the use of these perfect spies we can now
+look for great advances in this field.
+
+It is no exaggeration to estimate that literally thousands of investigators will
+cut into this puzzling problem using tagged atoms. Is it any wonder then
+that the use of tagged atoms in biology is considered as great a step forward
+as was the invention of the microscope?
+
+Stable isotopes can also be used . . .
+
+We have thus far been discussing the use of radioactive tracers. In many
+experiments we may look for the extremely important use of stable (nonradio-
+active) isotopes such as heavy hydrogen and carbon 13. There is obviously
+a limit to the amount of radioactive material that a living plant (or animal)
+can absorb with safety. But far greater quantities of stable isotopes can be
+used without affecting the normal functioning of the living organism.
+
+Thus, it will be possible to grow plants in materials containing high concentrations
+of heavy water and carbon 13. The presence of these atoms can
+also be detected but not quite as easily as with radioactive atoms. In this case
+it is necessary to take a portion of the material of the plant or animal to be
+tested and to analyze it in a mass spectrometer, which separates and measures
+the amount of isotope present.
+
+Many novel procedures can be utilized. Various combinations of stable
+isotopes can be employed in conjunction with radioactive atoms. Thus, a
+plant could be given a mixture of carbon 13, a stable variety, and carbon 14,

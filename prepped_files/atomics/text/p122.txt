@@ -1,0 +1,46 @@
+showed clearly the differences in the tracks left by speeding electrons and
+protons. The light electrons left beaded tracks that were not very heavy,
+while the more massive protons left heavier, continuous tracks.
+
+As far back as 1929, Millikan and his coworkers at the California Institute
+of Technology had begun intensive work in order to be able to measure
+cosmic-ray energies amounting to approximately 1 billion electron volts. Their
+method of attack on this problem was bold yet straightforward. High-energy
+electrified particles streaking through a cloud chamber usually show up as
+straight tracks in a photograph. We have explained earlier how a moving
+charge is deflected by a magnetic field applied to the particle. As a result, the
+particle is forced to move in a circular path. If the particle drifts into a magnetic
+field at a slow speed, then the magnetic field will have more time to act and
+will force the particle to move in a relatively small circle. If the particle speeds
+into the magnetic field with great velocity, there will be less time for it to
+curve. An extremely high speed particle will have an almost straight track.
+Thus the amount of curving of the track is a measure of the energy and speed
+of the particle.
+
+Obviously, in order to deflect a particle of tremendous energy, such as a billion
+electron volts, it is necessary to use a very powerful magnetic field. At
+the California Institute of Technology, a cloud chamber had been placed in
+an upright position and surrounded by a powerful electromagnet. The instrument
+was fitted with a camera so that the tracks of particles deflected
+magnetic fields could be photographed and studied.
+
+On an afternoon in August, 1932, Dr. Carl D. Anderson took a photograph
+of one of these tracks and developed the film. A diagram showing the appearance
+of the track is reproduced here. Offhand, it might appear to be similar
+to many others found in this book. But close study by Anderson revealed a
+highly unusual feature and led to an extremely unorthodox conclusion. There
+are few examples in modern science that so well illustrate the delights of
+scientific and unprejudiced reasoning, or more popularly, scientific sleuthing.
+Let us attempt to reconstruct some of this train of thought.
+
+A lead plate approximately 1/4 inch in thickness may be seen in cross section
+in the diagram. It was placed in the chamber in order to be able to estimate
+the losses in energy that are suffered by particles that are forced to penetrate
+it. The simplest starting assumption that we may make is that a single particle
+entered the lead plate on one side and came out the other side. This is highly
+probable, because the over-all path appears so continuous.
+
+The next question is, Which way was the particle going? Did it come from
+the right side of the chamber and then through the lead plate, or from the
+left side? A glance at the amount by which the track is curved on each side
+of the lead plate furnishes a definite answer. There would be less curving on

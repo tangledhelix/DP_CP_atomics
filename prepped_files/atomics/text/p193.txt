@@ -1,0 +1,45 @@
+
+Boosting production with temperature differences . . .
+
+It was found that even slight enrichment of U235 increased the yield
+of electromagnetic separators in a favorable manner. Thus, if an electromagnetic
+separator could produce 1 gram of 40 per cent pure U235 in one day,
+its yield would increase to twice as much (2 grams) and twice as pure (80 per
+cent instead of 40 per cent) by starting with doubly enriched uranium (14
+per cent instead of 0.7 per cent). Hence it was found profitable to use another
+isotope separation method, the thermal diffusion process, in order to obtain a
+slightly enriched sample and then to feed the latter into the electromagnetic
+separators.
+
+In an elementary form, a hot pipe or wire is run vertically down the center
+of a cylindrical container filled with a gas of the material to be separated. The
+outside of the container is kept at as low a temperature as feasible. The difference
+in temperature causes the gas to circulate about in much the same manner
+that air is heated and circulated by a radiator in a room. The lighter gases
+tend to concentrate in one portion of the container and the heavier gases in
+another part. Thus we can effect some separation of U235 from U238 in this
+way.
+
+The process takes a long time and requires a great deal of heat. In addition
+it only produces slightly enriched uranium instead of pure uranium 235. It is
+therefore not practical to use it alone. But in combination with the electromagnetic
+method it can be used to supply enriched uranium and thus multiply
+the production of U235 from this source. For that purpose a large-scale
+plant was erected in the latter part of 1944 and was operated in conjunction
+with the electromagnetic plant.
+
+Other separation methods are possible . . .
+
+Although the gas diffusion, electromagnetic, and thermal diffusion methods
+were the major processes employed in practical large-scale separation of U235
+from uranium, these are not the only conceivable methods. Others are possible.
+One of these, operating on the centrifuge principle, was carried through the
+test-plant stage but dropped in favor of the methods mentioned above.
+
+In a washing machine, clothes can be partially dried by using a centrifugal
+drier. The clothes are whirled about in a sievelike cylinder and the water is
+driven out with great force. The carnival cars shown in the illustration are
+lifted away from the central pole by the centrifugal forces arising from the
+rapid rotation. Similarly, in the cream separator, the rapid whirling causes
+the milk to be hurled out with great force. However, the heavier, watery part
+of the milk is pushed with greater force to the outside of the container. The

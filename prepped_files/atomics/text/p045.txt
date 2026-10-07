@@ -1,0 +1,44 @@
+"ether" which permeated all space. He did not know how to produce these
+electromagnetic waves of frequency less than infrared but merely offered
+them as one of the consequences of his theory.
+
+Now the hunt was on for these predicted waves. It did not take long to find
+them. Heinrich Hertz in 1887 actually produced waves of much lower frequency
+than infrared waves from a spark jumping across a gap. Moreover, he
+was able to send these waves across a distance and to detect them with a receiver.
+All of us now know the great importance of these radio waves in our
+modern civilization.
+
+Only a short time after the discovery of radio waves by Hertz, Roentgen
+discovered x-rays, which are simply high-frequency waves beyond the ultraviolet.
+
+The spectrum which now confronts us is far greater than our original red-to-violet
+visible light. In fact, if you were to represent the frequencies by octaves on
+a piano keyboard, visible light would occupy just about one octave in the middle
+of the keyboard while the other frequencies would require 60 octaves, extending
+on either side of the visible spectrum. New types of waves have been
+added to those described above. Of even higher frequency and greater penetrating
+power than the x-rays are the gamma, or radium rays, and beyond
+the gamma rays are the cosmic rays, both of which we shall describe more fully
+in later chapters.
+
+Let us imagine that we have some sort of special gadget, something like
+a magic radio set, which has the ability to pick up radiations and waves
+ranging all the way from the lowest frequency radio waves to the very highest
+frequency gamma rays. As we turn the dial the presence of the wave will be
+indicated by a buzzing sound.
+
+We start at the lowest point on the dial. There we pick up waves coming
+in from ship-to-shore radio communication. A bit farther on the dial we record
+various waves from broadcasting stations, each operating on its own frequency.
+As we turn the dial we pass from the broadcast band into the so-called short
+wave bands used by television, FM broadcasts, and amateurs. Beyond these
+frequencies we catch some signals from a near-by radar station. We begin to
+pick up signals from the furnace in the basement as we enter the infrared
+region a bit farther on the dial. A hot flatiron in the room also causes buzzing
+in our special receiver. In the daytime we also get a loud buzz from the infra-
+red rays of the sun.
+
+We turn the dial farther. A neon sign registers a buzz in the red region
+of the visible spectrum. A red traffic light does the same. As we turn the dial
+the orange, yellow, green, blue, indigo, and violet colors of near-by objects

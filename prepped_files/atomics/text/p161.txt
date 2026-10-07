@@ -1,0 +1,42 @@
+chain-reacting. For it must be remembered that all the experiments referred
+to above were carried out with small quantities of material that could not possibly
+support a chain reaction. They were so small that enough neutrons
+could simply escape from the walls to stop the chain reaction.
+
+A squash court makes history . . .
+
+In the fall of 1942, the first operating atomic-energy machine was built
+on a timber framework that rested on the floor of a squash court underneath
+the west stands of Stagg Field, at the University of Chicago. The
+pile had the general shape of a doorknob, flattened at the top. Lumps of
+uranium and uranium oxide were spaced inside the graphite. In order to
+recapture the dramatic nature of this experiment, let us recall that there
+is a critical size to a pile. Once enough layers of uranium and graphite have
+been laid on top of each other, the pile is theoretically able to start itself.
+For there are always enough neutrons in the air as a result of cosmic-ray
+bombardment from the upper atmosphere to start the chain reaction going.
+Fortunately, it is easy enough to prevent a pile of the critical size or greater
+from exploding. It was well known that certain materials, like strips of
+cadmium metal, are good neutron robbers and have the ability of absorbing
+tremendous numbers of neutrons, thus robbing the chain and stopping
+it. These strips, used as controls, were placed
+in various slots inside the pile under construction.
+
+Over 12,000 pounds of uranium metal were
+used in this construction. The layers were
+built up gradually. From time to time, the
+cadmium control strips were cautiously pulled
+out and measurements were made to see how
+far away the pile was from the critical condition.
+As long as the pile was smaller than the
+critical size, then neutrons shot into the pile
+would gradually die out, and the rate at which
+they died out was a measure of how far the
+pile was from the critical size. Finally, the
+measurements showed that the pile was practically
+at the critical size. Neutron counters,
+safety rods, and automatic control rods were
+set in place.
+
+The stage was all set for the operation of this first atomic-energy machine!
+There seems no doubt that every worker on this pile experienced a feeling

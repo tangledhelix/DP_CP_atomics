@@ -1,0 +1,365 @@
+------------------------------------------------------------------------------
+  Basic Information
+------------------------------------------------------------------------------
+* The original title, original publication date, and author(s) name. Include a
+  scan of the title page, verso page, and other pages as appropriate from the
+  original publication
+
+Title: Atomics for the millions
+
+Publication: 1947, per verso page; 21Jul47, per copyright record.
+
+Authors: Eidinoff, Maxwell Leigh, Dr.
+         Ruchlis, Hyman
+         Sendak, Maurice (illustrator)
+         Urey, Harold C. (introduction)
+
+Scan sets available (TP&V is from the first link):
+
+- https://babel.hathitrust.org/cgi/pt?id=mdp.39015001326589&seq=2
+- https://babel.hathitrust.org/cgi/pt?id=uc1.b4251595&seq=2
+- https://babel.hathitrust.org/cgi/pt?id=uc1.b3375910&seq=2
+
+TIA also has 3 scansets (better quality) but they're currently limited preview.
+- https://archive.org/details/bwb_C0-ADW-443/mode/2up
+- https://archive.org/details/atomicsformillio0000drma_v8p2
+- https://archive.org/details/atomicsformillio0000hyma/mode/2up
+
+------------------------------------------------------------------------------
+* Original copyright registration record identifier, if known
+
+A14449.
+Eidinoff, Maxwell Leigh, 1915– Atomics for the millions, by Maxwell Leigh
+Eidinoff and Hyman Ruchlis; illus. by Maurice Sendak, with an introd. by Harold
+C. Urey. New York, Whittlesey House [1947], xiv, 281p. illus. 24cm,
+© McGraw-Hill Book Co., inc., New York; 21Jul47; A14449.
+
+p. 238 of Books and Pamphlets, etc, 1947 Jan-June: Vol. 1, No. 1-2:
+
+https://archive.org/details/catalogofcopyrig311libr/page/n253/mode/2up
+
+------------------------------------------------------------------------------
+  Biographical information
+------------------------------------------------------------------------------
+* Any known variations on the author’s name, including pseudonyms. What sources
+  did you use?
+
+Hyman Ruchlis also published as "Hy Ruchlis" and "George Barrow".
+
+Eidinoff did not publish under an alias, so far as I can tell. Sometimes
+"Maxwell" is dropped.
+
+VIAF
+----
+
+- http://viaf.org/viaf/306339004 (Eidinoff)
+- http://viaf.org/viaf/76779082  (Ruchlis)
+- http://viaf.org/viaf/96213928  (Sendak)
+- http://viaf.org/viaf/67616717  (Urey)
+
+Wikipedia
+---------
+
+- https://en.wikipedia.org/wiki/Maurice_Sendak#Selected_works
+- https://en.wikipedia.org/wiki/List_of_works_by_Maurice_Sendak
+- https://en.wikipedia.org/wiki/Harold_Urey
+
+Britannica
+----------
+
+- https://www.britannica.com/biography/Harold-Urey
+
+LCNAF
+-----
+
+Eidinoff:
+- http://id.loc.gov/authorities/names/nr2005015255
+
+Ruchlis:
+- http://id.loc.gov/authorities/names/n79122097
+- http://id.loc.gov/authorities/names/n2023015894
+
+Sendak:
+- http://id.loc.gov/authorities/names/n80015694
+
+Urey:
+- http://id.loc.gov/authorities/names/n85800535
+- http://id.loc.gov/authorities/names/n2020008306
+
+------------------------------------------------------------------------------
+* Was the author (all authors) a U.S. citizen and resident at the time of
+  publication? What sources did you use?
+
+As far as I can tell, all four authors were born U.S. citizens and resided in
+the U.S. their entire lives.
+
+Eidinoff
+--------
+
+Military draft record lists birthplace as Brooklyn, NY and employer as New York
+Board of Higher Education. Occupation: Queens College chemistry prof.
+
+https://www.familysearch.org/ark:/61903/1:1:W3YN-44ZM
+
+National Register of Scientific and Technical Personnel Files lists residence as
+New York in 1954.
+
+"United States, National Register of Scientific and Technical Personnel Files,
+1954-1970", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:KLWS-Y8Q :
+Thu Apr 24 21:56:05 UTC 2025), Entry for M L Eidinoff, Oct 1954.
+
+Ruchlis
+-------
+
+Military draft record lists birthplace as Brooklyn, NY and employer as Board of
+Education, Brooklyn, NY. Occupation: high school physics teacher.
+
+https://www.familysearch.org/ark:/61903/3:1:3Q9M-C3WP-6RD3
+
+U.S. Census (1915) lists him as New York resident.
+
+https://www.familysearch.org/ark:/61903/1:1:K9JB-PC8
+
+U.S. Census (1940) lists him as New York resident.
+
+https://www.familysearch.org/ark:/61903/1:1:KQ1T-PXT
+
+National Register of Scientific and Technical Personnel Files lists New York
+residency.
+
+https://www.familysearch.org/ark:/61903/1:1:KLW9-LFK
+
+Sendak
+------
+
+Well-known author with well-known history. Born Brooklyn, NY per Wikipedia which
+cites further sources per their normal practice.
+
+https://en.wikipedia.org/wiki/Maurice_Sendak
+
+Also found profile on familysearch:
+
+https://ancestors.familysearch.org/en/LVLC-X6Y/maurice-bernard-sendak-1928-2012
+
+Urey
+----
+
+Well-documented, also on Wikipedia; born in Walkerton, IN.
+
+- https://en.wikipedia.org/wiki/Harold_Urey
+- https://www.britannica.com/biography/Harold-Urey
+- https://www.familysearch.org/en/tree/person/details/LFQZ-Y6M
+
+------------------------------------------------------------------------------
+* Author(s) birth date, and death date if deceased. What sources did you use?
+
+Eidinoff
+--------
+
+See above; used military draft record to establish birth date of 16 Feb 1915,
+Brooklyn, NY. Died 09 Mar 2004 at Nassau, New York, per SSI death index:
+
+"United States, Social Security Death Index," database, FamilySearch
+(https://familysearch.org/ark:/61903/1:1:JB41-Z6N : 11 January 2021), Maxwell L
+Eidinoff, 09 Mar 2004; citing U.S. Social Security Administration, Death Master
+File, database (Alexandria, Virginia: National Technical Information Service,
+ongoing).
+
+Ruchlis
+-------
+
+See above; used military draft record and census records to establish date of
+birth: 6 Apr 1913, Brooklyn, NY. Died 30 Jun 1992, Palm Beach, Florida, per SSI
+Death Index (citations below).
+
+"United States, Social Security Death Index," database, FamilySearch
+(https://familysearch.org/ark:/61903/1:1:JYM3-Y6X : 7 January 2021), Hyman
+Ruchlis, 30 Jun 1992; citing U.S. Social Security Administration, Death Master
+File, database (Alexandria, Virginia: National Technical Information Service,
+ongoing).
+
+"Florida, Death Index, 1877-1998", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:VVHF-5GH : Wed Feb 19 12:37:39 UTC 2025), Entry for Hyman Ruchlis, 30 Jun 1992.
+
+NY Times obituary corroborates.
+
+https://www.nytimes.com/1992/07/02/nyregion/hyman-ruchlis-writer-on-science-is-dead-at-79.html
+
+Sendak
+------
+
+Well-established figure, used Wikipedia as a source (and their citations).  Born
+10 Jun 1928, Brooklyn, NY. Died 8 May 2012, Danbury, Connecticut.
+
+https://www.findagrave.com/memorial/89764506/maurice-sendak
+
+https://www.nytimes.com/2012/05/09/books/maurice-sendak-childrens-author-dies-at-83.html
+
+Urey
+----
+
+Used Wikipedia and findagrave (also familysearch). Born 29 April 1893 in
+Walkerton, IN. Died 5 Jan 1981, La Jolla, Calif.
+
+https://en.wikipedia.org/wiki/Harold_Urey
+
+https://www.familysearch.org/en/tree/person/details/LFQZ-Y6M
+
+https://www.findagrave.com/memorial/14672677/harold-clayton-urey
+
+https://www.nytimes.com/1981/01/07/obituaries/harold-urey-scientest-dies-at-87-war-foe-s-work-led-to-h-bomb.html
+
+------------------------------------------------------------------------------
+* If the author is deceased, information about heirs or others to whom renewal
+  rights might have been assigned. What sources did you use?
+
+See my open question to copyright team email address. No author of this work
+died earlier than 1981; I have not located heirs because all authors were
+still living during the 1973-77 period a renewal would have occurred.
+
+I can do further research if it's required.
+
+Renewal research (below) did not find any renewals based on title of work or
+searching by original registration ID.
+
+------------------------------------------------------------------------------
+  Bibliographical information
+------------------------------------------------------------------------------
+
+* Provide any alternate titles or subtitles.
+
+Found no indication of alternate title/subtitle.
+
+------------------------------------------------------------------------------
+* Was this a serialized item (that is, was it published in parts, such as in a
+  magazine)? If so, provide details on when the other serial parts appeared.
+
+Found no indication the work was ever serialized.
+
+------------------------------------------------------------------------------
+* Was the item republished (reprinted, re-released, etc.)? If so, provide
+  bibliographic citations and other details on known republications.
+
+Other than reprintings in 1947 (at least 3), found no indication the work was
+ever republished.
+
+A French translation was published in Paris in 1948.
+
+------------------------------------------------------------------------------
+* If the item was republished, how closely do the republications match the
+  original? Look at the first page of each chapter or section, noting all
+  differences. Look for passages that are present in one version, but absent in
+  another. Report these differences.
+
+N/A
+
+------------------------------------------------------------------------------
+* If the item was republished, provide any alternate titles or subtitles.
+
+N/A
+
+------------------------------------------------------------------------------
+  Renewal research
+------------------------------------------------------------------------------
+* Search for renewal records for all variations of the title, subtitle, and
+  author(s), including for any known republications (even if they were published
+  more than 4 years after the originals). See below for some of the eligible
+  renewal resources. Report all records found, and the source you obtained them
+  from.
+
+The original copyright registration (A14449) is above in the first section.
+
+Searched in NYPL cce-renewals data for A14449 to find associated renewals;
+no matches.
+
+Reviewed CCE indices for title and all author names for years 1973-1977,
+inclusive. In addition to the volumes related to books, also reviewed artwork
+renewals, due to illustrator credit.
+
+1973
+----
+
+Found several new registrations by Sendak; no renewals by any author, nor
+matching the book title.
+
+  Sendak, Maurice, A468727. A478990. A489767 - A489772. BB43616.
+  - A468727. King Grisley Beard; a tale from the Brothers Grimm
+  - A478990. Animal stories
+  - A489767 - A489772. The Juniper tree and other tales from Grimm
+  - BB43616. King Grisly Beard; a tale from the Brothers Grimm.
+
+1974
+----
+
+Found a few new registrations; no renewals.
+
+  Ruchlis, Hy. A552381 - A552382. (p. 3906)
+  - A552381 - A552382. How a rock came to be in a fence on a road near a town
+
+  Sendak, Maurice. A547040. A568400. (p. 3946)
+  - A547040. The Maxfield Parrish poster book.
+  - A568400. The Biology of predator control.
+
+1975
+----
+
+Found a few new registrations; no renewals.
+
+  Ruchlis, Hyman. A645602
+  - A645602. Reality-centered learning. By Hyman Ruchlis & Belle Sharefkin.
+    (p. 2851)
+
+  Sendak, Maurice. A668464.
+  - A668464. The Publishing archive of Lothar Meggendorfer; original drawings,
+    hand-colored lithographs and production files for his children's book
+    illustrations. With an appreciation by Maurice Sendak. (p. 1933)
+
+  Urey, Harold C. AFO-82014. AI-15204. (p. 1357)
+  - AFO-82014. The Moon. Vol.12, no.4, Apr. 1975. Appl. au: C. Meyer & D.
+    Reidel Publishing Company, employer for hire of editing.
+  - AI-15204. The Moon. Vol.12, no.4, Apr. 1975. Appl. au: William L. Raine &
+    Manfred E. Segewitz.
+
+1976
+----
+
+Found a few new registrations; no renewals.
+
+  Sendak, Maurice. A710628. A756647. A756648. A781366. A800202. A800206.
+  A800209. A800210.
+  - A710628. Carole King: Really Rosie
+  - A756647. Some swell pup; or, Are you sure you want a dog?
+  - A756648. Some swell pup; or, Are you sure you want a dog?
+  - A781366. Maurice Sendak’s Really Rosie, starring the Nutshell kids.
+  - A800202. One was Johnny. No. 221.
+  - A800206. Pierre. No. 220.
+  - A800209. Chicken soup with rice. No. 223.
+  - A800210. Alligators all around. No. 222.
+
+1977
+----
+
+Found a few new registrations; no renewals.
+
+  Sendak, Maurice: A856834. A889149. GP122671.
+  - A856834. Seven little monsters.
+  - A889149. The Disney poster book. Introd. by Maurice Sendak.
+  - GP122671. Kenny’s window. Rooster with 4 legs on sill with rooftops in
+    background.
+
+------------------------------------------------------------------------------
+* If part of a serial, include a search for renewal records for the serial
+  issues from four years before and after publication of any serial part of the
+  work.
+
+N/A
+
+------------------------------------------------------------------------------
+* If part of a compilation or other collected work, include a search for renewal
+  records for the collection. Search under the collection editor name(s), as
+  well as the collection title and any variations.- If any renewals have
+  limitations (notably, limitations that the copyright applies to the
+  compilation or serial or editorial matter, not the work or works they
+  include), provide details. For all renewal research, list the specific
+  resources utilized.
+
+N/A

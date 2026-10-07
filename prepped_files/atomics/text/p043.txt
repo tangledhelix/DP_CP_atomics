@@ -1,0 +1,36 @@
+
+By the middle of the nineteenth century, Newton's corpuscular theory had
+been discarded in favor of the wave theory, which explained satisfactorily
+most observations in the field of light up to that time.
+
+LOW
+
+FREQUENCY
+
+HIGH FREQUENCY
+
+Fingerprinting the elements . . .
+
+At about this time a most important use for the spectrum was developed--one
+that was to play an important part in the search for the secrets of the atom.
+It had been noted that the breaking up of white light into its colors in the
+spectrum could be used to analyze the colors of objects. Thus a purple light
+passed through a prism would separate into red and blue, with dark
+spaces for the other colors which do not exist to any extent in purple. It was
+soon observed that when various elements were placed in flames they gave
+off characteristic colors, which could then be analyzed by passing the color
+through a glass prism. Thus, it was found that compounds containing sodium
+always gave a yellow color in a flame. When analyzed with a prism, the light
+from sodium appeared mainly as two distinct lines in the yellow portion of
+the spectrum. Later, with the development of the Geissler tube, it was found
+that when different gases or vapors were placed in the tube and an electric
+spark sent through, each element gave a characteristic spectrum consisting of
+bright lines of color.
+
+These spectra of the elements could now be used as the fingerprints of the
+atoms. If an unknown material is placed in a spark or in a Geissler tube, it
+will give distinct colors in its spectrum that will differ from the colors given
+off by all other materials. Thus, neon gives colors that are predominantly red
+as observed in neon signs. Mercury gives off mainly blue and violet colors that
+the photographer finds very useful for exposing his film. The light from each
+glowing material, analyzed by passing it through a prism of glass and pro-

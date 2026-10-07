@@ -1,0 +1,45 @@
+2 electrons. And its speed ranged up to 20,000 miles per second--last enough
+to encircle the earth in slightly more than 1 second. The "alphas" could be
+easily identified from the cloud tracks by the fact that their paths were usually
+heavy straight lines, ending sharply, frequently with abrupt deflections.
+
+The alpha particles usually end their charged existence by acquiring electrons
+from the air around them to become helium atoms. The presence of
+helium formed in this way can be detected by that sensitive tool of the
+physicist, the spectroscope. In other words, the alpha particle is simply a
+helium atom which has lost 2 electrons and is therefore charged positively
+(++).
+
+It was also found that these alpha particles are very efficient ionizers. When
+traveling through air like a "cannon ball through a wheat field" they rip off
+electrons from large numbers of atoms, giving rise to tens of thousands of
+electrically charged atoms or ions along their path, thus leaving very heavy
+cloud tracks. However, at each collision some speed is lost, until the alpha
+particle finally comes to rest after traversing about 1 inch in air. The tracks
+left by these alpha particles from radium are all approximately equal in
+length, indicating that they have a uniform amount of energy as they come
+shooting out.
+
+Other radioactive materials have different ranges, or distances traversed in
+air. The alphas from radium C, one of the elements "descended" from radium,
+can travel almost 3 inches in air, with each "bullet" creating about 220,000
+pairs of ions from air molecules. Most alpha particles, however, are easily
+stopped by a sheet of paper, where the molecules are much closer together
+than in air.
+
+High-speed electrons, beta particles, also found . . .
+
+A portion of the radiations consists of negatively charged particles shot out
+with speeds as high as 160,000 miles per second (almost equal to the velocity
+of light). These are called beta particles. Experiments using Thomson's
+methods of applying electric and magnetic fields in deflection studies soon
+showed that these particles had a negative charge and a mass approximately
+1/1,850 that of the hydrogen atom. In other words, beta particles are electrons.
+Because they have a smaller mass, they are more readily deflected than alpha
+particles, and as a result their paths are more zigzag in nature. Since they
+suffer fewer collisions per inch, they can travel a much greater distance before
+being stopped.
+
+Compare an alpha and beta particle having the same energy at the start.
+Most alphas can only move a distance of about 7/10 inch in air, while the beta
+can travel 42 feet. Some betas will pass through a sheet of aluminum 1/25 inch

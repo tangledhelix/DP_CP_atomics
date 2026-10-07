@@ -1,0 +1,46 @@
+occupy at normal pressure several thousand times as much space as the original
+compact material of the explosive.
+
+The pressure thus built up inside the shell practically instantaneously pushes
+outward in all directions with enormous force. It bursts the container, which
+flies outward, and pushes the air at great speed. This causes the terrific blast
+effect of modern explosives.
+
+Now one might imagine that TNT and nitroglycerin, being such violent
+explosives, would have much more energy in them than such common fuels as
+gasoline and coal. Actually, TNT produces one-third as much heat as gasoline,
+pound for pound, and only about one-half as much as coal. Nitroglycerin has
+even less heat energy than TNT (about half as much). The main difference
+in explosive power between the TNT and coal is in the rapidity with which
+the chemical change takes place. A pound of coal, burning over a long period
+of time, produces more heat. But the gases and the heat are spread out over
+such a long time that there is no high pressure or explosive effect. Of course
+the amount of energy produced is a factor in the explosion.
+
+Thus, the two significant features in any bomb must be the liberation of a
+large amount of energy and the very rapid rate at which this energy is produced.
+But while the high explosives mentioned above derive their energy
+from ordinary chemical reactions, atomic bombs involve the transmutation of
+elements and the liberation of enormous energies derived from the annihilation
+of matter.
+
+Our discussion of the chain-reacting piles using ordinary uranium and
+graphite has indicated the source of the energy that is liberated. In a chain-reacting
+pile, the multiplication factor is maintained at exactly 1. In other
+words, 100 uranium atoms that are undergoing fission give rise to just enough
+neutrons to cause fissions in exactly 100 other uranium atoms. When this
+growth factor is allowed to be more than 1, then the chain reaction builds up
+very rapidly until enormous numbers of atoms are undergoing fission and
+liberating energy.
+
+However, even after the uranium pile was successfully operated as early as
+1942, the possibility of creating an atomic bomb was still in doufrt. One important
+question hinged on the rapidity with which the process could take
+place. If the release of energy was too slow, or if the bomb flew apart before a
+sufficient portion of the energy had been released, then it would hardly have
+been worth all the time and money spent on it (from the point of view of the
+military considerations of the moment).
+
+Many problems beset the men primarily responsible for the construction of
+an atomic bomb. Early calculations had shown that energy equivalent to the
+explosion of 20,000 tons of TNT would be available if all the atoms in about

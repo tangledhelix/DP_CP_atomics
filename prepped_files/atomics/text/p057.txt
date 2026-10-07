@@ -1,0 +1,51 @@
+correspond to the most penetrating x-rays. In seeking clues to the answers
+to these and other questions, the nature of the radiations gradually became
+clear.
+
+But first it was necessary to devise ways and means of detecting and measuring
+this new radiation. Devices of the utmost ingenuity were invented to
+enable the scientist to see the paths of individual particles and to count them as
+they shot out of the radioactive atoms.
+
+One of the most important devices developed for this study was the cloud
+chamber invented by C. T. R. Wilson, a British scientist, which actually enabled
+us to see the path of a single particle shooting out of the radium. The
+instrument is exceedingly simple and makes use of the principles of rain formation
+in the air.
+
+SIMPLE CLOUD CHAMBER
+
+WATER
+
+RUBBER
+BULB
+
+Ordinarily, rain droplets form in air whenever it cools below a certain
+temperature called the dew point.
+For example, water droplets (or
+dew) form on the outside of a
+pitcher of ice water on a hot summer
+day because the water vapor
+in the humid air is cooled below the
+dew point and condenses on the
+cold pitcher. If a closed tank of
+water with an air space above it is
+permitted to stand for a time, the
+air in the space above the water becomes
+saturated (full of water
+vapor). A very slight cooling
+should be sufficient to cause some
+of the water vapor to condense.
+However, it has been observed that
+one more condition is necessary for
+the formation of water droplets in
+air. Dust particles or electrically
+charged air particles must be present to act as centers of formation for the
+droplets.
+
+The Wilson cloud-chamber apparatus for revealing the track of the particles
+emitted by the radium consists of a closed chamber of water and an air space
+at the top containing the radioactive substance. A rubber bulb operated by
+hand enables the experimenter to exert pressure on the air in the chamber by
+squeezing the bulb. When the pressure is released the sudden expansion of
+the air causes it to cool (expansion is a cooling process) and some of the

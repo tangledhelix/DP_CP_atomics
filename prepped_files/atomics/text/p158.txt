@@ -1,0 +1,40 @@
+
+The method which actually worked successfully goes back to a fact which
+was closely associated with the discovery of the neutron itself. You will
+recall that paraffin placed in the path of the mysterious neutron "radiation"
+stopped it more effectively than lead and other heavy metals. It was this
+property of the light atoms of carbon and hydrogen in the paraffin which
+was the key to Chadwick's discovery of the neutron.
+
+A neutron striking a heavy atom such as lead will bounce off with little
+change in speed, in much the same manner that a rubber ball bounces off a
+heavy wall. But, if the neutron were to strike head on with a hydrogen
+nucleus of equal weight, it would lose all its speed. At the same time it
+would impart its original speed to the hydrogen nucleus. Hydrogen would
+be the most effective material for this purpose of slowing down neutrons
+because its atoms have practically the same weight as neutrons. However,
+it has the unfortunate property of capturing too many neutrons and thus
+stopping the chain! Therefore, it could not be used for this purpose.
+
+NEUTRON "SLOW DOWNERS" (MODERATORS)
+
+FLESH
+PARAFFIN
+WATER
+GRAPHITE
+CLOTH
+PAPER
+WOOD
+
+A compromise was necessary. We must use an atom of the lowest possible
+weight which at the same time will not be a neutron robber. Such a lightweight
+atom might be called a "slow-downer." More commonly, it is referred
+to as a moderator.
+
+Since ordinary hydrogen is unsuitable as a moderator, it was found necessary
+to go up the weight scale until a light atom with negligible neutron-capture
+properties was found. The next possibility is the heavy hydrogen isotope
+deuterium, of atomic weight 2. This atom is excellent for the purpose;
+it captures a negligible number of neutrons. Going up the weight scale, we
+find beryllium of weight 9 and carbon of weight 12 with low neutron-robbing
+properties and therefore suitable for use in maintaining a chain reaction. Pure

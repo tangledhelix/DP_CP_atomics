@@ -1,0 +1,49 @@
+search, and many other purposes. Undoubtedly these questions were raised
+by many explorers in the field of atomic physics. Numerous transmutations
+had already been produced in the laboratory in 1932 and 1933 by bombarding
+atoms with high-speed particles. It seemed reasonable that at some point along
+the way newly produced atoms, not found in nature, would be unstable and
+emit radiations.
+
+Historic discovery in Trance . . .
+
+In 1934, this expectation was realized as a result of a most important discovery
+in the field of atomic exploration by M. and Mme Joliot in France.
+These brilliant investigators had previously
+been very close to two other epochal finds
+the neutron and the positron. Credit for
+the discovery of the latter particles went,
+however, to Chadwick of Great Britain and
+Anderson of the United States. This time,
+the glory of discovering artificial radioactivity
+was well earned by the French team,
+who received the Nobel prize in chemistry
+in 1934.
+
+--BEFORE--
+ALUMINIUM
+ALPHAS
+
+--AFTER--
+
+The Joliots were bombarding an aluminum
+target with alpha particles from a
+polonium source. (Polonium was isolated
+Marie Curie, the mother of Mme
+Joliot.) As in the case of the bombardment
+of other light elements such as beryllium
+with alpha particles, neutrons were found
+emanating from the aluminum during the
+bombardment. However, a surprising observation
+was made when the aluminum
+target was placed in front of a Geiger
+counter after the alpha bombardment had
+stopped. Radiations were still being given
+off by the target. The intensity of these radiations
+became smaller as time elapsed.
+
+When these data were analyzed, it was
+observed that the radiation decayed in exactly the same manner as did the
+radiations from naturally radioactive substances. The intensity died off fairly
+rapidly. The half-life of the radiation was about 3 minutes (the intensity
+decreased to one-half its value in this time). What kind of particle was

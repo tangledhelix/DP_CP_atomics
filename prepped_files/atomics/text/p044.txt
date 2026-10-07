@@ -1,0 +1,43 @@
+ducing a spectrum, can be used as the fingerprints of the clement. In this
+spectrum each element present in a material will show its characteristic colors
+(or lines) and can be identified with certainty. The amounts of each element
+present in the material can be estimated from the brightness of the lines. Minute
+amounts of material, far too small to be detected by the chemist, can be discovered
+from the fingerprint lines which they produce in the spectrum.
+
+The spectroscope, an instrument designed for this purpose of analyzing
+spectra, is today one of the most valuable tools of many sciences. To the chemist
+it provides an extremely sensitive method of detecting the presence of minute
+quantities of all elements. Spectacular use of this instrument has been made
+in criminology for tracing the origin of materials, such as scrapings from
+shoes and fingernails. To the astronomer this instrument is as important as
+a ruler to a mechanic. With it he analyzes the chemical constituents in the sun
+and stars, classifies star types, estimates star brightness and temperature, and
+deduces distances. He can even tell whether a star is approaching us or receding
+from us, and he can measure the speed with which this is taking
+place.
+
+This spectroscope has been invaluable to the atomic scientist in a number
+of ways. It has enabled him to detect the presence of minute amounts of various
+substances in his search for the secrets of atomic changes. And it has also
+provided important clues upon which modern theories of atoms are based.
+In a subsequent chapter we shall see how the spectrum of hydrogen provided
+a basis upon which Niels Bohr created a useful model of the motions that
+take place within atoms. It also provided basic information leading to the
+discovery of "heavy water."
+
+In 1800 Sir William Herschel, experimenting with the heating effects produced
+by light, tried placing a thermometer in the dark region of the spectrum
+near the red light. He found that the temperature rose. This pointed to the
+existence of waves near the red end of the spectrum which were invisible to
+the eye. These waves are known to us as infrared, or heat rays. When photographs
+were made of the spectrum it was found that there was a considerable
+amount of invisible light beyond the violet. Today we refer to these waves as
+ultraviolet.
+
+Enlarging the spectrum--radio waves and x-rays . . .
+
+About the middle of the nineteenth century James Clerk Maxwell speculated
+about the possible existence of waves of frequencies lower than the
+infrared. He pictured all light waves as "electromagnetic" in nature, and consisting
+of some sort of electric and magnetic disturbance in an imaginary

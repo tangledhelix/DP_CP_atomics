@@ -1,0 +1,20 @@
+of carrier elements. They tried barium (atomic number 56) as a carrier. Some
+active materials resulting from irradiated uranium were carried along with
+the barium. The barium-carried atoms gave rise to daughter elements that
+were carried along by lanthanum (element number 57). The simplest conclusion
+would have been to identify these products as barium and lanthanum.
+But these elements were 36 and 35 atomic numbers removed from uranium 1
+All the experience of scientists in the field of nuclear physics led them to
+expect products close to uranium. Consequently, they felt forced to look
+for elements close to uranium that resembled barium and lanthanum in
+chemical properties.
+
+ATOMIC ROGUES GALLERY
+
+A study of the family relations among elements led them to the guess that
+the barium-like product was radium, element 88, and that the lanthanum-like
+product was actinium, number 89. They reasoned that radium was formed
+by neutron bombardment of uranium. Then radium would emit a beta particle
+and would produce an atom of actinium, next higher element in the chemists'
+rogues' gallery. But this picture did not appear satisfactory to many physicists.
+It seemed unlikely to them that uranium would break down on neutron

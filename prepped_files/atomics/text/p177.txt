@@ -1,0 +1,43 @@
+
+Concentrating heavy water by means of electric energy . . .
+
+It would appear to be a very difficult task indeed to separate this minute
+amount of deuterium from ordinary water. Isotopes resemble each other so
+closely that separation is always a tedious task. But in 1932 and 1933 the surprising
+fact came to light that electricity could be harnessed to accomplish
+this task. Water is, of course, a very stable chemical substance. It can be
+heated to 1,000° F without suffering any appreciable decomposition to form its
+constituent elements, hydrogen and oxygen. However, when wires are connected
+to the terminals of a storage battery or other source of direct current
+and inserted into a dilute solution of a salt (or an acidic or caustic material),
+water is readily decomposed into hydrogen and oxygen gas in the process
+known as electrolysis, as described in Chapter Three. A large variety of commercial
+electrolysis cells for the production of hydrogen and oxygen from
+water have been used in the chemical industry for many years. It has been
+the customary practice to use water solutions of caustic soda (lye) in these
+cells.
+
+In 1932, Urey and Washburn made the discovery that samples of water
+obtained from the solutions used in these cells were richer in deuterium than
+samples of ordinary water. The lighter hydrogen molecules are liberated more
+rapidly at the negative terminal than the heavier deuterium molecules. The
+net result is that deuterium tends to remain behind and concentrate in the cell
+solution. Gilbert N. Lewis of the University of California, together with other
+chemists, showed in 1933 that the continued electrolysis of water would leave
+a residual liquid that is practically pure heavy water (D2O).
+
+Soon many laboratories in this country and elsewhere began to prepare small
+quantities of heavy water, ranging from a few drops to a fraction of a quart.
+The process is tedious, inasmuch as the electrolysis of 1,000 quarts of water
+is necessary to produce just a few spoonfuls of almost pure heavy water. To
+accomplish this electrolysis requires electric energy equivalent to operating
+a 120-watt bulb for about 400 years. At 3 cents a kilowatt-hour, this amount
+of electric energy would cost about $13,000, so you can easily sec how fast the
+cost runs up.
+
+For this reason, the economical manufacture of heavy water by electrolysis
+could be carried out only in regions of very cheap and plentiful electric
+power. The hydroelectric stations in Norway were found to be ideally suited
+for this purpose. By 1940 several hundred quarts of heavy water had been
+made, principally in these Norwegian plants. The total supply in the United
+States at that time was only a few quarts.

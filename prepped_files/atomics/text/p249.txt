@@ -1,0 +1,44 @@
+ments outside the material being investigated. This fortunate situation arises
+from the penetrating nature of the radiation given off by certain radioactive
+atoms. Thus, radioactive atoms deep within a human body can be detected
+and tracked with no injury or discomfort to the subject. This method makes
+it possible to undertake investigations of the changes in chemicals in the body,
+or in an industrial process, in a way that is not possible by any other known
+means.
+
+Furthermore, investigations can be made of the changes that take place
+over a period of time. Not only can we tell what the total effect of the introduction
+of certain chemicals is, but we can also watch the rate at which the changes
+take place, how the material is taken in or let out at various points under
+investigation. All this while the radioactive atoms "radio" their presence to
+the outside, and we can estimate the amount of substance present by the
+strength of the signal sent out.
+
+Radioactive phosphorus as an example of tagging . . .
+
+It has been known for quite some time that phosphorus plays an important
+role in the growth of living things. Yet many vital details about the action
+of phosphorus have been completely lacking. What happens to the phosphorus
+when it is taken into the body? Where does it go? How rapidly? Suppose
+that we try to answer these questions by feeding some ordinary phosphorus
+in suitable form to an animal. After several hours, we can kill the animal and
+test for phosphorus in certain bones. We will of course get a test for phosphorus,
+but we cannot tell whether the test came from the phosphorus that was fed
+to the animal that day--or the previous month. After all, phosphorus normally
+makes up part of the bone structure.
+
+It is here that tagging the phosphorus atom enters the scene. Radioactive
+phosphorus 32, with a half-life of about 14 days, can be made by bombarding
+sulfur with neutrons from a pile. We can then add a speck of this phosphorus
+to some food consumed by an animal or a human being. Thereafter, these
+radioactive atoms will serve as excellent spies. They will travel wherever the
+stable phosphorus goes throughout the body. Yet their presence can be detected
+easily by using the Geiger counter or the electroscope. Perhaps after a
+few hours the animal is killed. Radioactive phosphorus is found in the blood
+and liver. But if the animal is allowed to live several days after eating the
+"spy" sample, it is found that radioactive phosphorus is present mainly in
+the bones. Information such as this can furnish vital clues as to the part
+played by this element in the functioning of the body.
+
+Now we might wish to know the ultimate destination of the phosphorus in
+the body tissues. Here a very clever technique can be used--one that is made

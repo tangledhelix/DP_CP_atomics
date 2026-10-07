@@ -1,0 +1,45 @@
+Thomson's swerving tests were applied, the current was found to be due to
+the passage of the same electrons found in cathode rays and evaporating from
+hot wires.
+
+Today, this ejection of electrons from certain metals by means of light is the
+basis of a number of electronic devices such as the electric exposure meter, the
+television camera, and the "electric eye."
+
+The fact that these very same electrons could be obtained in a variety
+ways and from a variety of metallic materials indicated that they existed at
+all times in these materials. In other words, these electrons were closely connected
+in some way with the nature of matter itself.
+
+Was there a unit package of electric charge? . . .
+
+By this time, it was strongly suspected that the electron represented a unit
+package of electric charge. Several types of measurements had been made
+which indicated that the electron had a definite amount of charge. But was this
+the least electrical charge that could ever be found? In 1909, the American
+physicist Millikan set about to find an answer to this question. His success was
+acknowledged by the award of a Nobel prize based on this work.
+
+The reasoning behind his clever experiments can be illustrated by this crude
+analogy: Suppose thousands of tiny balls are being dragged up a hill by a
+colony of ants. Unfortunately, these ants are invisible and it is therefore necessary
+for you to take measurements of the speeds and to estimate the weights
+of the balls. From these measurements you are able to calculate how much
+lifting power is being applied. You then take a great many observations and
+calculate this lifting power. To your surprise you discover that there is a certain
+small unit of lifting power in some cases. In other cases there is twice
+as much lifting power--three times as much--or four, five, and other exact
+whole numbers. But you never find a single instance where there is 1-1/2, 2-1/4,
+or any other fractional lifting power. Your conclusion is clear. The lifting
+power must come in a small unit or package of one ant. You can have two
+ants, three ants, or any other number of ants pulling the ball. But you cannot
+have 1-1/2 or 2-1/4 ants pulling the ball up the hill.
+
+Millikan used oil droplets . . .
+
+In place of balls being dragged up a hill, Millikan used very fine droplets of
+oil, which normally would fall slowly. The "ants" were electric charges which
+could be placed on the oil droplets. Now put these droplets between a positive
+and negative plate and the negative charges become attracted to the positive
+plate. Since the charges are attached to the oil drops, the charges "drag" the
+oil droplets. Millikan observed many thousands of oil droplets moving to one

@@ -1,0 +1,49 @@
+
+The hunch turned out to be correct . . .
+
+In order to test this idea, liquid hydrogen was allowed to evaporate until
+about 4 quarts were reduced to about 20 drops of residue. Using this small
+sample, the faint lines next to the main hydrogen lines in the spectrum were
+found to be much more intense than in a sample of ordinary hydrogen.
+Furthermore, the differences between the lines of light hydrogen and its
+suspected heavy isotope checked well with the calculations they had made. As
+a result of this pioneering achievement, H. C. Urey was awarded the Nobel
+prize in 1934.
+
+The discovery of heavy hydrogen led to many exciting developments.
+Although merely a research tool at the time of its discovery, heavy hydrogen
+was a decade later to play a dramatic role in the quest for large-scale atomic
+energy. This interesting aspect of atomic adventures is described in a later
+chapter. Now to return to the interest of the physicist in the deuteron.
+
+Another high-energy projectile for the cyclotron . . .
+
+In order to obtain high-speed deuterons for atom-smashing work, the deuterium
+(heavy hydrogen) gas is introduced into the cyclotron in the same
+manner as ordinary hydrogen and ionized to form deuterons. The particles
+have a charge of +1 and therefore can be speeded up in the same manner
+as other charged particles.
+
+Smashing by deuteron artillery is not as efficient as neutron bombardment.
+A deuteron heading toward an atomic nucleus is repelled strongly by the
+positive charge on the latter in the same manner as a proton is repelled. Probably
+about one deuteron in a million is effective in producing transmutations,
+while most neutrons end up by taking part in some nuclear change. Nevertheless,
+high-energy deuterons have become the most useful projectile in cyclotron
+work. They are especially valuable because certain collisions using deuterons
+will produce neutrons having energies up to about 20 M.e.v. These high
+neutron energies are very difficult to attain by other means.
+
+We may practice our atomic bookkeeping on a nuclear collision which has
+found very frequent use in the cyclotron laboratory. When deuterons, speeded
+up to energies of 5 M.e.v., strike a target of beryllium, neutrons are produced
+that range in energy up to about 9 M.e.v.:
+
+Deuteron + beryllium --> boron + neutron
+
+protons   1    4    5    0
+neutrons  1    5    5    1
+         --   --   --   --
+          2    9   10    1
+          ------   -------
+weight      11   =    11

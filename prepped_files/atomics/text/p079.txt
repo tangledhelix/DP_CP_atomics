@@ -1,0 +1,45 @@
+these repulsive forces to collide with the nucleus, charged atomic projectiles
+must have exceedingly high speeds.
+
+If nothing else were available, we could use the high-speed particles shot
+out of radioactive materials, but this is a very meager source. As a result, the
+laboratory worker has invented machines in which charged particles can be
+speeded up to many thousands of miles per second. These machines are frequently
+referred to as atom smashers. In this group are included the cyclotron,
+the electrostatic generator, and the betatron. Additional ingenious machines
+invented very recently include the linear accelerator and the synchrotron.
+
+Measuring projectile energies--the electron volt . . .
+
+How shall we express the energies of these projectile particles? It would
+be nice to use a practical unit, such as calories or kilowatt-hours. But the current
+newspaper headlines dealing with atomic discoveries have practically
+forced our decision. A news item will report the successful production of "a
+twenty million volt proton," a "one hundred million volt electron" and will say
+that "the splitting of the uranium atom sets free particles of one hundred
+million volts." If the reports say this, then they are of course speaking loosely,
+for they must mean "twenty million electron volt protons," "a one hundred
+million electron volt electron," etc. What, then, is an electron volt?
+
+The volt is a familiar enough word to all of us. We speak of the no volts
+used in our homes. Or we may have occasion to refer to the 6 volts supplied
+by a storage battery, or to the 2,000-volt electric chair. The general idea behind
+all these numbers is that the higher the voltage, the greater the strength of the
+electric current produced by it, other things being equal. All of us know that
+high voltage will give a greater shock than low voltage under similar conditions.
+This idea of voltage is rather approximate but with slight modification
+will serve for our purpose.
+
+A charged particle "falling through" a voltage applied between two plates
+resembles a stone falling under the force of gravity. In each case, the charged
+particle or the stone is being speeded up by the application of attractive forces.
+If a higher voltage is used it is equivalent to placing a stronger positive and
+negative charge on the plates, and the force of attraction will be increased.
+The charged particle will therefore move across the tube faster and gather up
+more energy as it strikes the plate. Thus the objective in atom smashers is
+to place as high a voltage as possible into the machine so as to get the maximum
+push (or pull) on the electric particles and thereby give them the greatest
+possible speed and energy.
+
+Actually the volt measures the energy per unit of electric charge. If we
+take an electron which has a certain amount of charge and let it fall between

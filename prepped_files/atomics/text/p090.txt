@@ -1,0 +1,43 @@
+peared to be a relatively small number of fundamental building blocks, or
+elements. The smallest unit of each element is the atom. The atoms of different
+elements are all different. When the atoms of elements combine, molecules
+are formed. In separating atoms from each other and inducing them to
+form new partnerships, the chemist frequently must supply a certain amount
+of energy. It is a familiar fact that a piece of coal is perfectly stable at ordinary
+temperatures when in contact with the atmosphere. In order to bring about
+the chemical reaction
+
+Carbon -J- oxygen --> carbon dioxide + heat energy
+
+C    O2     CO2
+
+it is first necessary to heat the coal to a sufficiently high temperature. This
+ordinary burning of coal is, of course, not a transmutation of elements. Every
+carbon atom picks up two partner oxygen atoms, and the resulting product is a
+molecule of carbon dioxide. Sometimes the tendency of atoms to combine
+together to form molecules is so great that no outside heat need be supplied,
+as in the case of the spontaneous combustion of white phosphorus in air.
+Occasionally the chemist may use electric energy (supplied from a lead storage
+battery, a dry cell, etc.) in order to pull molecules apart into the component
+elements. This is called electrolysis. An example would be the electrolysis of
+water to produce hydrogen and oxygen--a large-scale commercial process.
+
+The chemist has attempted to obtain high temperatures in the laboratory
+in order to effect many chemical reactions. He has progressively developed
+heaters or torches that yield higher and higher temperatures. The match,
+the candle, the alcohol lamp, the Bunsen gas burner, the plumber's blowtorch,
+the oxyhydrogen torch, the atomic hydrogen torch, the electric furnace--all
+tended to increase the heat-producing power of the laboratory chemist. Still,
+with all these heat producers, he could succeed only in changing the groupings
+and arrangements of atoms, but not the atoms themselves. With these devices,
+he could obtain temperatures of several thousand degrees--still far too low
+for exciting the particles inside the nucleus.
+
+Radium furnished the clue . . .
+
+Dalton's assumption early in the nineteenth century that the atoms of different
+elements could not be broken up to form other elements explained the
+facts known at that time. But this situation was changed when the remarkable
+behavior of radium was discovered toward the end of the last century. In
+fact, it was a sobering experience for the chemist and physicist, who recognized
+that the emission of particles from atoms such as radium accompanied the

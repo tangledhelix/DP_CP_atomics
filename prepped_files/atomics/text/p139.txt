@@ -1,0 +1,37 @@
+to any of the known 92 elements, then they must be elements of higher atomic
+number, beyond uranium!
+
+Fermi thus proceeded to bombard a sample of uranium with neutrons. The
+specimen became radioactive, as expected. In fact a number of different kinds
+of atoms having relatively short half-lives (of the order of minutes) were
+found. What elements were they?
+
+GOLD FROM PLATINUM
+
+GOLD
+NEUTRON --> PLATINUM = PLATINUM
+78+ 78+
+ELECTRON
+
+Atomic "tracer" methods are used . . .
+
+A special "tracer" technique was used in the solution of this problem. The
+chemical behavior of an atom depends upon the charge on the nucleus, or the
+atomic number. If an atom is unstable (radioactive) this will in no way affect
+the ordinary chemical behavior of the atom. The chemist can perform his
+analysis on a material with full confidence that all radioactive isotopes of any
+element will act like other atoms of the same element and will be carried
+along with them in all ordinary chemical and physical processes that he may
+apply.
+
+Thus, let us suppose that we suspect the presence of a radioactive isotope
+of lead (atomic number 82) in the uranium that was bombarded with neutrons.
+We cannot test this material directly for lead because the number of
+atoms involved is far too small to be detected by ordinary methods. We therefore
+add some ordinary lead to the uranium and then apply well-known
+chemical procedures to remove it. If any radioactive atoms of lead are present
+they will trail along with the added lead through all the chemical steps
+applied. If the final lead product contains the radioactivity, as indicated by a
+Gciger counter or other instrument, then it is clear that some of the radioactivity
+originally present in the uranium was due to lead atoms. On the other
+hand, if the final lead product does not contain any of the original radioactivity,

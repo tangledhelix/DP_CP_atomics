@@ -1,0 +1,42 @@
+2 pounds of uranium 235 could be made to split apart and undergo fission.
+But this might be an overoptimistic estimate. The chain reaction itself might
+produce enough energy to scatter the bomb material completely before most
+of it had time to "fiss." What per cent of the material would "fiss" before the
+reaction stopped? Furthermore, how effective would this be as an explosion?
+By the end of 1941, it was estimated that possibly 10 per cent of the uranium
+235 might be effective in causing an explosion.
+
+The bomb must be at least a certain size . . .
+
+The critical size of an atomic bomb offers an interesting comparison with
+an ordinary chemical bomb. Unfortunate laboratory accidents have taught us
+that even small quantities of certain chemicals, such as nitroglycerin and mercury
+fulminate, are capable of detonating violently. But there is a critical
+size to an atomic bomb below which it cannot explode. A mass of plutonium
+or U235 smaller than the critical size simply cannot explode because a chain
+reaction is impossible. Too many neutrons would escape from the small mass
+of material and break the chain. Furthermore, the ordinary methods of detonation
+do not apply in the case of an atomic bomb. Once the size has exceeded
+the critical point, the chain reaction occurs at an incredibly rapid rate. Even
+one stray neutron (and there are many present in the atmosphere at all times
+from cosmic-ray bombardments, etc.) can start the chain reaction. For this
+reason, we may say that the bomb reaches its critical size at the last instant of
+its existence.
+
+Simply bring the separate parts of the bomb together . . .
+
+In principle, setting off an atomic bomb should not be too difficult. Estimates
+of the size of the fissionable material needed in a bomb range from
+2 to 200 pounds--at most, the size of a basketball. Just for the sake of illustration,
+let us say that the bomb must contain 100 pounds of atomic explosive--U235
+or plutonium. This 100-pound figure then represents the critical mass,
+the smallest amount of material in which a chain reaction can develop, in
+which atomic energy can be liberated. Now make two lumps of this material,
+each weighing 60 pounds and separated from each other. Nothing happens,
+because each lump is below the critical size. Now bring the two lumps together.
+The size is above the critical, and even one stray neutron coming in from
+the atmosphere is enough to start the chain reaction going. In other words,
+setting off the bomb simply means bringing the pieces together. "Well, if this
+is so simple," the reader will ask, "why was so much effort put into the manufacture
+of the bomb itself? It appears to be child's play!" In principle, yes.
+But the important problem was to bring about a very powerful explosion, not

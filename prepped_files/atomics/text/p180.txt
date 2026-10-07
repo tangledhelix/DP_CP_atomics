@@ -1,0 +1,44 @@
+have seen pictures of them as used in the production of gasoline from crude
+oil.
+
+The task of separating the heavy water is complicated by the extremely
+small difference in boiling point. Ordinary water boils at 2120 F, while heavy
+water boils at 214.6° F. Consequently, the distillation columns must be designed
+with great care. Furthermore, the very small amount of heavy water in
+ordinary water makes separation even more difficult.
+
+But just as it was true that the task was inherently difficult, it was equally
+true that engineering know-how concerning distillation has been carried
+to a new high in this country, thanks to the efforts of our chemical engineers.
+As a result, separation of heavy water by distillation was actually put into
+operation early in 1944.
+
+Heavy-water plant based on an exchange reaction . . .
+
+Let us suppose that we shake up a bottle that contains hydrogen gas and
+water. For the purpose of this example, we shall assume that the gas contains
+as many molecules of deuterium (D2) as light hydrogen (H2). Further
+let us assume that the water contains as many molecules of D20 as H20.
+In other words, we have a system in which the proportion of heavy hydrogen
+in the gas is the same as that in the liquid. Now, under ordinary conditions,
+we could shake this bottle for several years without any change
+occurring.
+
+However, in the presence of a
+suitable chemical agent (dubbed by
+the chemist a catalyst), a surprising
+process occurs. Atoms of hydrogen
+from the water will exchange
+places with atoms of hydrogen
+from the gas. After some time, it
+is observed that the heavier deuterium
+atoms prefer to concentrate
+in the water. The net result is that
+the gaseous hydrogen now contains
+more H than D and the water
+contains more D than H. Practically
+speaking then, we have effected
+an enrichment of deuterium in the water.
+
+Based on this principle, a plant for the production of heavy water was
+constructed in British Columbia, Canada, close to a source of electric power.

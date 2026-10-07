@@ -1,0 +1,44 @@
+would bog down if too many letters were mailed to people who could not
+read or write. About 99 out of every 100 uranium atoms are U238. If we
+could only weed out some of the U238, there would be a higher proportion
+of U235 atoms and the chain reaction would be helped considerably. One
+attack on the over-all problem then was to enrich the uranium in U235.
+As we shall see later, the U235 thus produced could be used in the atomic
+bomb.
+
+Impurities in the uranium also tend to be "neutron robbers" and thus
+tend to stop the chain. Even traces of the neutron robber, the element boron,
+present as an impurity, must be eliminated. It was therefore essential to
+have very pure uranium.
+
+Neutrons have to be slowed down . . .
+
+Let us assume that we wish to build a successful atomic-energy pile
+using ordinary uranium. We would be disappointed to find out that no
+matter how large a piece of pure uranium we take, we cannot keep the
+chain going. Why? Because too many neutrons get captured by U238
+atoms before they can hit a U235 atom. At first, this appeared to make the
+whole problem hopeless. But a few very important discoveries were made.
+The neutron that is ejected from a splitting uranium atom is a fast neutron,
+moving at speeds of thousands of miles per second. In order to see why a
+large lump of ordinary uranium will not sponsor a chain reaction, let us
+travel along with a large number of fast neutrons that have just been produced
+from splitting uranium atoms. Their energies are somewhat less
+than 1 M.e.v. At this stage most of the neutrons make only billiard-ball
+collisions with the uranium atoms and their energy is gradually dissipated in
+this manner.
+
+But when they have been slowed down to about 30 e.v. they are readily
+captured by the uranium 238 atoms. The fortunate neutrons that escape
+capture in this energy range continue to bump into uranium atoms until
+they are slowed down to only a fraction of an electron volt. Now they are
+in much less danger of capture by the uranium 238 atoms and also have an
+excellent chance of splitting a U235 atom and helping to keep the chain
+going. Of course, all along a few of the U235 atoms are being split by the
+neutrons. But so many of the neutrons are captured by the U238 atoms
+as they reach the 30-e.v. "trap" that the chain reaction becomes impossible.
+This bad situation could be remedied if there were a way in which the fast
+neutrons could be slowed down to an energy of only a fraction of an electron
+volt without meeting any uranium 238 atoms.
+
+How was this accomplished?

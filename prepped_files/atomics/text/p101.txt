@@ -1,0 +1,30 @@
+
+Chapter Ten
+
+Finding the Neutron
+
+The neutron--conjecture at first, today a reality . . .
+
+In an earlier chapter we were invited to play a rather unusual game--building
+up the nuclei of atoms. We were given two building blocks
+for the purpose. One was already quite familiar to us, the proton. The
+other was introduced to us rather hurriedly so that we might get on with the
+game. This was the neutron, a particle having about the same mass as the
+proton but without any electric charge at all. We would expect to find this
+particle with considerably different properties from the proton and electron
+because it has no charge, and therefore it is not swerved by electric or magnetic
+forces. In the decade and a half since its discovery, it has been found to play
+a most significant role in the realm of atomic projectiles and a basic part in the
+liberation of large-scale atomic energy. How was this strange new particle
+discovered? What are its unusual properties?
+
+We find that Rutherford as early as 1920 made some shrewd guesses concerning
+the existence of this particle:
+
+"Under some conditions, it may be possible for an electron to combine much
+more closely with the hydrogen nucleus, forming a kind of neutral doublet.
+Such an atom would have very novel properties. Its external (electrical) field
+would be practically zero, except very close to the nucleus, and in consequence
+it should be able to move freely through matter. Its presence would probably
+be difficult to detect by the spectroscope, and it may be impossible to contain
+it in a closed vessel. On the other hand, it should enter readily into the struc-
