@@ -1,0 +1,45 @@
+then we can safely conclude that there were no radioactive lead atoms formed
+when the original uranium was bombarded with neutrons.
+
+Using this relatively simple technique, Fermi soon concluded that not one of
+the neighbors of uranium, having atomic numbers from 86 to 92, was formed.
+Upon disclosure of Fermi's work, other scientists took up the same problem.
+Numerous tests were made to identify the radioactive products. By the end
+of 1935, more suspects had been eliminated. It appeared pretty clear that all
+the elements from atomic number 80 and up, including thallium (81), lead
+(82), bismuth (83), and radium (88), could be eliminated.
+
+On the verge of discovery . . .
+
+During 1936 and 1937, the able German scientists Hahn, Meitner, and
+Strassman took up the search. Convinced that the active products were elements
+beyond uranium (transuranic) they attempted to set up a scheme
+that would satisfy their experimental findings. In order to do so, they were
+forced to assume the existence of elements all the way from 93 to 97, and
+possibly more. Their solution seemed enormously complicated and brought
+up disturbing questions, but a more satisfactory solution was lacking.
+
+In 1938, Curie and Savitch, working in France, uncovered some new evidence.
+As a matter of fact, they were on the verge of the correct answer but
+somehow missed it! On irradiating uranium with neutrons, they found that
+one of the radioactive products had a half-life of 3-1/2 hours. They used a
+variety of well-known elements as carrier or tracer material in order to track
+down the identity of the 3-1/2-hour product. When element number 57, lanthanum,
+was used as a carrier material, they found that the active product was
+carried along in a number of chemical operations. But lanthanum was 35
+elements removed from uranium! After several trials, lanthanum as a possibility
+was discounted.
+
+Now, actinium (element 89) was recognized by chemists to have properties
+quite similar to lanthanum. They soon found that the 3-1/2-hour product
+differed from actinium. Not completely satisfied that the substance was
+lanthanum or actinium, they were forced to place it in the already overcrowded
+home of the transuranic elements. However, the 3-1/2-hour product
+was actually lanthanum, far down in the periodic table. If they had recognized
+this fact, they would have been the discoverers of what was soon to be called
+uranium fission.
+
+Uranium fission is discovered . . .
+
+However, their work stimulated others to proceed along similar lines. In
+1938, Hahn and Strassman continued the investigation, using a great number

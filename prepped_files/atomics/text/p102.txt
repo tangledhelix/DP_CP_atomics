@@ -1,0 +1,46 @@
+ture of atoms, and may either unite with the nucleus or be disintegrated by its
+intense field, resulting possibly in the escape of a charged hydrogen at
+(proton) or an electron or both." (Emphasis ours.)
+
+Thus, the now-familiar neutron was born in the minds of investigators
+long before it was actually found. But there is hardly anything more stimulating
+to a curious worker than a good hunch.
+
+Scientists sought for this as yet unproved particle in many ways. Some
+sent streams of electrons through hydrogen gas, hoping that the electrons
+would unite with the protons (hydrogen nuclei) to form this neutral particle.
+They bombarded metallic screens with various fast particles, hoping to
+detect neutral particles coming out. No result was obtained. The real trouble
+was the inability of the existing measuring devices to show the presence or
+the motion of such a particle. Its single most important property is its neutral
+charge. This makes it impossible to deflect by electric forces. It is also
+completely unaffected by magnetic fields, because it is not a moving electric
+charge.
+
+Ordinary wax provided the clue . . .
+
+Like many other important discoveries, the neutron was discovered in a
+most unexpected manner. In fact, its presence was at first misjudged to be
+due to something entirely different.
+
+In 1930, Bothe and Becker, working at Giesen, Germany, were bombarding
+various elements with alpha particles from radioactive polonium and studying
+the effects of these collisions. To their surprise, they observed that when
+certain light elements, such as beryllium, boron, and lithium, were
+barded in this manner, a high-energy radiation seemed to be produced. This
+"radiation" could penetrate fairly thick sheets of metal and would pass
+through an inch of lead. In fact its penetrating power appeared to be several
+times greater than the most energetic gamma radiation from known radioactive
+substances and it had energies as high as 14 M.e.v. It was assumed that
+this "radiation" consisted of high-energy gamma rays.
+
+In 1932, the French physicist F. Joliot and his wife Irene Curie (daughter
+of Marie Curie), working in Paris, tried interposing sheets made of different
+materials between the source of these radiations and their measuring instrument,
+which registered a current whenever ionization was produced in their
+detecting chamber. Thus their measurements indicated the ionizing effect of
+the unknown radiations.
+
+An unusual result was obtained when paraffin wax was placed in the path
+of the radiation. Unlike metal sheets, which acted to stop the radiation, the
+rays passing through the paraffin actually caused an increased ionization. Upon

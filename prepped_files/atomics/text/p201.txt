@@ -1,0 +1,43 @@
+away while the explosion takes place. As a result, the gases become subjected
+to a tremendous pressure because they are present in a small volume. The pressure
+wave that results is sufficient to rip the steel shell apart and tear huge
+holes in armor plate.
+
+The atomic bomb should go off even more rapidly . . .
+
+Suppose we bring the pieces of the bomb together slowly. Then, as they
+almost touch each other, the chain reaction will start. The energy set free will
+no doubt act to separate the pieces again and the bomb will be a relatively harmless
+dud. In other words, the pieces must be brought together very rapidly.
+How rapidly? To help us answer this question, let us consider the chain reaction
+itself.
+
+We have seen how the ordinary uranium-carbon pile uses slow neutrons for
+the controlled liberation of atomic energy. What would happen if the automatic
+controls failed and the k value for the pile became greater than 1? The
+pile would begin to liberate tremendous amounts of energy in a short time.
+But since slow neutrons are carrying the chain, the material in the pile would
+have a chance to expand and brcak apart almost as soon as the pile got out of
+control. Only a minor explosion would result! Hence, a few elephants dropped
+on an enemy city would have an effect about equivalent to dropping a pile
+of ordinary uranium and carbon.
+
+Use fast neutrons in bomb . . .
+
+We now see why the material of the atomic bomb cannot be simply ordinary
+uranium and carbon for slowing down the neutrons. Slow neutrons move at
+speeds of only a mile or so a second. It is necessary to get rapid growth of
+the chain by using fast neutrons moving at speeds of thousands of miles a
+second. To get a chain reaction with fast neutrons, uranium 235 or plutonium
+can be used. In this case, the enormous energy liberation--the equivalent of
+thousands of tons of TNT--takes place so rapidly that the material of the
+bomb hardly has a chance to expand during the fraction of a millionth of a
+second in which most of the energy is probably liberated. The chain reaction
+can thus proceed to liberate large amounts of energy before the bomb is blown
+apart. The catastrophic results of such an explosion are known in general to
+all of us and some of the details will shortly be described.
+
+How fast must the pieces of the bomb be brought together? Smyth reports
+that the speed is about the order of magnitude common to ordinary artillery
+practice, approximately several miles per second. Hence one obvious way of
+setting off the bomb would be to shoot one piece of the bomb, in the form of a

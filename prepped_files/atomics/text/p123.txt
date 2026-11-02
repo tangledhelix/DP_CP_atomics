@@ -1,0 +1,39 @@
+the starting side, the side with the greater speed. Since the portion on the
+left is more decidedly curved, it may be inferred that a high-energy particle
+started out on the right side of the lead plate, lost energy on passing through
+this sizable thickness of lead, and as a result was deflected more readily by the
+magnet on coming out the left side. For example, if the particle were an electron,
+Anderson calculated that the energy on the right side of the plate corresponded
+to 63 M.e.v. and that to the left of the plate, only 23 M.e.v. Up to
+this point, then, we are fairly certain that a single particle was coming from the
+right side through the lead plate.
+
+OBSERVED
+
+LEAD
+
+SOLVED
+
+SLOW
+
+FAST
+
+What kind of particle was it? Was it positively or negatively charged?
+Now that the direction of motion was established, this question could be
+answered at once. From the known direction of the magnetic field that was
+being applied, the particle was deflected in the direction that a positive particle
+would be. In this particular arrangement a negative particle would be deflected
+in the opposite (that is, clockwise direction, looking at the diagram). Hence
+it was a positive particle.
+
+What was it--a proton, an even heavier positive particle such as an alpha
+particle, or something entirely new? If it were a proton, then the energy of
+the proton leaving the lead plate could be calculated from the curved nature
+of the track. But such a calculation based on known proton tracks showed that
+a proton of this energy could travel only one-tenth the distance shown in the
+diagram after passing through the lead plate. In other words, it could not be
+a proton, and for the same reason, it could not be a heavier positive particle,
+such as an alpha particle. Furthermore, the thinness of the track resembled
+very closely the tracks furnished by electrons. But the track could not be due
+to an electron, because the particle in the photograph was just shown to have
+a positive charge. After more study and calculation, Anderson arrived at the

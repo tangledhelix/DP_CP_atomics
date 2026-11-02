@@ -1,0 +1,43 @@
+water vapor condenses. At that very instant some high-speed "bullets" from
+the radium are plowing through the air molecules, very much like a cannon
+ball going through a wheat field. A large number of air molecules are ripped
+apart by these bullets and as a result charged particles, or ions, are formed.
+Some have lost electrons and are positively charged. Others have gained
+electrons and are negatively charged. These ions of air (charged atoms or
+molecules) act as the centers of attraction around which the water vapor
+condenses into tiny droplets, forming a streak where the high-energy bullet
+has passed. It is therefore possible with this apparatus to see and photograph,
+just as with a tracer bullet or in sky-writing with airplanes, the exact path of
+the high-speed particles shot out from the radium.
+
+Other tools were used to "survey the wreckage" . . .
+
+A number of tools were used to study the nature of the radiations. Almost
+all these depend on the fact that the radiations ionize the air around them,
+leaving in their wake a large number of electrically charged fragments of atoms
+and molecules. The measuring instruments simply record the extent of ionization.
+
+Among the simplest of these tools is a very useful instrument called the
+electroscope, which found special use in the detection of the cosmic rays.
+Another useful tool is the Geiger counter, which is used to count the number
+of particles emitted by a radioactive material. Both these instruments will be
+described in later chapters.
+
+Using these tools, it was soon discovered that the radiations from radioactive
+atoms are of three distinct varieties. These are referred to as alpha particles,
+beta particles, and gamma rays. What is their nature?
+
+Alpha particles are present in the radiations . . .
+
+The cloud chamber, the Geiger counter, and the electroscope were used as
+ace detectives in studying the nature of the radiations. The cloud chamber
+was particularly useful in identifying the types of particles, their charges, and
+their weights. Electric and magnetic forces can be applied in the chamber
+space and deflections of individual particles photographed.
+
+Some of the particles shot out from radium were attracted by negative plates
+and were thus shown to be positive. These were called alpha particles. Using
+Thomson's techniques of measuring speed, weight, and charge of moving
+particles in magnetic and electric fields, it was possible to identify the alpha
+particle. Its atomic weight proved to be 4, the same as that of helium. It appeared
+to have a double positive charge (++), just as though it had lost

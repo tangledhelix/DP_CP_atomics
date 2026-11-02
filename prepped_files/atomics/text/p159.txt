@@ -1,0 +1,31 @@
+beryllium was extremely scarce and was therefore not selected for use. Deuterium,
+(heavy hydrogen) and carbon became the two materials selected as
+moderators for atomic-energy machines. Carbon (in the form of graphite)
+was chosen for the giant Hanford pile used during the war to manufacture
+plutonium (as we shall describe later). Heavy hydrogen (in the form of
+heavy water) was used in several small experimental piles built in the United
+States during the war. Recently it was announced that a pile using heavy
+water has been in operation at Chalk River in Canada.
+
+It is interesting to note that many common materials containing carbon
+and hydrogen, such as wood, cloth, paper, water, and wax are good "slow-
+downers." However, the ordinary hydrogen within them captures too many
+neutrons and thus renders them useless for neutron slow-down purposes
+in an atomic-energy machine.
+
+SLOW DOWNER
+
+Now the question arises as to how to arrange our moderator material so
+as to accomplish the task of slowing down neutrons in a pile. Mixing the
+particles of the moderator and the uranium intimately is of little help.
+Suppose that a fast neutron collides with three successive carbon atoms,
+losing speed from 1,000 miles per second to 500 miles per second, and then
+on the fourth collision strikes a U238 atom. The neutron may be captured,
+inasmuch as it has not been slowed down sufficiently to prevent its capture
+by U238.
+
+Consequently, the moderator material was arranged to surround containers
+of uranium completely in a "lattice" arrangement. One might think of it
+as a huge block of carbon with cans of uranium embedded in a regular
+manner throughout the carbon. In this case a neutron shot out from the
+fission of a U235 atom in the uranium would shoot through a small distance

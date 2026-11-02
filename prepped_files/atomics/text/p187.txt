@@ -1,0 +1,37 @@
+million uranium atoms in the form of uranium hexafluoride. Before passing
+through the porous barrier, there are only 7,000 atoms of U235 in this gas
+sample. After passing through the barrier, 1 million molecules of the gas
+contain 7,030 atoms of this valuable isotope. In other words, the result of passing
+through one barrier is to increase the number of light uranium atoms by
+only 30 per million molecules of gas. But, assuming that the final product
+was to contain 99 per cent U235--or 990,000 U235's in 1 million molecules--the
+gas would have to be allowed to diffuse through a large number of successive
+barriers. Calculation revealed that the staggering number of 4,000 barriers
+might be required. This figure is astonishing even to many of our most experienced
+engineers. The final plant constructed to do this job was carrying
+on the largest continuous chemicophysical process in the world.
+
+Specifications for the barrier material were hard to meet . . .
+
+Consider the fantastic requirements that had to be fulfilled by a suitable
+barrier material through which the gases were to diffuse. First, in order to
+permit large volumes of gas to go through, the diffusers had to be very porous.
+Thus, there had to be billions of holes in the barrier material. But large holes
+might allow the gas molecules to sweep through in a mass, in the same manner
+that paste can be squirted from a tube. This would result in a very poor isotope
+separation. The porous material used in the barrier should therefore have
+very few holes that are larger than one-millionth of an inch. Furthermore, these
+holes must not become plugged up as a result of chemical attack by the gas.
+In addition, the barrier has to be strong enough to withstand a pumping pres-
+sure of 15 pounds per square inch, great enough to crush a strong gallon can.
+But finally, putting a cap on all these difficult requirements, the porous material
+had to be manufactured in large quantities corresponding to many acres, with
+uniform quality.
+
+BILLIONS OF HOLES?
+
+HOW TO MAKE BARRIERS?
+
+HIGH SPEED PUMPS
+
+CORROSION?

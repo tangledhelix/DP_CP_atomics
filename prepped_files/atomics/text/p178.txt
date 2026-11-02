@@ -1,0 +1,42 @@
+
+Heavy water is an excellent moderator . . .
+
+As we pointed out in Chapter Fourteen, in our discussion of chain-reacting
+piles using ordinary uranium, the lighter the atom the more suitable it is for
+slowing down neutrons. We also noted that ordinary hydrogen is unsuitable
+because of its tendency to act as a neutron robber. Deuterium, next in weight
+to the lightest hydrogen atom, does not have this same ability to absorb neutrons
+and therefore becomes the best material known for slowing down
+neutrons. Since oxygen also has little tendency to rob neutrons, the compound
+heavy water (D2O) becomes ideal moderator material. There is only one
+drawback, but it is a most serious one. Production facilities for this material
+arc very limited, and its expense make it rather prohibitive for use at this
+time.
+
+Nevertheless, as soon as it was realized that heavy water might be suitable
+as a moderator for a chain-reacting pile, this laboratory curiosity became
+inexorably drawn into the atomic-bomb race. According to Smyth:
+"The British, particularly J. Chadwick, were convinced that a U235 chain
+reaction could be achieved. They
+knew that several kilograms of
+heavy water a day were being produced
+in Norway and that Germany
+had ordered considerable quantities
+of paraffin to be made using heavy
+hydrogen; it was difficult to imagine
+a use for these materials other than
+in work on the uranium problem.
+They feared that if the Germans got
+atomic bombs before the Allies did,
+the war might be over in a few
+weekj!' (Emphasis ours.)
+As a result, it became necessary to work along another of the "impossible"
+lines of attack on this problem--the production of larger quantities of heavy
+water. It was no longer a question of preparing a few drops of this liquid
+for use as a tracer in chemical reactions and as an aid to biology and medicine.
+Heavy water had assumed a grimmer role.
+
+Research at Columbia on possible methods of large-scale concentration of
+heavy water was begun early in 1941 under the direction of H. C. Urey.
+Studies were also carried out in the Frick Chemical Laboratory of Princeton
+University. Two major methods were used for the concentration of deuterium.

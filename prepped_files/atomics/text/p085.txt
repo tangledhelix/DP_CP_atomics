@@ -1,0 +1,45 @@
+construction of a giant 4,000-ton cyclotron with a cylindrical box about 15 feet
+in diameter. With this machine it was hoped to obtain particles with many
+times the smashing power of alpha particles from radium. A beam of high-speed
+deutcrons (nuclei of heavy hydrogen) could be expected to travel about
+140 feet in air before being stopped by repeated collisions with air molecules.
+With this machine it was hoped that it might be possible to speed up deuterons
+to energies of 200 M.e.v. and helium ions to about 400 M.e.v. However, before
+this machine could be completed, its giant magnet became an important tool in
+the process of obtaining uranium 235 in the manufacture of the atomic bomb.
+
+In its ability to smash atoms, the cyclotron has many advantages over
+naturally radioactive materials. A far more intense beam can be obtained, and
+beams of various charged particles can be produced at will. Thus we can use
+protons, or deuterons, or helium nuclei and experiment with each of these in
+their atom-smashing properties on any desired material. In addition, the energy
+can be regulated at will to produce any desired amount of atom-smashing
+speed. The use of this machine has produced a wealth of knowledge without
+which the development of atomic energy would have been greatly retarded.
+
+What limits the cyclotron? . . .
+
+You have no doubt begun to wonder why only positively charged particles
+were speeded up in the cyclotron. Why not do the same with electrons? Theory
+shows that such a lightweight particle very soon acquires a velocity practically
+that of light itself. The net effect is to make it very difficult to give the electrons
+additional "pushes" at just the right time. In fact, this feature seems
+to limit the usefulness of the cyclotron for positive particles beyond a certain
+energy.
+
+The problem of obtaining very high speed electrons thus remained even
+after the cyclotron was invented. In 1941, D. W. Kerst invented a device which
+has already produced 100-M.e.v. electrons and shows promise of extension
+to several hundred M.e.v. This machine is called the betatron. How does it
+work?
+
+High-speed electron gun . . .
+
+The operation of the betatron might be likened, in a crude analogy, to the
+hammer throw. In that sport, a weight on the end of a wire is whirled about
+faster and faster, picking up speed until the thrower releases the wire and
+weight. The electron in a betatron receives similar treatment.
+
+The "wire" in this case is the invisible magnetic force which keeps the
+electrons whirling around in perfect circles in a doughnut-shaped tube, constantly
+pushing them faster and faster until they reach speeds very close to

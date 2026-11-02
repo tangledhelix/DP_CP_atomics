@@ -1,0 +1,31 @@
+not seem possible at this stage of atomic-energy development for a person
+living in an isolated house to purchase a small quantity of fissionable material
+to heat his home, as too many popular examples have mistakenly implied.
+
+With a stationary installation in a central-heating plant, the danger of radiations
+harmful to human beings can be eliminated by adequate shielding and
+by locating the pile in an isolated spot. Another danger crops up here in that
+the water running through the pile will itself become radioactive. The hot
+water or steam piped into homes might thus be dangerous to the occupants.
+Consequently, it would be necessary for the hot liquid supply leaving the
+pile to heat an entirely separate circulation system which would be free of the
+radiations. This secondary hot water or steam could then be piped to the
+users.
+
+Electricity from an atomic power station . . .
+
+COLD
+PILE
+HOT
+HEAT
+MOTION
+
+ELECTRICITY
+
+The manner in which the pile could be used to produce motion in
+form of engine is also not difficult to foresee. If the temperature of the pile
+is permitted to rise high enough to boil water and to produce steam, then we
+can obtain our motion by connecting the steam supply thus produced to any
+form of steam engine, probably a steam turbine. The most likely use for such
+motion would be to operate large generators for the production of electric
+energy. This electric energy could then be conveniently converted into light,

@@ -1,0 +1,44 @@
+
+The methods of detection of the large amounts of energy for each atom of
+uranium split by a neutron were rather simple with the techniques at hand.
+One method consisted of connecting an "ionization chamber" similar to a
+Geiger counter to an oscilloscope ("scope") screen. The passage of a high-speed
+particle ionized the molecules of air in the chamber and produced a
+sudden surge of current, which showed up on the screen as a zigzag vertical
+line or "pip." The greater the energy of the particle, the greater was the ionization
+produced and the resulting height of the.zigzag pip on the screen.
+The height of the pip was therefore a measure of the energy of the particle.
+When a piece of uranium was introduced into the chamber, the ordinary small
+pips due to its natural radioactivity were observed. However, when a source
+of neutrons (such as radium bombarding beryllium) was brought near the
+uranium, large pips, equivalent in energy to ioo M.e.v. or more, were observed.
+The cloud chamber could also be used to show these high-energy
+fission products.
+
+These experiments arc so simple that one might be amazed that the high-energy
+particles resulting from fission had not been discovered much sooner.
+But, as with all discoveries in science, it is one thing to repeat a simple experiment
+once the path has been blazed, but quite another to select the original
+proper procedures and interpret the results correctly.
+
+Collecting the fission products . . .
+
+Another ingenious procedure shed additional light on the nature of the
+fission reaction. The fragments resulting from the uranium breakdown should
+have sufficient energy to tear themselves completely away from the uranium
+sample. In that case, it should easily be possible to catch them on a collector
+placed near but not necessarily touching the uranium sample. Various collecting
+surfaces were used, including cylinders of bakelite, a water surface, a
+pad of cigarette papers, and a glass plate. In all cases, the collector surfaces
+became radioactive. Furthermore, the radioactive elements caught by the collector
+were identical with those produced in the bulk of the uranium sample.
+The collecting surface could be placed at a reasonable distance away from
+the uranium, because the high-energy fission fragments could travel about
+i inch in air before they lost all their energy by collision and were stopped.
+The unusually large distances traveled by these fission fragments was another
+indication of their high speed and large energy.
+
+Discovery takes to seven-league boots . . .
+
+Common experience has shown that the solution of one baffling problem
+in science immediately raises a great variety of questions. The discovery of

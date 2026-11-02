@@ -1,0 +1,46 @@
+extent of 2/100 of 1 per cent in order to explain completely the discrepancy
+noted. This small amount could not be detected on the isotope-separating
+mass spectrometer, which indicated a line only for hydrogen of atomic weight.
+
+1. But this small amount of heavy hydrogen would exert its effect in the
+chemical methods of determining atomic weight.
+
+LIGHT HYDROGEN
+WEIGHT 1
+
+DEUTERIUM
+WEIGHT 2
+
+TRITIUM
+WEIGHT 3
+
+NEUTRON
+
+ELECTRON
+
+PROTON
+
+Looking for "fingerprints" with the spectroscope . . .
+
+It was therefore necessary to look for this heavy hydrogen using other types
+of measurements. One possible method of attack was to use the spectroscope.
+has already been pointed out that atoms give off light when sufficiently
+excited. The different frequencies in this light appear as lines in the spectrum
+and furnish very accurate fingerprints of the atom. By theory, lines produced
+by atoms of heavy hydrogen, should be very close to those of ordinary light
+hydrogen. Furthermore, these slight differences could be accurately calculated
+from theory.
+
+This obvious challenge was taken up by the American investigators Urey,
+Murphy, and Brickwedde in 1932. An ordinary laboratory spectroscope would
+be useless here, for the differences could not be detected. They used a 21-foot
+instrument called a diffraction grating, which enables finely separated spectrum
+Unes to be readily recorded. Using ordinary hydrogen, they observed extremely
+faint lines close to the normal, intense hydrogen spectrum. In order
+to be able to make a definite conclusion, it was necessary to attempt to enrich
+the sample with respect to the heavy isotope. How could this be accomplished?
+If heavy hydrogen did exist in small quantities, it was very
+probable that it would boil at a slightly higher temperature than ordinary
+hydrogen. In other words, if a liquid mixture of light and heavy hydrogen
+were permitted to evaporate, the light hydrogen would evaporate more
+rapidly and the residue should then be richer in the heavy hydrogen.

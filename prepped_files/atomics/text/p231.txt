@@ -1,0 +1,44 @@
+sources in the case of locomotives and aircraft carrying crew and carrying passengers.
+
+Radiation from an operating pile . . .
+
+We have already noted that as an atomic power pile operates, high-energy
+neutrons, electrons, and gamma or x-radiations are produced. All these are
+extremely hazardous to any personnel in the vicinity. The great care with
+which radium is handled in hospitals and laboratories is familiar to many of
+us. Few have failed to observe the elaborate precautions taken when x-rays are
+used for therapy. Yet the amounts of radium used in hospitals are measured
+in ten-thousandths of an ounce. It has been estimated that the amounts of
+radioactive material produced by uranium fission in even a small pile may be
+equivalent to many pounds of radium.
+
+It was estimated by the scientists on the project that the fission products
+arising from one day's operation of a 100,000-kilowatt pile could render
+a large area uninhabitable if they were accidentally sprayed as a result of pile
+explosion. It was shown in an earlier chapter that the operation of a cyclotron
+does not come anywhere near producing practical amounts of atomic energy.
+Yet recommendations for shielding a 60-inch cyclotron include: completely
+surrounding walls of water at least 5 feet thick, a roof and floor equivalent
+to 3 feet of water, a concrete walled room about 12 yards away.
+
+Neutrons have a tendency to leak out through tiny holes and cracks in
+about the same way that a gas will diffuse through tiny openings. Shields must
+also be airtight because air exposed to the pile radiation becomes radioactive.
+
+Replacing blind fear by knowledge . . .
+
+It is well to remember, however, that the radiation hazard in atomic-power
+operations is not a mysterious unknown factor that will dissuade scientists
+from continuing their researches. In general, the best antidote to fear is
+knowledge, and this knowledge has been carefully cultivated. A health
+division was established at an early stage in the atomic-bomb projects whose
+object was to ensure that no one suffered serious injury from the peculiar
+hazards of atomic-pile work. The success of this group and of the general
+precautions that were taken is attested by Smyth's statement that "factors of
+safety used in plant design and operation are so great that the hazards of the
+home and the family car are far greater for the personnel than any arising
+from the plants."
+
+A report of the work of this Health Division under the direction of Dr.
+Stafford L. Warren reveals the extensive effort that was applied in meeting
+these radiation dangers. In order to study the effect of radiations on living

@@ -1,0 +1,43 @@
+
++ CATHODE
+RAY TUBE -
+
+RADAR
+'SCOPE'
+
+RADIO
+TUBE
+
+ELECTRIC EYE
+
+NEON
+SIGN
+
+FLUORESCENT LAMP
+
+Chapter Four
+
+Atomic Secrets from Empty Tubes
+
+What can an empty tube tell us about the nature of the atom? One
+would suppose this to be a rather idle question. But like other
+surprises in scientific sleuthing, an empty tube was to provide
+basic clues about the structure of the atom. Furthermore, offspring of this
+empty tube were to become fundamentally important devices in radio, television,
+lighting, and radar. How did this come about?
+It all started with an observation
+made by the Frenchman Masson
+in 1853. Instead of making electric
+sparks pass through the air, why
+not see what happens when a spark
+is sent through a tube from which
+some of the air has been pumped
+out? He sealed two wires from the
+terminals of a sparking machine
+into the opposite ends of a closed glass tube. When some of the air was pumped
+out, the spark jumped a greater distance.
+
+Following up this lead, the German Geissler used stronger sources of electric
+current and tried a variety of gases inside the tube. He observed that each
+gas gave a characteristic colored glow. Today neon in such a tube produces
+the red glow familiar in neon signs. Mercury gives a bluish glow observable

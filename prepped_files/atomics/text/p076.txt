@@ -1,0 +1,43 @@
+be found to be whole numbers; in fact, he thought that hydrogen of atomic
+weight 1 might be the building block from which the other atoms were made.
+Naturally, this stimulated a great many experiments. Soon a number of
+glaring exceptions were found and Prout's guess fell into disrepute. One bad
+offender was the common element chlorine, the atomic weight of which
+is 3546, definitely not a whole number.
+
+But now that we have found a way of "building up the nucleus" and have
+invented instruments for finding out the weight of various atoms in a mixture,
+the entire picture has become clarified. We see, also, that Prout's guess concerning
+the whole number properties of atomic weights was fairly close to the
+truth.
+
+Chemical twins account for the fractions . . .
+
+In 1932, a chemical twin or isotope of hydrogen was discovered and named
+deuterium, or heavy hydrogen. The atomic number is 1 but the weight is 2,
+twice that of the hydrogen atom which we have described several times in this
+chapter. How would this be built up? Simply 1 proton and 1 neutron. Since
+this atom occurs in ordinary hydrogen to the extent of only 1 part in 5,000,
+it has practically no effect in altering the atomic weight of hydrogen as measured
+by the chemist.
+
+But now take the case of chlorine. We find, by the use of the instrument
+soon to be described, that there are two important isotopes, or chemical twins,
+present in a sample of chlorine gas. One has a weight of 35. The other has a
+weight of 37. About three-quarters of the chlorine atoms in nature have a
+weight of 35, while the remaining quarter have a weight of 37. That is why
+the average atomic weight of chlorine, the weight determined by ordinary
+chemical procedures, is 35.46.
+
+We shall find that certain isotopes play a very important role in the large-scale
+release of atomic energy. The chief actor here is that isotope of uranium
+which has a weight of 235, commonly referred to as U235.
+
+Sorting out isotopes in a magnetic "race track" . . .
+
+We have seen how Thomson as far back as 1912 used electric and magnetic
+forces in order to deflect positive ions and thus produce separate tracks
+on a photographic film. Now suppose that two kinds of atoms of the same
+element, isotopes, are present in a gas mixture. Then by Thomson's procedure
+it is possible to obtain separate tracks for the ions of these chemical twins.
+In this manner, they can be hunted down, identified, and studied. Instruments

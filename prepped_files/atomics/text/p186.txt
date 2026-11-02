@@ -1,0 +1,44 @@
+gases brought about partial separation of isotopes, there appeared little
+likelihood that this method would ever be used on an industrial scale.
+
+No longer an academic problem . . .
+
+When the extremely important fact was learned early in 1940 that the
+lighter isotope of uranium was responsible for the majority of the fissions in
+a uranium sample, it became a matter of more than academic interest to attempt
+its large-scale separation. But the task of separating large quantities
+of this isotope appeared formidable indeed. In the first place, 1,000 atoms of
+natural uranium contain only 7 U235 atoms and 993 U238 atoms. (We shall
+here neglect the small number of atoms having an atomic weight of 234.)
+Secondly, the very small difference in weight (only 3 parts in 235) would make J
+for very slight separation by the diffusion method.
+
+The construction and successful operation of an enormous plant using this
+process represents still another "impossible" feat that was actually achieved.
+Research was started at Columbia University in 1940 under the general leadership
+of Harold C. Urcy and John R. Dunning. The Kellex Corporation (a
+unit of The M. W. Kellogg Co.) designed the full-scale plant which was to be
+turned over to the Carbide & Carbon Chemicals Corp. for operation. A review
+of some of the accomplishments and difficulties of this process high-lights
+the enormity of the task that was undertaken.
+
+Finding a suitable gas containing uranium . . .
+
+It is a familiar fact that compounds containing metal atoms are usually
+solids at room temperature and up to several hundred degrees Fahrenheit. It
+would be very difficult to find a compound containing gold, for instance, that
+is gaseous at practical operating temperatures. A compound containing uranium
+and fluorine, called uranium hexafluoride, has been known to chemists
+for many years. A molecule of this compound contains one uranium atom and
+six fluorine atoms in chemical combination. Although a solid at room temperature,
+it has the unusual property of going over to the gaseous condition under
+ordinary pressure at a temperature of only 1330 F, (about the temperature of
+warm water). This gas was therefore considered a possible "process gas."
+Since it is highly reactive chemically, the search was continued for more suitable
+gases.
+
+The separation factor very small . . .
+
+Unfortunately, since the molecular weights of the gases containing U235
+and U238 atoms are so close together, every passage through a porous barrier
+produces only a very slight separation. For example, suppose we consider 1

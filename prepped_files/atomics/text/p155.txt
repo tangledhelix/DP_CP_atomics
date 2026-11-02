@@ -1,0 +1,32 @@
+the thousandths of a second are ticked off. In the next few thousandths of a
+second most of the U235 atoms of the uranium sample will have smashed
+apart, each one releasing its energy and creating a catastrophic explosion. Descriptions
+of the resulting colossal havoc are now familiar to all of us.
+
+
+AN UNCONTROLLED
+CHAIN REACTION
+
+ROUND 1 2 3 4
+
+ATOMIC
+BOMB
+
+(THIS CONTINUES)
+
+--NEUTRON
+--U235
+
+Thus the growth factor of atom smashing is the most important part of
+the process. The point of balance between a chain reaction that is successful
+and one that is a dud is a hair line. With the growth factor less than
+1--ever so slightly--then the original neutrons do not smash apart enough
+atoms to replace themselves and in a fraction of a second the process stops
+and the release of atomic energy ceases. On the other hand, if the growth
+factor is maintained at greater than 1--ever so slightly--then the uranium
+atoms "fiss" in ever-increasing numbers until the material explodes. To
+control the release of atomic energy gradually for peacetime uses requires
+that the k factor be almost exactly 1 at all times. In other words, a k number
+just slightly more than 1 must be achieved at the start so that the process
+accelerates to the point we wish to reach with the release of the required
+amount of energy. Then the chain reaction must be kept there at a factor

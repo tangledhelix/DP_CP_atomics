@@ -1,0 +1,58 @@
+great distances from it (relatively) are the planetary electrons. Since the
+atom as a whole must be electrically neutral, it follows that the number of
+these planetary electrons is also equal to the atomic number. In this way
+the equal and opposite charges on the core and the planetary system cancel
+out.
+
+If we were to stop here, our story of atomic energy would also have to be
+cut short. To the chemist who deals in combinations of atoms to form molecules,
+the important facts about the atom are concerned with the nuclear
+charge, in other words, the number of electrons revolving about the nucleus.
+These will determine all the chemical reactions ordinarily observed on this
+earth. But far greater rewards, including the liberation of large-scale atomic
+energy and transmutations, await those who are not satisfied with this picture.
+Now that we have determined the structure of the atom itself
+goes one step farther, to the structure of the nucleus itself. How is the nucleus
+put together? What particles can be found inside the "center" of the atom?
+Once again the study of radioactive substances was called upon to supply
+major clues in answering these questions.
+
+Natural alchemy in terms of the atomic number . . .
+
+What element is formed when radium ejects an alpha particle? A bit of
+elementary arithmetic easily furnishes the answer. Radium is element number
+88 in the chemist's table, arranged
+according to atomic number.
+The core of the radium atom
+therefore has 88 positive charges.
+An alpha particle shooting out of
+the nucleus has 2 positive charges.
+As a result, the core that remains
+has only 86 positive charges. In
+other words, the new element
+formed should be number 86. This
+element is radon, an inert gas from
+the chemical point of view, but also
+radioactive.
+
+URANIUM
++92
+
+HELIUM
++2
+
+THORIUM
++90
+
+ELECTRON
+-1
+
+PROTACTINIUM
++91
+
+More elementary arithmetic will
+tell us what is formed when an
+atom ejects a beta particle, a high-speed
+electron. For example, suppose
+an atom of element number
+81 ejects a beta particle from the

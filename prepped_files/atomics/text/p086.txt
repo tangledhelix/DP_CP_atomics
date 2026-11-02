@@ -1,0 +1,54 @@
+that of light. In a recent model of the betatron a doughnut-shaped glass tube
+6 feet across, used as the runway for the electrons, was placed between the
+poles of a huge electromagnet measuring 15 feet wide, 9 feet high, and
+feet in thickness, and weighing about 130 tons.
+
+BETATRON
+
+FAST
+
+TARGET
+
+SLOW
+
+X-RAYS
+
+The "race" starts with a small electron
+gun, consisting of our familiar
+hot wire evaporating electrons,
+which shoots some electrons into the
+tube. The magnetic force now takes
+over. The current in the giant magnet
+is steadily increased, creating a
+stronger and stronger magnetic
+force. As a result the electrons are
+forced to move in perfect circles inside
+the tube. Each time around the
+electron picks up 400 e.v. of energy.
+This does not look too promising,
+until we consider that it will make a quarter of a million rotations in the doughnut
+before it is released. It thus comes shooting at the target with an energy of
+100 M.e.v.
+
+How long does this process take? The entire time for the quarter million
+rotations is but a brief 1/240 second. Remember that the electron has been
+traveling at speeds close to that of light. At these speeds it could travel several
+times around the earth in a second.
+
+At the end of the brief fraction of a second during which the electron is in
+the tube, an electrical tripping mechanism causes the electron beam to swerve
+out of its circular path to strike a target of tungsten. The impact of these
+100-M.e.v. bullets results in the emission of the most penetrating x-rays ever
+made by man. In fact, these rays are far more penetrating than die gamma
+rays from radium and approach the energies found in cosmic rays. They can
+penetrate 12 inches of steel.
+
+As soon as one cycle is completed, the current in the electromagnet is made to
+reverse. At the proper moment another beam of electrons is shot into the
+tube and the whirling starts again. Thus there are many separate electron
+groups every second, each group whirling a quarter of a million times inside
+the doughnut-shaped tube.
+
+The betatron not only produces enormously high speed particles but accomplishes
+two other things that the cyclotron cannot do. It speeds up electrons,
+while the cyclotron can only handle heavy positive particles effectively. With

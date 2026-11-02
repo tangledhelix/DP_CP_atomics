@@ -1,0 +1,44 @@
+
+Harnessing the atomic power of chain-reacting piles . . .
+
+The uranium-carbon piles built during the war contained graphite and
+ordinary uranium in which the content of U235 was Ko of 1 per cent. Chain-reacting
+piles can be built for large-scale liberation of atomic energy using
+uranium or plutonium. Element number 90, thorium, is also of great interest
+to us in connection with chain-reacting piles. Thorium in a pile will act like
+uranium 238 in that it will tend to capture neutrons and convert itself into a
+new atom. In this case the thorium 232 becomes uranium 233. And this U233
+has the same property of splitting and liberating neutrons when bombarded
+with neutrons. Therefore, U233 may become bomb material or enrichment
+material. Since thorium is more plentiful than uranium, it seems likely that
+future piles may operate with slugs of uranium and thorium rather than
+with uranium alone.
+
+But as far as we know, uranium is the only natural material with which
+we can start a pile. The plutonium, or the U233 produced from the pile, are
+secondary products that do not occur in nature. Consequently uranium remains
+the key to all practical development of atomic energy as far as we can
+see at the present moment.
+
+During the operation of a pile, large amounts of energy are liberated in
+the form of heat. In 1944, the uranium-carbon pile at Clinton, Tenn., was
+furnishing heat at the power rate of 1,800 kilowatts. This heat was carried
+away by an air stream flowing past the heated uranium slugs. The uranium-carbon
+piles at Hanford, Wash., were designed to operate at a considerably
+higher power rate in order to create sufficient plutonium for the production of
+atomic bombs. Piles producing about 2 pounds of plutonium per day might
+require the removal of heat energy at the rate of anywhere from 500,000 to
+1,500,000 kilowatts. In the case of the Hanford piles, the fast-flowing waters
+of the Columbia River were used to carry away the heat as a waste product.
+Efforts were not directed toward harnessing this heat energy, the primary
+jective of the wartime piles being the creation of plutonium. Pausing to
+design power-harnessing equipment would have meant serious delay in the
+production of plutonium.
+
+How would the energy of a pile be used? . . .
+
+The two main types of energy produced directly by the pile are heat and
+radiation. The use of a pile for heating homes and factories would be the
+simplest possible use of atomic energy. Since the pile is necessarily large because
+of the critical size, the heating would have to be of the central-heating
+type where hot water or steam is piped to a number of near-by places. It

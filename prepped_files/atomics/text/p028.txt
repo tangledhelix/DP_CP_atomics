@@ -1,0 +1,55 @@
+the presence of the two different metals together with the salt solution in the
+frog's leg was causing an electric current to flow. This resulted in the twitching
+of the leg.
+
+But he found that the frog's leg was not needed at all for the creation of
+this electric current. In fact, he could produce electric current merely by using
+two different metals and a salt solution. By 1800 he had invented the first
+electric battery. This consisted of a pile of alternate zinc and copper plates
+
+separated in groups of two by some blotting paper soaked in salt solution.
+Later he used cups of salt solution into which were dipped strips of zinc and
+copper, connected together as shown in the diagram. Such a battery has sufficient
+strength to light a lamp or ring a bell continuously.
+
+Volta's discovery set the scientific world buzzing with excitement. Now it
+was possible to obtain large sustained electric currents from chemicals, where
+formerly only intermittent sparks of electricity could be obtained from friction.
+
+Splitting m olecules with electric current . . .
+
+Armed with Volta's battery, novel observations were soon made. The
+wires from the battery were placed in water. Bubbles were observed to form
+
+at the wire terminals! It developed
+that the bubbles were none other
+than hydrogen and oxygen, each
+being formed at opposite terminals.
+Further, it was found that one of
+the terminals from the battery
+ways had negative electrical properties,
+while the other terminal had
+positive electrical properties. The
+hydrogen gas always came off at
+the negative terminal while the
+oxygen gas always came off at the
+positive terminal. There was al-
+
+ZINC
+
+COPPER
+
+SALT
+
+SOLUTION
+
+ways twice as much volume of hydrogen as oxygen. And most interesting of
+all, as the current flowed, the water gradually disappeared and in its place there
+appeared the hydrogen and oxygen.
+
+The conclusion was unmistakable. An electric current could split the molecule
+of water--could separate the two atoms of hydrogen from the atom of
+oxygen.
+
+But why only water? Now other materials were tried. And of these, many
+could be split apart in exactly the same way. It was only necessary to pass the

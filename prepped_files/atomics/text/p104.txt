@@ -1,0 +1,51 @@
+than by dense substances such as lead. If it were a radiation like gamma rays
+or x-rays, it should have penetrated the lighter material more easily.
+
+HEAVY TARGET
+
+PERFECT REBOUND
+
+This apparently contradictory fact can be easily explained if it is
+that the particle is a neutron. We
+must return to our atomic billiards
+once again to understand this. To
+simulate the situation where a
+neutron of atomic weight 1 strikes
+a lead nucleus of atomic weight
+206, imagine a small marble
+thrown with high speed striking a
+heavy bowling ball. The marble
+unces off with practically the
+same speed and the bowling ball is
+scarcely affected. It is almost as if a
+ball were thrown against a wall.
+The wall would absorb very little
+of the original energy of the ball.
+Now let one marble strike another of the same size in a head-on manner. Observation
+as well as simple calculation teaches us that the "bullet" marble imparts
+all its energy of motion to the
+"target" marble, which then moves
+forward with the same speed. Since
+the neutron bullet has almost the
+same mass as the proton target, the
+result of a head-on collision would
+be the complete transfer of energy
+from the neutron to the proton.
+The neutron therefore rips the
+proton away from its original location
+in the paraffin, and it shoots
+into the detecting ionization chamber,
+causing ionization of the surrounding
+air. This is what had happened
+to paraffin, which consists of carbon and hydrogen atoms, with many
+more hydrogen than carbon atoms.
+
+LIGHT TARGET
+(EQUAL WEIGHT)
+
+DEAD STOP!
+
+Of course, all collisions are not head on. In the majority of cases the impact
+is at an angle, which results in a sharing of the energy. In the case of the
+collision of a neutron with a heavy lead nucleus at a glancing angle, the neutron
+would bounce off the heavy lead atom at almost the same speed as before.

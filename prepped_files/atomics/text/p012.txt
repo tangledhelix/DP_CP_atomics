@@ -1,0 +1,45 @@
+
+We may summarize this theory as follows: Every element is made up of
+minute particles, or building blocks, which are called atoms. All atoms of
+a given element are exactly alike in all respects--in appearance and in weight.
+The atom cannot be split into anything smaller. Atoms of different elements
+differ in weight and properties, and this accounts for the differences in these
+elements. Two or more atoms of different elements may combine to form a
+group of atoms, called a molecule.
+
+When hydrogen and oxygen burn to form water, 2 atoms of the element
+hydrogen combine with 1 atom of the element oxygen to form a group of
+3 atoms--a molecule of water. The water is called a compound because it is
+compounded from elements. The chemist now writes the formula for water as
+H2O, which simply means the grouping together into a molecule of 2 atoms
+of hydrogen and 1 of oxygen. Similarly, when sodium (chemical symbol Na)
+unites with chlorine (CI), 1 atom of each combines to form a molecule of
+table salt (NaCl).
+
+Explaining some of the riddles . . .
+
+Why is there no loss or gain in weight during a chemical change? According
+to Dalton's picture, chemical change simply means that the atoms have
+chosen different partners. Imagine that we have a container of blue marbles
+and a container" of red marbles. Weigh them. Now mix up the marbles and
+weigh again. There is no change in weight, simply a new arrangement.
+
+To use a different analogy, we might start with three boys and an equal
+number of girls on a dance floor, each group separated at first. The individual
+dancers correspond to the atoms. Now supply a bit of energy (in the form of
+music) and three pairs of "molecules" readily form. The total weight of our
+three boys and three girls has certainly not changed by virtue of the new
+arrangement.
+
+Why is the proportion of any element in a compound always the same?
+Why do 23 pounds of sodium combine with 35-1/2 pounds of chlorine, always
+in the proportion of 23:35-1/2? It simply depends on how much each atom
+weighs and how the atoms pair up to form the molecule.
+
+For purposes of illustration, let us take a simple molecule which consists
+of an atom of element X and an atom of element Y. Let us assume that the
+weight of an atom of X is 2 units, and that of Y 3 units. In a molecule of XY
+the total weight is 5. In this molecule the proportion of the weights of X to Y
+is 2:3. If we take 10 molecules, these will contain 10 atoms of X and 10 of Y.
+The total weight of all the X atoms will be 20; of all the Y atoms, 30. The
+proportion of weights of X to Y is now 20 30, which is still the same as 2 g.

@@ -1,0 +1,44 @@
+have exactly as do the normal atoms in every other respect and "go along with
+the crowd." By spotting the radioactive atoms, we also learn where the
+crowd has gone. In many cases of living things, in biology and medicine, this
+is almost impossible to find out unless we use these tagged atoms.
+
+Let us suppose that we have a large pool of water filled to the overflow
+point and our problem is to find out what happens when a barrel of water
+is added at one end of the pool. If the overflow channel is located at the other
+end of the pool, then of course a barrelful of water will overflow at that end.
+But we have learned nothing about what really happened to the barrel of
+water that we added. How far did the new water get? Where did it go?
+In contrast, suppose that we had introduced some red ink. If the overflow
+water is colorless, we can say that
+no red ink was able to cross the
+pool; it simply replaced some of
+the original water of the pool.
+Now suppose that the red ink appears
+to concentrate near one corner
+of the pool. Then we can
+make some conclusions about just
+how the red ink traveled. This
+simple example illustrates the basis
+for using radioactive atoms in
+studying the chemical processes
+that are constantly going on in the body. We learned about the currents in the
+pool by "tagging" the water we added, by labeling it "red."
+
+All the atoms in our body are stable--nonradioactive. If we introduce radioactive
+atoms whose presence can be detected so easily by a Geiger counter, we
+are tagging the atoms introduced just as clearly as the red ink was labeled in
+the example above.
+
+However, the method of using radioactive tracer atoms enables us not only
+to trace the motion of atoms, but to detect minute amounts of material far
+smaller than the best chemical balances can weigh. The most sensitive balances
+available can measure materials weighing about 10 billionths of an
+ounce. But the use of tracer techniques with radioactive atoms makes it easily
+possible to detect the presence of amounts of material 100 million times smaller
+than even this minute amount!
+
+Still another major advantage of this technique of using tagged radioactive
+atoms is the ease with which detection and measurement frequently can be
+made at a distance. We can have our tagged atoms deep within a material and
+yet detect their presence and estimate the amount from their effect on instru-

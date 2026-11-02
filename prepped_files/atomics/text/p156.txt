@@ -1,0 +1,33 @@
+of exactly 1 until we desire to shut off the energy production by reducing
+the factor below 1. It is no wonder that the k factor of i is called the
+critical factor. When k is maintained greater than i, an explosion results;
+when k is less than 1, no atomic energy is liberated; when k is maintained
+equal to 1, atomic energy has become tamed.
+
+CONTROLLED CHAIN REACTION
+
+NEUTRON
+U235 U235 U235
+
+As if nature had planned to lend a helping hand to our quest for controlled
+atomic energy, it was observed that the ejection of some neutrons
+from split uranium atoms is slightly delayed. As a result, we are granted
+considerably more time with which to manipulate the controls of an atomic-energy
+machine in case it should be getting out of hand.
+
+Keeping the chain letters from going to waste . . .
+
+If the mass of uranium is too small or if the size of the atomic-energy
+machine is too small, then many neutrons ejected from a splitting atom of
+uranium can escape completely from the machine into the air. This of
+course tends to break the chain. An obvious remedy to this loss of neutrons
+is to make the uranium mass larger and larger. The greater the lump of
+uranium, the smaller the chance of neutrons escaping. Thus, the primary
+objective in making an atomic-energy machine using uranium is to pile
+up the material until enough neutrons are prevented from escaping to make
+the k factor greater than i. It is for this reason that the first atomic-energy
+machine was known as a pile; it was made by piling up larger and larger
+amounts of uranium.
+
+Another major cause of loss of neutrons is their capture by U238 atoms.
+This tends to break the chain in the same manner that a chain-letter scheme

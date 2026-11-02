@@ -1,0 +1,12 @@
+
+The authors wish to acknowledge their thanks for valuable
+suggestions given in the course of writing this book to:
+Leo Gross of the Bell Telephone Laboratories; the Atomic
+Scientists of Los Alamos, including David Hawkins, Maurice
+Shapiro, Theodore Jorgensen, and Victor Weisskopf;
+Waldemar Kaempffert, Science Editor of the New York
+Times; John R. Dunning, Professor of Physics at Columbia
+University; to Simon Share and Aaron Spector of Queens
+College for their critical reading of the completed manuscript;
+and to Elsie Ruchlis, Beatrice Eidinoff, and Abraham
+and Sarah Ritt for their assistance and encouragement.

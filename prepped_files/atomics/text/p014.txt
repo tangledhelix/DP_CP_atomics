@@ -1,0 +1,43 @@
+hair. It is wasteful to be writing so many zeros. Furthermore, the chemist is
+only interested in relative weights (or atomic weights). He has found it convenient
+to choose the weight 16 for oxygen. On this scale, the weight of a sulfur
+atom is close to 32; in other words, the sulfur atom weighs about twice as
+much as the oxygen atom. On this same scale, hydrogen is 1.008, so close to 1
+that we usually refer to the weight of a hydrogen atom as 1.
+
+It is just as if we were to assign relative values to different chips in a card
+game. Give the red chips a value of 10, the blues 50, the yellows 100. In the
+same way, the chemist's atomic weight scale is simply a relative one, based on
+oxygen as 16.
+
+How many elements? . . .
+
+When compared with the excitement of the hunt for new elements, even
+many of the adventures of Sherlock Holmes seem a bit amateurish. The rules
+are very simple. Your tools are the ordinary tools of the laboratory. Remember
+that atom-smashing machines and other gadgets of our atomic age are strictly
+out of bounds here. You can use a gas flame or even an oxyacetylene welding
+torch in order to "excite" the various atoms to induce them to make new
+combinations.
+
+You have a material X, which you suspect is a new element. How can you
+be sure? Using the heat from the torch or another source and trying various
+procedures such as mixing with other materials, you attempt to produce material
+X from other substances. You also try to convert material X into other
+substances. If you can start with 2 pounds of one substance and 3 pounds of
+another and get 5 pounds of X, then obviously you have no element but a
+compound. Or, if you can start with 5 pounds of X and get 2 pounds of one
+material and 3 of another, then X is not an element. But if--no matter what you
+do--you can never get X from smaller amounts of other substances, or if you
+can never get two or more different materials out of X alone, then you have
+an element. If the properties of X are entirely different from those of all other
+known elements, then you have a new element.
+
+Proceeding in this manner, scientists discovered many elements. The Russian
+chemist Mendeleeff helped us out a great deal by setting up a table by
+which it was possible to describe the properties of the missing element before
+anyone had actually discovered it. The chemist refers to this as the periodic
+table. We might look upon it as a rogues' gallery, each drawer of which
+contains information about one element. Mendeleeff's table contains 92
+drawers. Until very recently several of these drawers were marked "vacant"
+because such a small amount of the element is present on the earth that

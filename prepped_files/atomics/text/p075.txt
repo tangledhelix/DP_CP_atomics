@@ -1,0 +1,39 @@
+we shall merely state that this particle has a weight close to i but has no electric
+charge. It is an electrically neutral particle, one of the building blocks of the
+nucleus.
+
+Designing a nucleus--a pleasant game . . .
+
+Here, then, are the rules as we follow them today. Inside the nucleus are
+protons and neutrons. Electrons are not considered to be fundamental building
+blocks inside the nucleus or core of the atom. The weight of each particle
+in the nucleus is very close to i. Start with hydrogen of atomic number I,
+atomic weight i. Here as before, the nucleus is simply a proton. Now let us
+build up the nucleus of helium, atomic number 2 and atomic weight 4. After
+a bit of doodling, it is easy to see that there is only one way to do this : 2 protons
+and 2 neutrons. The 2 protons furnish the charge of +2 and the 4 particles,
+each of weight 1, give a total atomic weight of 4.
+
+MODELS OF A HELIUM
+NUCLEUS
+
+1925 1947
+
+PROTON
+
+ELECTRON
+
+NEUTRON
+
+Now let us build up the nucleus of the element that was last in the tabl
+at least up to several years ago--uranium, atomic weight 238, atomic number
+92. The number of protons must be 92. In order to have a weight of 238, 146
+neutrons must be added to the 92 protons already in the nucleus.
+
+An old argument can now be settled . . .
+
+Not long after Dalton projected his atomic theory, the Englishman Prout
+made a very clever guess. We know that the weight of hydrogen on the
+chemists' scale is very close to 1. Prout noticed that the atomic weights of
+several of the lighter elements were close to whole numbers: helium 4, carbon
+12, nitrogen 14, etc. He ventured the guess that all atomic weights would

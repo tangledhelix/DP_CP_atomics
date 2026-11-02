@@ -1,0 +1,43 @@
+in mercury-vapor lamps, or sun lamps. Sodium gives a yellow glow charac
+teristic of the sodium-vapor lamps used on some modern highways.
+
+A mysterious beam of particles . . .
+
+But really exciting effects were observed by the Englishman Crookes a
+1878. He continued to pump out the air from the tube until practically all the
+glow coming from the inside of the tube had disappeared. However, evidence
+that something interesting was going on came from the glass of the tube,
+which now began to glow. Although he tried various schemes to find out what
+was going on inside the dark tube, he met with little success. Soon others
+began to experiment with this "Crookes tube." Many lines of attack were
+pursued. It now began to appear that a stream of particles left the negative
+terminal of the "empty tube" and traveled toward the positive terminal. What
+led to this conclusion? What kind of particles were they?
+
+A light paddle wheel was placed inside the tube. It began to spin around in
+such a direction that particles coming from the negative terminal must have
+been striking it. If zinc sulfide powder,
+known for its ability to fluoresce,
+was placed inside the tube,
+then the path of the beam streaking
+down the tube became illuminated.
+Now if oppositely charged plates
+were placed above and below the
+beam, the straight beam became
+curved. In every case the beam
+curved toward the positive plate and away from the negative plate. Thus it
+would seem that the beam consisted of negative particles. A magnet brought
+near the beam also caused it to swerve, again in a manner which indicated
+that the beam was composed of negative particles. The name assigned to a
+negative terminal is the cathode.
+Therefore, these mysterious rays
+were called cathode rays and the
+empty tube called a cathode-ray tube.
+
+All the available evidence indicated
+that the cathode rays consisted
+of negatively charged particles. Since
+they came out of the metal making
+up the negative terminal of the empty tube, these particles were probably part
+of the matter making up the metal. Possibly they were parts of the atoms of the
+metal? And were these negative particles responsible for the flow of current

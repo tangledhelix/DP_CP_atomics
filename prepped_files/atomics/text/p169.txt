@@ -1,0 +1,43 @@
+the heat liberated from this high-power pile at the stupendous rate of 1 million
+kilowatts--sufficient to melt the entire pile in short order. The two outstanding
+methods had advantages as well as severe disadvantages. At first there
+had been agreement in favor of a pile in which the hot uranium slugs would
+be cooled by helium gas. But, in general, a gas is not an efficient cooling agent,
+hence the scale at which such a pile could be operated would be considerably
+lowered. It was finally decided to use water cooling, but uranium metal is
+attacked by water. This brought up new problems.
+
+Because of the danger of deadly radiations, it was necessary to design the
+pile in such a way that it would be possible to pull out uranium slugs
+remote control in order to extract the plutonium that had been created in
+them. The kind of piping that was to be used had to be chosen with great
+care, for the atoms of many metals have the property of robbing excessive
+numbers of neutrons from the pile and thus stopping the chain reaction.
+Furthermore, it was not known at the time how the graphite and uranium
+would hold up mechanically under the enormous bombardment of neutrons
+and gamma radiation present in a large pile. Uranium is a very reactive metal;
+hence it was necessary to protect the uranium slugs from the cooling water by
+a protective layer or coating of some other metal. In addition, the water supply
+necessary to cool the pile was comparable to that used by a fair-sized city.
+
+The problem of coping with the highly lethal radiations that are given off
+during the operation of this pile was very pressing. These radiations are
+strong enough to make it impossible for the operators to go near the pile.
+Neutrons or other radiations would tend to escape through small cracks in
+barriers that might be erected. Hence, there would probably have to be thick
+walls of absorbing material, such as concrete or steel. These radiation shields
+would have to be airtight, since air exposed to the radiations from the pile
+would become radioactive and highly dangerous to the operators. But the
+construction of these protective radiation barriers would necessarily hinder
+the removal of hot slugs, the loading of fresh slugs, and the passage of the
+water supply.
+
+A site was finally chosen on the Columbia River in a sparsely populated
+section in the state of Washington. There would be plenty of cooling water
+available since the Columbia River is one of the finest sources of pure cold
+river water in the entire country. Further, the site was located near the
+Grand Coulee hydroelectric power line, so that there would be ample power to
+be utilized in the gigantic construction task ahead. Eventually, an area of
+nearly 1,000 square miles was brought under government control. Ground was
+broken for the construction on April 6,1943. During the peak of construction,
+a city of about 60,000 inhabitants, the fourth largest in the state of Washing-

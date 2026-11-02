@@ -1,0 +1,44 @@
+
+New attention began to be focused on increasing the yield by making a
+more intense beam of ions. The problem here was rather complex. Simple
+reasoning indicated that one could get a more intense beam by merely enlarging
+the original holes through which the beam passes. Up to a certain point
+this was found useful. But beyond a certain enlargement of the openings, the
+separation of the isotopes began to be reduced. The very reason for using
+small openings--the need for a narrow beam to effect separation--obviously
+interferes with our desire to obtain a wide, intense beam for quantity production.
+Thus, a wider beam would give more material, but it would no longer be
+completely separated.
+
+Compromise was found necessary. Careful experimentation indicated the
+proper enlargement of the openings that produced the beam giving the best
+possible yield.
+
+Attention was also given to increasing the yield by producing more ions
+of uranium as starting material. The uranium is usually introduced into the
+ionizing chamber as a gaseous compound such as uranium bromide. When
+this material is bombarded with electrons we get some charged molecules
+of uranium bromide as well as of uranium. Ways were found to enhance
+the production of uranium ions and thus make more intense beams of
+ions.
+
+However, a new problem was introduced as the beams became more intense.
+The very proximity of a large number of positively charged uranium
+ions in the narrow space of a beam caused them to repel each other and thus
+widen the beam. This interfered with the separation process. This effect,
+known as space charge, was partially counteracted by placing other positive
+charges in the vicinity to repel the uranium ions back into the beam.
+
+Using the largest magnet . . .
+
+By March, 1942, experimentation with these problems had increased the
+yield of U235 sufficiently to make it seem feasible to try separation on a larger
+scale. The largest magnet on earth was thus called upon to play its part in
+the further development of the separation of U235 by magnets. Before the war,
+work on a giant cyclotron had been started at Berkeley, which was intended
+to be the world's largest. The magnet for this cyclotron had poles that were
+more than 75 feet in diameter, with a working space of 6 feet between them.
+Although the construction of this magnet had been interrupted by the war, it
+was possible to complete it in a few months and use it for U235 separation.
+With this magnet it was possible to operate several U235 separators within
+the space between the poles at the same time.

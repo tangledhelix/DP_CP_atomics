@@ -1,0 +1,29 @@
+
+Chapter Eighteen
+
+Using Electromagnets
+
+When the problem of separating U235 on a large scale became
+very pressing, every known method of isotope separation was
+examined thoroughly. One of these methods, using electromagnets,
+had long been familiar in the form of the mass spectrometer used in the detection
+and measurement of isotopes.
+
+In our first contact with the subject of isotopes in Chapter Seven, we showed
+how the ability of a magnet to cause charged particles to swerve was used in
+separating and detecting the isotopes in a sample of a gas. The material to be
+tested is placed into a chamber where charged ions are produced. These are
+then focused into a narrow beam and shot through a hole into a region acted
+upon by a powerful magnet. The charged ions in the beam swerve in a circle
+under the influence of the magnet, with the lighter atoms swerving more
+sharply. The single beam thus splits into separate beams, one for each isotope
+of different weight present in the material.
+
+Originally this method of separation was used mainly to detect and measure
+the isotopes of various elements. The ions in that case were arranged to strike
+a photographic film which, when developed, showed the presence of each
+beam of ions as a black spot (or line). The amount of the isotope could then
+be determined by the amount of blackening of the film. Or an electrical
+measuring instrument could be substituted for the film.
+
+In order to convert this into a device which actually collects the isotopes

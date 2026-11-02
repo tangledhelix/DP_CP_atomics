@@ -1,0 +1,41 @@
+scene after the collision of the alpha particle with the nitrogen atom were
+hydrogen (proton) and oxygen (of weight 17).
+
+Thus, a transmutation of elements had taken place. The collision of a helium
+at om with a nitrogen atom had produced oxygen and hydrogen.
+
+OBSERVED
+
+SOLVED
+
+OXYGEN
+
+ALPHAS
+
+NITROGEN
+
+PROTON
+
+Some may question the calculations deduced from angles and velocities
+and ask how it is possible to tell from such evidence what kinds of atoms
+are being transmuted. A good test of theory is actual practice. Evidence
+such as this was the basis upon which uranium was transmuted into the entirely
+new element plutonium in quantities large enough to make an atomic
+bomb.
+
+Such final proof is enough to convince many skeptics.
+
+Simple arithmetic to check the transmutation . . .
+
+Let us try a bit of bookkeeping in connection with this pioneer experiment
+of Rutherford. In doing this, we can use what we have already learned about
+the make-up of the nucleus or core of atoms. Expressed in its bare form, the
+process that occurred was
+
+Helium + nitrogen --> oxygen + hydrogen
+(Alpha particle)  (Target atom)
+"bullet"
+
+Now let us write under each atom the number of protons in the nucleus
+and then the number of neutrons. Let us check to see that the same number
+of particles appear on each side.

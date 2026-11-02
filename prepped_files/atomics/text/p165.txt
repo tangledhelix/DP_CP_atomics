@@ -1,0 +1,50 @@
+would have a nuclear charge greater by 1. In other words, the daughter
+element would be element 94 (now named plutonium). However, their
+sample was so small that they could not demonstrate the existence of plutonium.
+Joining in the hunt at this stage was the team comprising Dr.
+Ernest O. Lawrence, Glenn T. Seaborg, Emilio Ségrè, Joseph W. Kennedy,
+and Arthur C. Wahl. In December, 1940, after bombarding uranium with
+deuterons, they obtained an isotope of element 94, plutonium. The amounts
+available were still so small that radioactive tracer methods had to be used.
+Nevertheless, many chemical properties of this element could be studied.
+In order to produce larger quantities of plutonium, several hundred pounds
+of a uranium salt, uranyl nitrate, were bombarded with neutrons for long
+periods in 1941. Small quantities of plutonium having an atomic weight
+of 239 were identified in the products, isolated, and studied intensively.
+
+Manufacture of plutonium in chain-reacting
+piles . . .
+
+NEUTRON
+U238
+U239
+#93
+#94
+PLUTONIUM
+
+Thus plutonium could be manufactured
+from uranium 238, the most numerous isotope
+uranium, merely by bombarding it with
+neutrons. The unstable U239 formed is an
+artificially radioactive substance and changes
+itself into neptunium (element 93) and
+then into plutonium (element 94)--emitting
+two electrons in succession in the process. The
+uranium 239 that is first formed decays rapidly,
+with a half-life of about 23 minutes, to
+form neptunium. The latter is also unstable
+and decays with a half-life of about 2.3 days
+to form plutonium.
+
+It was also discovered that the plutonium,
+which is fairly stable, can be used like U235
+to obtain large amounts of atomic energy.
+When bombarded with neutrons, the plutonium
+atom splits or "fisses" and produces
+more neutrons. These neutrons, in turn, can
+then split other plutonium atoms and keep a
+chain reaction going.
+
+In May, 1941, Professor Lawrence reported several extremely important
+conclusions that were to have a decisive bearing on the course of the
+atomic-bomb program. He pointed out that this element could be pro-

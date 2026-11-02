@@ -1,0 +1,45 @@
+time, it will double again, and we have the rapidly accelerating situation
+outlined above. The only difference produced by having a small k number
+to start with is that it will take a longer time to double. As soon as the
+factor exceeds 1, then growth starts. If the rate of growth is maintained
+without change, then we have an explosive type of growth.
+
+On the other hand, if the k number is less than 1, then the reverse situation
+obtains and there is a decrease or decay instead of growth. Thus, if you
+decided to spend 1 per cent of your $100 each year, you would find a gradually
+decreasing amount remaining. In this case you are left with 99 per cent of
+your money each year as compared with the previous year. The k factor is
+now 0.99. Now your fund decays and eventually dies out.
+
+If the k number is exactly 1, then your fund maintains itself without
+change. In this case there is neither increase or decrease. The fund remains
+fixed.
+
+The growth and decay of population follows a similar pattern. Every
+couple must on the average replace itself with two new persons if the race
+is to survive. In this case the k number is 1. Two people replace two people.
+The population remains stationary. If the k number is greater than 1, that is,
+if two people replace themselves with three people, on the average, then the
+population increases. If the k number is less than 1, and on the average two
+people replace themselves with fewer than two people, then the population
+ultimately dies out.
+
+Increasing the neutron population in the atomic bomb . . .
+
+The problem of the release of atomic energy is similar to the problems
+of growth of money under compound interest or of growth or decay of
+population. But in this case we deal with neutron population. For the sake
+of comparison let us assume that we start with 100 atoms that are undergoing
+fission (or splitting) and releasing neutrons (similar to our $100 in
+the bank). We have already mentioned that when each atom "fisses" (commonly
+pronounced "fishes") a number of neutrons are ejected from the
+splitting atom at great speed. The exact number is not revealed in the
+Smyth report, which simply mentions that it ranges from 1 to 3. Let us
+assume here for the sake of our discussion that on the average each U235
+atom split by neutron collision produces 3 new high-speed neutrons.
+
+Of these 300 newly formed neutrons, most will travel through ordinary
+uranium without being captured by any U235 atoms. Some simply escape
+into the surrounding air where they go to waste. Others are captured
+atoms of U238. These neutrons, too, may be considered as wasted as far
+as continuing the chain reaction, since U238 does not "fiss" and replace the

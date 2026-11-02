@@ -1,0 +1,46 @@
+
+Helium + nitrogen --> oxygen + hydrogen
+
+neutrons    2    7       8    1
+protons     2    7       9    0
+           --   --      --   --
+            4   14      17    1
+           -------      -------
+weight        18     =     18
+charge      2 + 7    =    8 + 1
+            -----         -----
+              9             9
+
+What do we learn from this arithmetic--which most of us will admit is
+much simpler than filling out an income-tax blank? We see clearly that there
+has been a rearrangement among the protons and neutrons that make up the
+atomic nuclei. We can also see that the total charge is the same before and
+after and that the total number of protons and neutrons has not changed.
+A transmutation has taken place, because different elements are present before
+and after the collision. It appears as if the high-speed alpha particle was
+actually able to enter the nucleus of the nitrogen atom. This probably resulted
+in an intolerable congestion and instability. Consequently a proton was ejected
+and an oxygen atom of weight 17 was left. This is a stable, although uncommon,
+chemical twin of oxygen.
+
+Energy was omitted in the boofyecping . . .
+
+In the above discussion we omitted a significant product of the atomic collision,
+namely, the large amount of energy. This appeared in the form of the
+high speed with which the proton left the scene of the collision--as did the
+fast-moving oxygen atom. Thus the resulting collision not only produces a new
+atom but releases a large amount of energy as well. In this action we thus
+obtain a glimpse into the potentialities of transmuting one element into another
+and simultaneously releasing large amounts of energy per atom.
+
+But lest our enthusiasm run away with us at this point, we must bear in
+mind that we are here dealing with one atom. In order to get one alpha particle
+to hit the "fly in the cathedral" it is necessary to shoot about 1 million alpha
+particles into the nitrogen. The amount of energy we get out of the process is
+far smaller than the amount of energy we put in. But the very fact that human
+beings could actually smash even one atom and transmute it into another
+one with a release of a large amount of energy per atom provided a tremendous
+stimulus to hosts of scientists all over the world. They began to bombard
+every conceivable substance with every conceivable particle, with any source
+of high-speed particles they could obtain. The result of these efforts has been
+to discover a large number of artificial transmutations of one atom into another.

@@ -1,0 +1,44 @@
+belief of the most eminent scientists up to the beginning of this century. This
+principle is called the conservation of matter.
+
+Energy, on the other hand is a far more elusive idea. It was not until a century
+or so ago that the concept of energy as existing in numerous forms,
+convertible one into the other, was developed. After numerous experiments
+and calculations during the nineteenth century, the fundamental principle of
+conservation of energy was brought forth, which postulated that energy cannot
+be created or destroyed but can only be changed into other forms.
+
+Einstein showed that energy and matter are equivalent . . .
+
+Thus for many years the two principles reigned supreme side by side--the
+conservation of mass and the conservation of energy--all through the nineteenth
+century and up to 1905 when
+Einstein tied the knot which bound
+both these principles into one. According
+to his theory, matter and energy
+are related to each other in an
+intimate manner, with a definite
+quantity of matter equivalent to a
+definite quantity of energy. Further,
+he stated that one can be converted
+into the other.
+
+Thus, matter can be destroyed and
+converted into energy. Energy can
+be destroyed and matter created.
+There is conservation, not of energy
+or matter separately, but of matter plus energy taken together.
+
+But Einstein did more than simply state that matter and energy can be
+converted into each other. He presented a simple formula which enables the
+reader to calculate the amount of energy that is liberated for a given loss in
+mass. This relation states
+
+Energy = mass times velocity of light times velocity of light
+  E    =                  M x C2
+
+In order to use this formula, the various quantities must be expressed in these
+special units:
+
+Energy in ergs. (A power source of only 1 watt operating for 1 second
+furnishes 10 million ergs of energy.)

@@ -1,0 +1,36 @@
+it is assumed, for example, that uranium (element 92) breaks down
+to give elements 54 and 38, simple calculations show that the energy amounts
+to about 200 M.e.v. for every fission of a uranium atom. This amount of
+energy is about 50 million times greater than would be obtained by the combustion
+of an atom of carbon in coal. If we wished to give the molecules of air
+around us energies corresponding to this figure, we would have to heat the gas
+to several trillion degrees! Approximately the same amount of energy would
+result if other possible breakdown pairs of atoms were assumed.
+
+NEUTRON
+HIGH ENERGY
+RADIATION
+U235
+FISSION FRAGMENT
+
+ONE TO THREE
+NEUTRONS
+
+News of the discovery of Hahn and Strassman was first transmitted to
+the United States in a telegram to Professor Niels Bohr, the renowned Danish
+Nobel prize winner, in January, 1939. At that time, he was carrying out
+investigations at the Institute for Advanced Study at Princeton University. On
+the very day that he received the message from Europe, he was attending a
+nuclear physics meeting in Washington. The scene resulting from his announcement
+of uranium fission resembled the White House press room after
+an important presidential declaration.
+
+Rapid confirmation of high fission energy . . .
+
+It was clear that the large energy release expected to accompany fission
+should readily be detected by equipment in the laboratory of every nuclear
+physicist. Six independent confirmations of this discovery were reported in
+the February, 1939, issue of a leading scientific publication, the Physical
+Review. Within a few months, the high energies resulting from uranium
+fission had been reported in the leading American, British, German, and
+French scientific journals.

@@ -1,0 +1,43 @@
+
+Neutrons now join the attack on cancer . . .
+
+With the discovery of the neutron by Chadwick in 1932, a new high-energy
+source could be added to the arsenal of weapons attacking this scourge of
+mankind. At first, neutron sources were highly inadequate. Using scarce
+supplies of radium, the issuing alpha particles would be made to strike a
+boron target, resulting in the liberation of small quantities of neutrons. In
+the same year, the ingenuity of Dr. E. O. Lawrence provided the world of
+science with a new and remarkable tool for speeding up charged particles, the
+cyclotron. Using this instrument, more copious supplies of neutrons became
+available. One of the principal ways in which this could be accomplished
+was the bombardment of beryllium with high-speed deuterons from a cyclotron.
+
+Using deuterons that have an energy greater than 1 M.e.v., the number of
+neutrons that are produced in this collision process are more abundant than
+the yield from many other kinds of collisions. When 5-M.e.v. deuterons are
+used, the neutrons produced have an energy range up to 9 M.e.v. If lithium
+is the target instead of beryllium, neutrons having energies up to 20 M.e.v.
+can be produced.
+
+Why may we expect different results when neutron beams are used in
+cancer therapy? In order to answer this question, we may look into the
+general action of both neutrons and x-rays on matter. As a result of careful
+studies, we have come to the conclusion that the primary x-rays and neutron
+beams themselves produce little effect on tissue directly. When x-rays plow
+through matter, their initial effect is to knock off electrons from atoms and
+send them shooting out with high energies. These electrons, in turn, plow
+through neighboring atoms and cause secondary ionization. But they arc
+relatively poor ionizing agents because of their small mass. This factor, however,
+gives them a greater range within the tissue before they are stopped.
+
+Neutron bullets, on the other hand, act differently. Being heavier, they are
+able to create high-speed ions from the molecules and atoms of tissue. But
+these heavy ions of high energy have very short ranges. They plow through
+a short distance in the tissue with much greater destructive effect than is
+produced by the fast electrons resulting from x-rays. The neutron bombardment
+thus produces a highly localized destruction close to the paths of the
+neutrons, whereas x-ray treatment produces more diffuse destruction of tissue
+in a general area. For this reason attempts to destroy cancerous tissue by neutron
+bombardment have been initiated in a number of laboratories. From what
+we have said, it is clear that the primary effect of these high-energy particles
+and rays is purely destructive. If sufficient numbers of molecules in a portion

@@ -1,0 +1,46 @@
+atoms. The illustration also shows a photon of light coming from outside the
+atom in the process of hitting an electron on the second level, which will boost
+it to the fourth step.
+
+With this theory Bohr was easily able to explain the frequencies of certain
+groups of lines in the hydrogen spectrum. The agreement between theory and
+observation was so remarkably close that his picture of the atom received immediate
+and widespread attention. But at the same time the concept of a
+solar-system type of atom was even more firmly entrenched, and Einstein's
+photon light package received greater support.
+
+The Rutherford-Bohr atom model has been supplanted today by other pictures
+which are more complex. But all these pictures contain the following
+essential elements : a small concentrated nucleus, electrons rotating about the
+nucleus, empty space throughout most of the atom, energy levels for electrons,
+and photons shooting out whenever the electron moves from a higher to a
+lower level. This will suffice for the purpose of atom smashing, in which our
+main concern is with the nucleus rather than with the electrons. New evidence
+about the structure of this nucleus came very soon after the solar-system at
+was brought forth.
+
+Giving each element a number . . .
+
+The evidence was now very strong in favor of the solar-system atom. The
+positive charge in the atom was located in a very small core, the nucleus.
+Now the question arose: What is this charge for each element? How many
+positive charges are on the carbon nucleus? On the oxygen nucleus? Can two
+different elements, such as gold and silver, have the same nuclear charge?
+Or is it the nuclear charge that distinguishes one element from another?
+
+We have seen how Rutherford uncovered many clues while bombarding
+atoms with alpha particles. He expected that the positively charged alpha particles
+would be repelled by the positive charge on the nucleus. By measuring
+these repulsive effects, Rutherford was able to calculate the approximate
+positive charge on the nucleus for a number of elements. This was an important
+step forward.
+
+But a far more important and precise answer to the question of the amount
+of positive charge on the nucleus was given by a young British investigator,
+Moseley, a short while before he was killed in battle in the First World War.
+
+Working with x-rays produced when high-speed electrons were made to
+bombard various materials in a cathode-ray tube, he noticed that there
+seemed to be a connection between the elements and the frequencies of the
+x-rays sent out. In fact, he found that if he assigned a definite whole number
+to each element, then he could predict the frequencies produced. What was

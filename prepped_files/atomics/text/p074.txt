@@ -1,0 +1,46 @@
+asserted that the atomic weight was in the range 2064 to 206.6. But the atomic
+weight of ordinary lead is 207.2. This may appear to be a small difference,
+but Richards's work was so reliable that this difference could not be explained
+away simply as error.
+
+Other facts of a similar nature began to appear. The element thorium (for
+which use had been found in old-fashioned gas mantles) is the radioactive
+parent atom of another family, the final offspring of which is also lead--but
+this time with an atomic weight of 208! Certainly, one pillar of Dalton's early
+atomic theory was beginning to crumble. Atoms of the same element need
+not have the same atomic weight. The essential point, of course, is that they
+must have the same atomic number, or charge on the nucleus.
+
+was now necessary to give a name to atoms that had the same atomic
+number but different atomic weight. They might be called chemical twins
+because, except for their weight, their chemical properties are so nearly alike.
+Chemists refer to such atom pairs as isotopes. Their discovery has had a profound
+influence not only on the course of chemistry and physics in the past 30
+years, but on the development of atomic energy.
+
+Building models of the nucleus . . .
+
+Early in this chapter, the problem of setting up the architecture of the atom
+occupied our attention. As soon as the work of Moseley and Rutherford
+had established the meaning of the atomic number, the curiosity of scientists
+turned toward the structure of the nucleus. Since protons and electrons were
+the recognized fundamental particles at that time, models were naturally
+built on this basis.
+
+Building these nuclei or cores of atoms is an interesting game. In the years
+1913 to about 1932 these were the rules: In the nucleus are protons and electrons.
+The protons have a weight of almost 1 on the chemists' scale and account
+for practically all the weight of the nucleus. Let us try this game for the
+first two elements.
+
+Hydrogen has an atomic number of 1 and a weight of 1. This is simple. The
+nucleus is simply a proton. Now take helium, atomic number 2, atomic weight
+4. Suppose we place 4 protons and 2 electrons together and call this the nucleus.
+The weight checks--4 protons have a weight of 4. The charge checks--4
+positive charges and 2 negative charges correspond to a net charge of +2.
+Indeed, your authors were first taught to play the game in this manner. But
+since the early thirties, students of the atom nucleus have become fairly
+certain that equally simple but different rules must be used.
+
+In a subsequent chapter we shall describe the discovery and properties of
+an interesting and important particle, the neutron. For the purpose at hand,

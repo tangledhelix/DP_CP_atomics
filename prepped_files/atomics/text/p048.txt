@@ -1,0 +1,45 @@
+
+Other evidence from fluorescence . . .
+
+We have mentioned earlier, in connection with Roentgen's discovery of the
+x-ray, that certain minerals glowed or "fluoresced" when illuminated by the
+x-rays. The glass walls of the tube also fluoresced with a greenish light when
+the x-rays were produced. Thus the high-frequency x-rays were creating lower
+frequency visible light in the glass and other minerals. It was found that ultraviolet
+light, higher in frequency than ordinary visible light, could also cause
+certain minerals to glow with lower frequency visible light.
+
+In the fluorescent lamp this fact is utilized to multiply the visible light
+output considerably. The fluorescent lamp is simply a modified cathode-ray
+tube with mercury vapor in it. It creates some bluish colored visible light but
+mostly invisible ultraviolet light, suitable for photographs but not for ordinary
+vision. By coating the inside of the tube with a fluorescent mineral, the ultraviolet
+light is converted into lower frequency visible light and the efficiency
+of the lamp is greatly increased.
+
+Another source of confirmation of the photon theory is the manner in
+which x-rays themselves are created. You will recall that Roentgen discovered
+the x-ray while experimenting with a cathode-ray tube in which electrons
+were shooting out of the negative terminal toward the positive. It was found
+that the source of the x-rays in the cathode-ray tube was the impact of the
+cathode rays or electrons as they struck the positive plate in the tube. As the
+fast-moving electrons bombarded the atoms of the metal on the positive plate,
+they caused x-ray photons to come shooting out. It was found that the greater
+the speed of the electrons, the greater was the energy of the x-ray photons
+produced. This shows up in the production of "harder" or higher frequency
+x-rays. Thus higher energy electron bullets produce higher energy, higher
+frequency x-ray photon bullets.
+
+This fact has received valuable application in the production of highly penetrating
+x-rays. The greater the speed with which the electron bullets crash
+into the positive plate of a cathode-ray tube, the greater is the energy of the
+x-ray photon ejected--the more penetrating the radiation. The objective
+in producing penetrating x-rays is thus to achieve the maximum speeding up
+of electrons by the use of high voltages. We shall see later how the electron
+speed-up process was used in the betatron to obtain x-rays that could penetrate
+12 inches of steel.
+
+Thus were forged new links in the chains that bind matter and energy together
+inside the atom. Out of the study of the x-rays and visible light came
+important conclusions about the behavior of electrons inside the atom. But
+the most important conclusions were yet to come.

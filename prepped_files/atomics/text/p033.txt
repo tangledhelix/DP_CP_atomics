@@ -1,0 +1,45 @@
+in a wire? Here indeed was a great opportunity to explore a vast uncharted
+area of knowledge.
+
+Pinning down an atomic building block--the electron . . .
+
+What were these mysterious particles coming from the negative terminal
+of the tube? The outstanding English investigator J. J. Thomson, just a few
+years before 1900, obtained some important clues. He made the particles
+swerve by placing charged electric plates near them and measuring the amounts
+of deflection. He also made them swerve by placing magnets near by. After
+these and other measurements, he arrived at several important conclusions.
+He found that the particles traveled with speeds of tens of thousands of miles
+per second.
+
+How much electric charge did they carry? How much did they weigh? He
+could not obtain the answer to either of these questions. But he was able to
+show that the charge of a particle divided by its weight was always the same
+regardless of the kind of gas used in the tube or type of metal used for the
+electrodes. Thus it would seem that this particle is a fundamental building
+block found in all matter. Today we call these cathode-ray particles electrons.
+These electron beams in modern versions of Thomson's tube are today
+serving in such important devices as the television tube, the oscilloscope used
+in radar, and the electron microscope. The all-important modern field of
+electronics grew out of these pioneering experiments to unearth the nature of
+the electron.
+
+The electron crops up in many places . . .
+
+Soon this new actor was found taking a number of roles. If you look at the
+space around the glowing wire of an electric light bulb, nothing unusual is
+visible to your unaided eye. However, a positive plate sealed into the lamp
+would show that negative particles are actually "evaporating" from the hot wire
+and traveling across the space to the plate. In fact, you have here the makings of
+a simple radio tube. Edison was the first to notice this effect but was unable
+to explain it. Experimenting with the aid of magnets and charged plates, it
+soon became clear to scientists that these evaporating particles were electrons.
+In this case the high temperature led to a greatly increased to-and-fro motion
+among the atoms making up the wire. As a result, it became easier for electrons
+to escape from the heated wire.
+
+These same electrons were soon found to be responsible for the interesting
+"photoelectric effect" in which light, falling upon certain metals, was able to
+cause electric currents to flow. When such a light-sensitive material was placed
+inside a tube with a positive terminal near by, electricity was observed to
+flow across the tube whenever light was permitted to fall on the metal. When

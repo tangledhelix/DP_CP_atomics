@@ -1,0 +1,44 @@
+atoms into lead atoms on our earth, we have been able to estimate the age
+of our planet. From the study of light produced by atoms when excited by
+various sources, we have been able to learn much about the make-up of the
+stars. In this essential unity between the infinite and the infinitesimal is
+illustrated the basic unity of the entire universe.
+
+It was because of a puzzling escape of electricity from a simple instrument,
+the electroscope, that basic problems were raised. The story of the discoveries
+arising from the investigation of an apparently insignificant leakage of electric
+charge is one to delight the fancies of the most exacting detective-story
+fan.
+
+A simple electroscope and mysterious radiation . . .
+
+Ever since scientific investigations in the eighteenth century, the electroscope
+has proved of great value in ferreting out the secrets of electricity. The instrument
+is simplicity itself.
+
+Make two leaves by folding over a
+strip of very light metal foil. Now
+attach the tip of the V to the end of
+a metal rod. Place the rod and leaves
+in a container in order to avoid
+leakage of electric charge. To operate,
+place an electric charge on the
+rod. The charge distributes itself in
+the rod and leaves. The two leaves
+now repel each other and separate
+because they both have the same
+kind of charge. The greater the
+electric charge, the greater the separation
+of the leaves. This can then
+be used to measure the amount of charge. With very thin gold foil or other
+light materials, extremely minute amounts of electric charge can be detected.
+
+This instrument has found considerable use in atomic studies, particularly
+to measure the ionization produced by high-speed particles and radiation,
+a piece of radium is brought into the vicinity of a charged electroscope
+the leaves will come together, thus showing the loss of the charge. What has
+happened? The radiation from the radium has ionized the air (knocked out
+some electrons from atoms in the path of the radiation), thereby creating
+positive and negative charges in the atmosphere. A positive charge on the
+electroscope will attract near-by negative ions, which will neutralize the
+charge on the electroscope as they reach the knob. If the charge on the elec-

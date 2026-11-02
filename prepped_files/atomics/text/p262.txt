@@ -1,0 +1,44 @@
+of tissue are broken apart by bombardment, then the tissue ceases to function
+as a cooperative entity--in other words, it becomes dead tissue.
+
+The great hope of our cancer radiologists is that a method of administering
+neutron bombardment of body cells will be found that is preferentially more
+destructive of cancerous tissue than of ordinary healthy tissue. It is an
+empirical attack, not seeking the causes of this blight nor completely attacking
+its origins.
+
+Since 1938 fast neutrons have been explored for this purpose. About 230
+patients thought to have incurable cancer were treated with fast neutrons fr
+September, 1939, to February, 1943. In June, 1945, 26 were still alive. The
+general conclusion from these and other studies was that fast neutron therapy
+showed hopeful possibilities but that considerable work remained to be done
+before a definite answer could be given. Physicians who have achieved success
+in individual cases are not prone to bring false hopes to millions of suffering
+men and women. Yet the possibilities are so promising that generous
+support has been enlisted from many scientific foundations and philanthropic
+agencies.
+
+Ingenious use of slow neutrons . . .
+
+During the past few years, a novel method of attack on cancerous tissue
+has been evolved. The entire approach has been made possible by the closest
+teamwork between the nuclear physicists--once considered to be among the
+loftiest dwellers in "ivory towers"--and the physicians. We have already seen
+how slow neutrons can be produced by allowing fast neutrons to make repeated
+collisions with light atoms, such as hydrogen and carbon. In fact,
+the use of these atoms as moderators made possible the first atomic-energy
+pile. Despite the fact that slow neutrons have such little energy, they encounter
+only slight difficulty in falling into and disrupting the nuclei of target
+atoms. High-energy particles ejected from the target atom can then be used
+in treatment.
+
+The essential idea suggested by Dr. P. G. Kruger of the University of Illinois
+is this : Let us assume that some boron or lithium compound could be placed
+near or actually inside some cancerous tissue and the whole region containing
+this tissue irradiated with slow neutrons. Now, these neutrons will have litdc
+effect on the region as a whole. But the collisions of these slow neutrons with
+the boron or lithium atoms in the cancerous tissue would cause the ejection
+of alpha particles with energies of 1 M.e.v. These high-energy alphas would
+then cause destruction of tissue only in the immediate vicinity of the boron
+or lithium atom. In this way the indiscriminate destruction of tissue over a
+wide area could be avoided. The problem in this case would be to get the boron

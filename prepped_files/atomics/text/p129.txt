@@ -1,0 +1,44 @@
+
+Finally, what evidence was there that radioactive phosphorus had been
+formed? This was based on a very ingenious type of chemical evidence. This
+technique is possible only because the Geiger counter is so sensitive that individual
+high-speed charged particles such as positrons can be easily detected
+with it. The aluminum foil was quickly dissolved in hydrochloric acid. The
+products are aluminum chloride (a salt) and hydrogen gas. When the water
+is evaporated from this solution, the solid salt remains. This salt contains
+all the aluminum that was present in the foil. The salt was not radioactive,
+proving that it was not the aluminum that was radioactive. But the gas that
+came off during the addition of hydrochloric acid and subsequent evaporation
+gave the same positron emission. That is just the result to be expected if radioactive
+phosphorus were present. Minute quantities of phosphorus reacted
+chemically with the hydrogen liberated from the hydrochloric acid to produce
+the gas phosphine (formula PH3). This gas containing the radioactive
+phosphorus was therefore also radioactive and emitted positrons.
+
+The Joliots soon found that other targets could be used in producing man-made
+(artificial) radioactivity. When alpha particles bombarded a boron
+target, artificially radioactive nitrogen, having a half-life of 11 minutes, was
+produced. In another experiment they bombarded a target of magnesium with
+alpha particles and found that radioactive silicon atoms were formed. Half
+of these newly formed atoms broke down to form daughter atoms in about 7
+minutes.
+
+The discoveries mentioned above represented only the very beginning of artificial
+radioactivity. Three elements, phosphorus, nitrogen, and silicon, were
+prepared in a radioactive form in the laboratory for the first time. By 1937,
+close to 300, and by 1940, close to 400 had been discovered! The latter figure will
+probably appear small within a few decades.
+
+Artificial radioactivity by other nuclear collisions . . .
+
+As we have seen, the first artificially radioactive isotopes were made
+using alpha particles as the atomic projectiles. The yield of radioactive atoms
+is not very high because the doubly charged alpha particles are subject to great
+repulsive forces near the target nucleus and many of them are repelled from
+the collision scene.
+
+Artificial radioactivity can be produced in a variety of ways using different
+forms of atomic projectiles. Neutrons are remarkably effective in inducing
+transmutations accompanied by radioactivity. Having no charge, they have
+little difficulty in "falling into" the target nucleus. Most neutrons end their
+life history by entering the nucleus of some atom. The variety of new atoms

@@ -1,0 +1,26 @@
+plaining the emission of light and x-rays from atoms. Could electrons travel
+around the nucleus in any orbit, or at any speed? The answer to this and
+other puzzling questions was furnished by the Danish Nobel prize winner
+Niels Bohr in 1913. His theory contained some extremely radical concepts
+but was readily accepted because it helped to explain the "fingerprint" line
+spectra produced by materials emitting Ught.
+
+PHOTON
+
+ENERGY LEVEL
+
+According to Bohr, electrons could travel around the nucleus only in a set
+of definite orbits. Electrons in an outer orbit have greater energies than
+electrons in an orbit closer to the nucleus, but every orbit corresponds to a
+definite energy. As a crude analogy, consider a many-laned race track,
+horse in the innermost lane must move at, say, 5 miles per hour. In the next
+lane, a horse must move at 6 miles per hour, etc. Popular atom models usually
+show these "Bohr orbits" about the nucleus. Another useful model arranges the
+various orbits as steps on an "energy-level staircase" as shown in the illustration.
+The lowest step corresponds to the orbit closest to the nucleus. An electron
+on a higher step has a greater energy than one on a lower step. The illustration
+shows an electron j umping from the fourth to the first step. As a result,
+it now has less energy. What has happened to this energy? Where did it go?
+hr pointed out that this energy was radiated as a photon bullet. The greater
+the jump, the higher the frequency of the light emitted. Hence the various
+possible jumps are the clues to the spectral lines, or "fingerprints," given

@@ -1,0 +1,44 @@
+
+Atomic storage battery . . .
+
+How would such "storage battery" material be made? One method would
+use the fission products of U235 for this purpose. A large pile may use up
+U235 at the rate of several pounds a day. In the course of the fission of these
+atoms, several pounds of fission fragments are formed. Most of these fragments
+are themselves radioactive and could therefore be used as atomic-storage-battery
+material. Better still, radioactive material could be made from
+a great many substances by placing them in the pile to be bombarded
+the intense radiation and neutron beams. Or they could be run through the
+pile in molten or soluble form. The latter method would make the separation
+problem easy, since the liquid would simply flow out of the pile in a radioactive
+state. It could then be collected in tanks and transported to distant
+places.
+
+Each solution (or perhaps pellet) would continue to liberate heat at a
+rate depending only upon the half-life of the atoms. It would be possible to
+select materials with appropriate half-lives for specific use. Thus, we might
+use a material with a 100-day half-life for a long-term job or a shorter i-day
+half-life atom for more rapid liberation of energy. The rate of heat liberation
+could be easily controlled simply by adjusting the amount of radioactive
+material or by diluting the solution. By using a more concentrated solution,
+we could produce steam at a fairly constant rate. Still greater concentrations
+would produce high-pressure steam suitable for running engines.
+
+Complex apparatus is not required to liberate the heat. The mere presence
+of disintegrating atoms in water would be sufficient. Shielding would be
+required if people were expected to be near the device or if the steam were
+liberated into the air. But the shielding here presents less difficulty than in
+the pile where the neutrons and high-energy gammas provide the major
+hazards.
+
+The amounts of energy liberated by such radioactive samples can become
+rather large. For example, consider a pound of radioactive material with a
+half-life of 10 days ejecting i-M.e.v. beta particles. Over the first 10-day period,
+this sample produces--continuously--an average of several hundred horsepower
+in the form of heat energy!
+
+It does not seem possible that such material could be produced at a cost
+to compete with ordinary fuels for a long time to come. But where concentrated
+sources of energy are needed regardless of cost, this method may be
+of value. Unlike the pile, it would be impossible to control the energy output,
+which would gradually decrease as the atoms disintegrate. Thus its use for

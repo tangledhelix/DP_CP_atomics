@@ -1,0 +1,43 @@
+that can thus be made is limited mainly by the number of atoms that we
+can find to bombard with neutrons. A good proportion of these transmuted
+atoms is radioactive. With the intense neutron beams of the uranium-graphite
+pile, the first large-scale atomic-energy machine, it is now possible
+to effect transmutation of elements into artificially radioactive atoms on a large
+scale. Many new varieties have already been produced and more will undoubtedly
+be produced in the future.
+
+Deuteron beams were also found to be very effective in producing artificially
+radioactive elements. The deuteron consists of a proton and a neutron.
+The charge might be looked upon as a handle by which the deuteron can be
+given a high velocity in a cyclotron or Van de Graaff generator. Intense beams
+of deuterons of high velocity can thus be obtained.
+
+Up to the early forties neutron sources were so weak that it was frequently
+found more satisfactory to use deuteron rather than neutron projectiles. An
+example of this was the production of radioactive sodium by bombarding
+ordinary table salt with deuterons. As a result, a radioactive chemical twin
+of sodium is formed with a half-life of about 15 hours. This of course represented
+a great step forward, even before the days of large-scale atomic energy.
+A single day's bombardment of salt with deuterons in the cyclotron beam
+produced radioactive sodium equal in gamma-ray production to about $10,000
+worth of radium. Of course, the salt did not really have that value, for its
+radiation was cut down to a very small amount after a number of weeks, while
+radium retains its radiation power for thousands of years.
+
+Gamma rays and high-energy photons have also been used as atomic projectiles
+in helping to produce small amounts of radioelements.
+
+The successful operation of large-scale atomic-energy machines (described
+in a later chapter) has provided us with neutron sources many thousands of
+times more powerful than had hitherto been attainable. Since the neutron is
+the ace projectile for atomic bombardments, it has now become possible for
+us to make enormously greater quantities of artificially radioactive atoms.
+Many of us look upon this fact as one of the greatest boons of the atomic age
+into which we have lately penetrated. In Chapters Twenty-four and Twenty-five
+we shall devote some time to the immense possibilities foreshadowed by
+this abundance of radioactive atoms.
+
+Roller-coaster models for atomic collisions . . .
+
+We have shown how a large number of radioactive atoms can be made by
+bombardment of a great many materials with high-speed particles from

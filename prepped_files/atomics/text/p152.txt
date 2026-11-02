@@ -1,0 +1,44 @@
+
+Some savings-bank arithmetic . . .
+
+This multiplication factor, or growth factor, is familiar to us in many
+other aspects of living. Compound interest increases in the same manner.
+When we say that the bank's rate of interest is i per cent compounded
+annually, we mean that the amount of money will increase i per cent each
+year over the amount the year before. Since the interest is added each year
+to the amount of the previous year, the increase is based upon greater and
+greater amounts and the same i per cent of these greater amounts increases
+the interest on the money each year.
+
+For example, let us start in the year 1900 with $100 to be compounded
+each year at 1 per cent interest. At the end of the first year (1901) we have
+$101. (The interest was $1.) Now our base is larger ($101 instead of $100).
+The next year (1902) our interest is 1 per cent of $101 and therefore amounts
+to $1.01 instead of $1. Our savings now are $102.01. In 1903 we have $103.03.
+In 1904 it is $104.06. In 1905 it is $105.10. Note how those pennies keep
+creeping up. What starts out as a small amount in the pennies soon rolls
+up faster and faster and becomes more and more significant as the years
+go by.
+
+How long would it take to double our original deposit? Because the
+original amount of interest at 1 per cent was $1, one might be misled
+into forecasting that it would take about 100 years to pile up an additional
+$100 and thus double the money. Actually, these pennies begin to increase
+so fast in later years that it takes about 70 years instead of 100 to double.
+But now the base is twice as great as when we started. Our interest is 1
+per cent of $200, and the interest earned is $2 in 1971 instead of $1 at the
+start. In another 70 years we would double the money again. In the next
+70 years our money would double once more. We thus have exactly the same
+situation here as with the chain letter, except that the doubling takes place
+every 70 years instead of every few days. In another 70 years we would have
+$400. The next 70 years $800, then $1,600, $3,200, $6,400 as the 70-year periods
+roll by. Just as our chain letter increased from 1 person to 524,288 by the
+twentieth round, so the original $100 starting in 1900 would have increased
+that many times to $52428,800 by the twentieth round of 70-year periods.
+Your $100 would be worth about $2 billion dollars by the end of the thirtieth
+round of 70 years in 4000 A.D., at the extremely low interest rate of 1 per cent I
+
+Static and dying populations . . .
+
+These examples show that if the growth factor k is even slightly greater
+than 1, then the original amount will double in a certain time. In this same

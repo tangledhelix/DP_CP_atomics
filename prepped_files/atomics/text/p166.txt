@@ -1,0 +1,41 @@
+duced in sizable quantities during the operation of a chain reaction in a uranium
+pile. This occurs because a chain-reacting pile builds up a very high concentration
+of neutrons. Since ordinary uranium contains over 99 per cent of the
+238 isotope, the bombardment of these atoms would cause plutonium to be
+formed in accordance with the sequence of steps shown above. Since plutonium
+underwent fission, it could probably be used in a bomb or controlled
+chain-reacting pile. But while uranium 235 could be separated only with
+great difficulty from its chemical twin U238, plutonium (being a different
+element) would have unique chemical properties. As a result, it should be
+possible to separate it by straightforward chemical means.
+
+You will observe that the process of production of plutonium that we have
+described takes place during the operation of the uranium pile. In the
+previous chapter we were concerned solely with obtaining a sufficient
+amount of uranium in the pile to reach the critical size and keep the chain
+reaction going. We were interested only in the energy produced by the
+uranium pile. Now, we sec that the bombardment of U238 by neutrons
+has a useful by-product. The capture of a neutron by U238 leads to the formation
+of a plutonium atom.
+
+In fact, the important properties of plutonium quickly turned the tables and
+stimulated us to build uranium piles solely to get the plutonium, with the
+large amounts of energy becoming a wasteful and even harmful by-product.
+
+Bomb in 70,000 years using the first pile . . .
+
+Some arithmetic will tell us very quickly that the first chain-reacting pile
+in history, which was described in the previous chapter, was woefully inadequate
+for the purpose of producing the needed plutonium. It was estimated
+that a bomb might require an amount of plutonium ranging from 2 to 200
+pounds. Smyth reveals in his report that a pile producing about 2 pounds
+of plutonium per day would be liberating energy at the rate of 500,000 to
+1,500,000 kilowatts (a kilowatt is 1,000 watts--about 1-1/3 horsepower). But
+the first chain-reacting pile set up at the University of Chicago was operated
+at a maximum of about 200 watts (or 75 kilowatt). At this rate, it would
+take at least 70,000 years to create the plutonium needed for one bomb!
+It thus became a matter of urgent necessity to design and build a pile that
+would furnish the needed plutonium in a reasonably rapid time--not centuries!
+
+The large power liberation-- million kilowatts--is difficult for us to comprehend.
+Viewed from a monetary standpoint, a utility company ingenious

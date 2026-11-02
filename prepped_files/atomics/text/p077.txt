@@ -1,0 +1,40 @@
+
+The British physicist F. W. Aston made many outstanding discoveries using
+mass spectrometers, which he helped to perfect. Today, over 300 atoms of
+different mass have been sorted out and examined.
+
+Let us assume that we are studying the isotopes of neon gas, familiar to us
+as a component of the neon sign. Neon gas consists, in the main, of two kinds
+of atoms, of weights 20 and 22. The neon gas is introduced into the so-called
+mass spectrometer tube at low pressure. Electrons are allowed to collide with
+the neon atoms, producing positively charged neon ions of weight 20 and 22.
+Under the influence of the attraction of a negatively charged plate, these
+positive ions are now induced to move down the tube. After traveling about
+12 inches, the ions are now forced to swerve by a magnetic field. Here the
+sorting begins to take place. The ions of weight 22 are not swerved so sharply
+as those of the lighter neon atom of weight 20. As a result of careful design,
+the two beams of ions, 20 and 22, are now separated from each other by a
+measurable distance.
+
+How are the separate beams identified? We may allow them to fall on a
+photographic plate, producing sharp lines where they fall. From the distances
+between these lines, we can accurately determine their atomic weights. It is
+more common today actually to measure the tiny current of ions in each
+beam and arrive at the weights and relative amounts from the currents that
+are observed. These currents are extremely small when compared to a commonly
+used electric current. For example, the mass spectrometer current
+would have to be multiplied over a million billion times in order to begin to
+equal the current through your toaster or flatiron.
+
+Our ability to sort out and weigh various atoms in this useful instrument
+has enormously increased our confidence in the reality of atoms and of the
+atomic models which we have projected. Today, the mass spectrometer is a
+standard tool in the laboratories of many industrial firms as well as universities.
+Later we shall see how this method was boldly applied on a several-hundred-million-dollar
+scale in order to separate one isotope of uranium from
+another.
+
+Armed now with evidence that the core of the atom, the nucleus, is the seat
+of transmutations and energies far greater than those obtainable from chemical
+reactions, attention was centered on the next important problem of breaking
+into this core and finding out its secrets.

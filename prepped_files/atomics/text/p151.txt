@@ -1,0 +1,24 @@
+respond to each of these new letter senders the total number of letter
+writers on the third round will be 4. The next time 8 people send out letters.
+The next time 16 people send out letters. This constantly doubles from 16
+to 32, to 64, to 128, to 256, to 512, to 1,024, to 2,048, to 4,096. By the twentieth
+round 524,288 people are sending letters!
+
+At the end of the twenty-eighth round over 134 million people--practically
+the entire population of the United States--are required to keep the
+chain doubling at the same rate. Thus one person can soon involve the
+entire nation in letter writing by the simple process of getting two others
+to write letters. And it only takes 28 rounds in the chain to do it. The
+growth is enormous. This example illustrates a k factor of 2.
+
+The explosive nature of growth with k equal to 2 is also shown in a
+startling manner with an oft-told problem. Let us suppose the reader is
+offered a choice of one of two similar jobs. One job pays $100,000 a day for
+a period of 30 days. The other pays only 1 cent the first day, 2 cents the
+next, 4 cents the next, 8 cents the next, and so on, doubling each day for
+30 days. Which job would you take?
+
+It would be wise not to be too hasty. The job starting with 1 cent a day
+will actually pay you a total of $5,368,709.12 on the thirtieth day of your
+labor. Your total pay for the 30-day period would be close to 10.7 million
+dollars. Compare this with the 3 million dollars you would earn on the

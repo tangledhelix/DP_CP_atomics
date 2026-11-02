@@ -1,0 +1,46 @@
+of the concentrated energy of burning coal. This engine had only one use--to
+pump water out of coal mines. The losses of energy were so great and its
+efficiency so low that only at the source of coal supply was it feasible to use
+its power. Besides, how could we carry the coal to other places where the
+engine was needed? No railroads had been constructed as yet, and it certainly
+did not pay to transport the coal to the engine by horse and wagon. But Newcomen
+did make a tremendous advance when he fitted a sliding piston into
+a cylinder and utilized the push of the steam to make the piston move. This
+has remained the basic pattern of most of our modern heat engines.
+
+Steam and gasoline . . .
+
+It took more than half a century for Newcomen's engine to develop into a
+relatively efficient prime mover that could be adapted to other uses such
+as trains and boats. Credit for the basic improvements in the steam engine
+goes to James Watt, who brought forth the modern steam engine in 1763.
+This engine has remained relatively unchanged in basic design until today.
+
+CYLINDER
+PISTON
+
+These early heat engines, as
+well as our most modern turbines
+and gasoline engines, all utilize
+the same basic principles. The
+problem in converting heat energy
+into motion is to organize
+the random motion of molecules
+(speeded up by the heat produced
+by the combustion of a fuel) so
+that they all push one way. At high
+temperatures the molecules contained
+in a chamber will bombard
+the walls in all directions and exert
+a considerable pressure. Some
+idea of this force may be obtained from the fact that a given amount of water
+when boiled and converted into steam at ordinary pressures will produce a
+volume of steam about 2,000 times as great as the original volume of the water.
+However, if the steam cannot escape, its tendency to expand causes an enormous
+pressure on the walls of the container. The completely random motion
+of the molecules exerting this pressure can then be utilized by making it
+possible for one part of the container to move. Thus the piston in a steam engine
+can move while the walls cannot. Hence the bombardment of the molecules
+pushes the piston.
+
+In the case of a gasoline engine, the fuel is burned right inside the cylinder

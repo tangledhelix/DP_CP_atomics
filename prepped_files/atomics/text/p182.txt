@@ -1,0 +1,17 @@
+It shows small (less than i per cent) but sudden fluctuations in power level,
+probably caused by bubbles in the water. It cannot be shut down as completely
+or as rapidly as the graphite pile because of the tendency of delayed gamma
+rays to produce (from the heavy water) additional neutrons."
+
+A heavy-water pile and a plutonium-separation plant have recently been
+completed and are now operating at Chalk River, Ontario. The size of the
+effort here may be gauged by the 20-million-dollar capital outlay and the
+3-1.2-million-dollar annual operating budget for the plant.
+
+A major factor in the peacetime use of atomic energy is the consideration
+of compactness. Another important factor is the need for a good coolant inside
+the pile. Both these important considerations make heavy water a desirable
+moderator material. The use of heavy water in piles is now limited by the
+expense of its production and its lack of availability. In the future, as peacetime
+uses of atomic energy are developed, heavy water may well take its
+proper place along with carbon as a moderator in the uranium pile.

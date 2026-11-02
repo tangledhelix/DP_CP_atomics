@@ -1,0 +1,46 @@
+
+This hunt can be broken down, roughly, into two major periods. The
+first, lasting up to the end of 1942, culminated in the actual construction
+of a working atomic-energy machine, forerunner of future peacetime
+atomic-energy machines. After that, the major problem revolved around
+the production of bomb material and its manufacture into atomic bombs.
+When the full import of atomic energy is realized in the distant future,
+it may well be that historians will mark the beginning of the Atomic Age
+not from 1945, when the first bomb was dropped, but from 1942, when the
+first machine was actually operated.
+
+The operation of this machine depends upon starting and controlling a
+chain reaction in uranium. This success hinged upon a certain critical
+factor, which was to act as the focus for all scientific research, culminating
+in the creation of the first atomic-energy machine.
+
+The critical factor "k"--success or failure . . .
+
+The operation of an atomic-energy machine depends upon the successful
+maintenance of a chain reaction in which one neutron splits an atom and
+releases other neutrons, which in turn split other atoms. But there is no
+guarantee that these secondary neutrons released by a fission starting with
+one neutron will be effective in splitting other atoms.
+
+Suppose that we start with a lump of uranium and shoot 100 neutrons
+into it from an outside source. Some of these will strike U235 atoms, cause
+fission, and thus bring about the creation of new neutrons. Others, however,
+will be lost by various means. Some will simply escape from the
+uranium into the air. Some will be captured by U238 atoms, by other
+materials, by impurities, or by the walls of the container. However, if from
+these 100 original neutrons, 105 new ones result after all these gains and
+losses, then k is 105 divided by 100, or 1.05. We have multiplied the number
+of neutrons by 1.05. This represents a growth of 5 per cent. As long as
+k is even a little greater than 1, a chain reaction is possible. But if 99 new
+neutrons are formed, then k is 99 divided by 100, or 0.99. As long as k is
+even a tiny fraction less than 1, a chain reaction is impossible, and no large-scale
+atomic energy would be produced by the pile.
+
+The chain-letter fad . . . A nice salary . . .
+
+The problem of starting a chain reaction that would keep going by itself
+
+is somewhat similar to the problem of keeping a chain letter going. If the
+person who starts the chain letter sends out a number of letters and on
+the average gets two other people to continue these letters, then he has a
+very successful chain which grows by leaps and bounds. If two persons

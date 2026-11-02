@@ -1,0 +1,45 @@
+
+How would it be possible to separate this minute amount of radium fr
+the barium? The solution adopted was simple in principle but very tedious
+in practice. Barium chloride dissolves to a moderate extent in water, while
+radium chloride is much less soluble. In practice then a hot solution of radium
+and barium chlorides was allowed to cool until crystals began to form. Since
+radium chloride is less soluble than barium chloride, the crystals that came
+out of solution were about five times richer in radium. Thus, from a concentration
+approximately equivalent to about one drop in a gallon of water,
+the radium concentration was now equivalent to five drops in a gallon.
+
+However, this technique could be repeated many times, and in each case the
+product was slightly richer in radium. Finally, it was possible to prepare
+compounds of radium so pure that the barium content could hardly be identified
+by the spectroscope, one of the most sensitive tools of the physicist.
+
+Radium has remarkable properties . . .
+
+From the chemist's point of view, radium is a well-behaved element. Just
+as he would have predicted from his rogues' gallery, radium is the heaviest
+member of a family of elements called the alkaline earths. The lightest member
+of this family is calcium, some of whose compounds are familiar to us
+in the form of lime, limestone, and plaster of Paris.
+
+On the other hand, the energy emitted spontaneously from this new "plaything"
+of the physicists had remarkable properties indeed. Whereas all ordinary
+substances tend to remain at the same temperature as their surroundings,
+a sample of radium remains measurably warmer. In several days radium emits
+more energy than can be obtained from the explosion of the same weight of
+TNT. But the explosion of the TNT has used up the chemical energy latent
+in this material, while the atomic energy liberated by the radium is almost
+steadily maintained. In ioo years, a sample of radium will lose only 4 per cent
+of its activity. Practically infinitesimal amounts of radium or other radioactive
+materials dissolved in the paint of watch dials are enough to keep them glowing
+in the dark for unlimited periods of time.
+
+Tracking down the radiations with a cloud chamber . . .
+
+During the first decade of our century, many ingenious experiments were
+devised to ferret out the nature of these penetrating radiations. The questions
+that were asked took many forms. How far did the radiations travel in air
+and in various materials? To what extent were they effective in tearing apart
+the molecules of a gas into charged particles, or ions? Did the radiations
+consist of charged particles? If so, could they be swerved and deflected
+electric and magnetic forces? If they were not deflected, the radiations might

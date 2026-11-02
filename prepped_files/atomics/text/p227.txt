@@ -1,0 +1,43 @@
+heat, and motion in homes and factories miles away. The danger from radiations
+is at a minimum here since the users of the energy are miles away. In a
+turbine on a large ship the problem of protecting the passengers would be more
+serious. In a large airplane it would be an even more difficult problem since
+the passengers must necessarily be close to the pile.
+
+Water is not the only liquid that can be used for circulation in the pile.
+The liquids chosen must meet several important requirements. Efficient
+steam-engine operation requires high temperatures. Consequently, the liquid
+must remain stable at high temperatures. It must not cause corrosion of the
+materials in the pile. And it must not capture an excessive number of neutrons
+and stop the chain. It is to be expected that materials other than water will be
+used. In fact, certain molten metals look promising in this respect and may
+replace water as the circulating fluid.
+
+Calling in the plumber will be of little use . . .
+
+It is important for us to keep in mind that installations of this kind must
+be practically foolproof, for the intense radiations of the pile make the component
+parts so radioactive that adjustments near the pile become very difficult.
+In current large-scale engineering operations, occasional shutdowns are
+necessitated by leaks at pipe joints, cracks in piping, and the effects of
+specific corrosion. In such cases the welder, plumber, and pipe fitter can approach
+the troublesome spot and repair the cause of the trouble. Not so with
+many pile operations. This maintenance factor is probably the most challenging
+to our leading engineers. In addition, all the uses of atomic energy must
+be free of any dangers to the consumer in the form of radiations carried by the
+air, water, or steam coming from the pile.
+
+Look for large installations . . .
+
+The common heat producers, coal, oil, and gasoline, and their engines,
+steam engines, diesel and gasoline engines, have few limitations as to size.
+There are tiny model-plane gasoline engines and giant 3,000-horsepower airplane
+engines. There are tiny palm-sized steam engines and giant steamship
+engines. These various sizes can be adapted to a variety of purposes and uses.
+Not so with existing atomic-energy engines.
+
+The basic requirement of the chain reaction is the piling up of a sufficient
+amount of fissionable material to exceed the critical size. It requires several
+tons of ordinary uranium to do this. In addition there are many tons of
+moderator material. And finally there must be large quantities of shielding
+material to protect persons near by from dangerous radiations. All

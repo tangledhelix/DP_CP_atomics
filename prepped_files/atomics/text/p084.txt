@@ -1,0 +1,44 @@
+the space and gives it an additional pull which increases its speed. As a result
+of this increase in speed the proton swerves in a larger circle. Furthermore,
+it now has an energy corresponding to two times 10,000, or 20,000 electron
+volts.
+
+The key to the successful operation of the cyclotron is that the larger semicircle
+is covered in the same time because the speed is correspondingly greater.
+As soon as the proton returns to the center line again, the voltage is switched
+once more. Terminal A now becomes negative and attracts the proton back
+across the space between the boxes, giving it another increase in speed, now
+corresponding to an energy of 30,000 electron volts. The magnetic field then
+swerves the proton in a larger circle (because of its increased speed) and brings
+it back to the center line, where the switching of the charge on the two halves
+of the box again pulls the proton across the space and still further increases
+its speed (now corresponding to 40,000 electron volts). The proton thus
+travels in a gradually increasing spiral, faster and faster with each return to
+the center line, until it is traveling at speeds up to thousands of miles per
+second. These high-speed particles are then permitted to strike the target
+material placed near the outside of the cylindrical box and smash into the
+atoms of the target. The proton plows through the outer electron rings of the
+atom and, despite the repulsion of the like positive charge of the nucleus, can
+occasionally force its way into the nucleus.
+
+Building larger merry-go-rounds . . .
+
+It is obvious that the arrangement described must be designed with great
+precision if it is to work. The particles are traveling with speeds up to thousands
+of miles per second near the rim of the split box. The length of the
+path is only a few feet, and the time for the particle to come around and back
+to the center line is therefore measured in millionths of a second. The alternating
+charges on the plates must then be changed millions of times per
+second! At the same time the magnetic force must be powerful enough to
+swerve the particle around in a short circle despite its tremendous speed. It is
+a tribute to the precision of modern science that all these factors could be
+combined in proper amount to obtain the desired result.
+
+The cyclotron used in California in the early forties weighed about 200 tons
+and could produce protons having an energy of 8 M.e.v. and high-energy alpha
+particles approaching 40 M.e.v. It was for his achievement in originating and
+developing the cyclotron that Lawrence was awarded the Nobel prize in 1940.
+Prior to the Second World War, about 35 of these cyclotrons had been constructed
+by the major scientific centers in many nations.
+
+Shortly before the war, more than a million dollars was set aside for the

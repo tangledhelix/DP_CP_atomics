@@ -1,0 +1,47 @@
+
+Do not imagine that these arc the only problems involved in using U235 for
+rocket ships. The radiations here would also be a serious danger. Intense heating
+of the surface of U235 would raise serious cooling difficulties. Certainly,
+one would have to be most imaginative to expect such uses for rocket-ship
+flight in just a few years. Nevertheless, the possibility for such use does exist.
+How long it will take--if it is done at all--to get a practical atomic-energy
+rocket ship is anybody's guess at this stage.
+
+Atomic energy from more plentiful atoms . . .
+
+Up to this point man has uncovered four methods by which atomic energy
+is released in nature. On the earth, we have the naturally radioactive materials,
+which exist in quantities too small to be utilized for any but highly specialized
+purposes. We have the chain-reacting uranium pile as the only practical large-scale
+liberation of atomic energy to date. It is also possible to manufacture artificially
+radioactive materials with the pile or with atom guns. A fourth process,
+the release of atomic energy in the sun and stars, arouses our envy and admiration.
+This process not only utilizes common materials such as hydrogen to
+liberate energy but is about ten times as efficient as well. While the use of U235
+in a chain reaction converts only 1 part in a thousand of the mass into energy,
+in the stars about 1 part in a hundred of the mass of hydrogen is converted
+to energy. Were we able to duplicate this process on earth, then there would be
+absolutely limitless energy available. The vast quantities of water on earth,
+close at hand, would provide infinitely more hydrogen than we could profitably
+use. Could we ever duplicate this energy conversion on the earth?
+
+Let's see how the sun does it. According to a theory by H. Bethe, the hydrogen
+is converted into helium by a complex series of steps involving carbon and
+hydrogen isotopes as follows:
+
+1. Carbon (12) captures hydrogen (1) --> nitrogen (13)
+
+2. Nitrogen (13) breaks down --> carbon (13) and positron
+
+3. Carbon (13) captures hydrogen (1) --> nitrogen (14)
+
+4. Nitrogen (14) captures hydrogen (1) --> oxygen (15)
+
+5. Oxygen (15) breaks down --> nitrogen (15) and positron
+
+6.  Nitrogen (15) captures hydrogen (1) --> carbon (12) and helium (4)
+
+In this process a total of four hydrogen atoms were captured. One helium
+atom and two positrons were liberated. The original atom of carbon 12 returns
+at the end to repeat this process over and over again, as a sort of catalytic agent
+for the conversion. The net effect is the transformation of four hydrogen

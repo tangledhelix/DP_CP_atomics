@@ -1,0 +1,43 @@
+the significance of this whole number? Simply the amount of positive charge
+on the nucleus.
+
+But to go one step further, this amount of charge on the nucleus is the important
+and distinguishing factor about the atom. In fact, the properties of
+the elements are determined by this positive charge. If two atoms have the same
+positive charge on the nucleus, then they must be atoms of the same element
+and must have practically identical properties, even though they have different
+weights. This positive charge on the nucleus is so important that we
+generally identify the element today simply by referring to its atomic number,
+(equal to the positive charge on the nucleus). Thus hydrogen, atomic number
+1, has a positive charge of 1 on the nucleus. Helium, atomic number 2,
+has 2 positive charges. Lead, atomic number 82, has 82 such charges.
+
+This identification of the elements by number cleared up a puzzling problem
+that had baffled chemists for many years. From the very beginnings of
+careful measurements of atomic weights, the chemist had attempted to arrange
+the elements in some way so as to discover possible relationships between
+them. A natural arrangement was by atomic weight. True enough, a strong
+similarity was noticed between elements in certain groups when arranged
+in that manner (our familiar rogues' gallery of the elements). But there were a
+number of cases in which the arrangement according to atomic weight led
+to results so absurd that a heavier atom had to be put ahead of a lighter atom.
+This was very annoying, since even a few exceptions indicate that the theory
+may be radically incorrect. Here the use of atomic number was a great boon.
+The annoying exceptions disappeared completely. In addition, Moseley's
+brilliant work showed us at least one sure method of determining the atomic
+number of an element. This has helped considerably in the search for some
+of the very rare elements of the rogues' gallery.
+
+How many planetary electrons? . . .
+
+Moseley's work furnished a definite answer to the question of planetary
+electrons also. An atom is electrically neutral--there is no excess of positive
+or negative charges. As a result, the number of planetary electrons in a neutral
+atom must equal the number of positive charges on the nucleus, namely, the
+atomic number. Thus, using the examples above, hydrogen has 1 planetary
+electron, helium 2 planetary electrons, and lead 82 planetary electrons.
+
+We have reached a very important landmark along the path of atomic discovery.
+Before going on, we might pause a moment and take stock of our
+situation. The atom model now before us consists of a small central core,
+or nucleus, which contains practically all the mass of the atom and carries at

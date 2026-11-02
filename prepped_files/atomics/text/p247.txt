@@ -1,0 +1,43 @@
+ready developed the cyclotron and was quick to realize that the more intense
+beams of high-speed projectiles from this machine could be used to increase
+the production rate of these new atoms. Thus, from 1934 up to the early
+forties, the atom-smashing machines were our most important source of man-made
+radioactive atoms. Deuteron beams were effective in helping to produce
+radioactive sodium, potassium, sulfur, chlorine, phosphorus, iron, and iodine.
+By 1940, close to 400 radioactive types of atoms had been produced and the
+number was continuing to increase.
+
+Now the chain-reacting pile has begun to shoulder the burden of producing
+these atoms in greater numbers for the use of a far greater number of investigators.
+In two respects the products of the pile cannot be surpassed by the
+atom-smashing machines. In the first place, the destruction of the uranium
+atom results, as we have seen, in the formation of numerous radioactive fission
+products. Included in these are some elements that are relatively scarce in
+nature. Second, the chain reaction in the pile is carried by neutrons ranging
+in energy up to about 1 M.e.v. So it is possible to obtain neutron beams with
+the pile that are many thousands of times more intense than those obtainable
+with the cyclotron.
+
+The pile therefore is more useful for making radioactive atoms by means
+of neutron bombardment with projectiles having these energies. Fortunately,
+several very important isotopes can be made in this manner. Of these, most
+scientists will agree that carbon 14 is of greatest value, since the chemistry of
+all processes connected with living things involves compounds of carbon.
+Scientists consider the importance of this isotope of carbon so great that the
+construction and operation of uranium-carbon piles solely for the production
+of this material would be amply justified. Some even consider the possibility
+that new information gleaned from researches with carbon 14 might someday
+outweigh the importance of the discovery of fission itself.
+
+Using "tagged" atoms as tracers . . .
+
+To understand the use of radioactive atoms as tracers, or "spies," we must
+keep two things in mind. First, the radioactive twins are easily identified by
+the use of simple electrical instruments. Consider a sample of food containing
+radioactive carbon that will be used to study a step in digestion. Almost all
+the molecules contain ordinary stable carbon atoms. A very few contain
+carbon 14. This radioactive atom ejects a beta particle which can create ionization
+inside a Geiger counter tube or help discharge a sensitive electroscope.
+Thus we can "count" the carbon 14 atoms by noting the "clicks" on the counters
+connected to the Geiger tube or by watching the leaves collapse on a charged
+electroscope. Second, we should bear in mind that the radioactive twins be-

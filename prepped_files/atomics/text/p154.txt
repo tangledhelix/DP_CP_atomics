@@ -1,0 +1,43 @@
+original neutron with other neutrons. Some neutrons strike impurities and
+create atomic changes that do not result in replacement of the neutrons with
+which we started. However, some will stride U235 atoms and cause these
+atoms to "fiss" and release a new crop of neutrons which can continue the
+chain.
+
+Now the key to the chain reaction and the continuing release of atomic
+energy lies in the number of neutrons produced that are effective in bom-
+barding new atoms of U235. If 101 of the 300 neutrons produced by the
+previous collision strike new U235 atoms and cause them to "fiss," we can
+have a successful chain reaction. Starting with 100 "fissing" uranium atoms,
+we are now dealing with 101 after one round. These 101 atomic explosions
+will in turn produce a new crop of neutrons which can again split a number
+of new U235 atoms. Each time the number of split atoms increases slightly,
+since the critical factor k is 1.01 (101 are produced from 100).
+
+New links in the chain are forged very rapidly . . .
+
+Even when the k number is allowed to remain as small as 1.01, the number
+of atoms taking part in the chain soon grows to fantastic proportions.
+Just as in the case of $100 increasing each year at an interest rate of 1 per
+cent (k = 1.01), it would take 70 successive rounds of atomic explosions to
+double the number of uranium atoms that are splitting. In another 70
+rounds they would double again to 400. You can recognize now all the characteristics
+of the enormously mounting growth in our previous illustrations.
+
+The key to the rapidity of the growth is the time interval between one
+group of atomic explosions and the succeeding group. It all depends upon
+how long it takes for a neutron to split a U235 atom and create new ones.
+But a neutron on the average moves at the rate of many miles in a second,
+while the distance from one atom to the next is only about one one-hundred-millionth
+of an inch! Thus the time factor must be measured in millionths
+of a second. If we assume that the time it takes for the neutron to leave
+a splitting U235 atom and smash into another one is about one-millionth of
+a second, then the situation outlined above (with 100 neutrons creating
+101) will explode the uranium in a fraction of a second. After 1,000 successive
+chain explosions of atoms, the original 100 atoms shooting out neutrons
+will have grown to more than 2 million atoms. In the next one-thousandth
+of a second the 2 million atoms will have multiplied themselves
+to more than 40 billion splitting atoms. In the next one-thousandth of a second
+these will be increased to about 900 trillion atoms "fissing." In the next one-thousandth
+of a second these will be increased to about 20 billion billion atoms
+splitting apart. Thus the atom smashing rushes to a grand explosive climax as

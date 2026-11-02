@@ -1,0 +1,44 @@
+
+Distillation can be used to concentrate heavy water . . .
+
+Distillation is one of the most frequently practiced techniques of the
+laboratory chemist. The rapid growth of our petroleum industry and the
+production of organic solvents on a large scale has furnished us with unparalleled
+technical know-how in this vital field. Particularly during the
+era of Prohibition, many amateurs found this an effective (albeit illegal)
+device for separating one liquid from another.
+
+The principle involved in distillation is familiar to many of us. Hold
+a cold iron poker in the steam coming from the boiling water in a teakettle
+and notice that drops of water have condensed on the poker. These
+drops are pure "distilled water."
+Now suppose we put some sea water
+into the teakettle. The water
+that now condenses on the iron
+poker or any other cold object is
+also pure water. Why? Water boils
+at 2120 F. Salt boils only at a very
+high temperature. Thus we say
+that water is the more volatile of
+the two materials. Here we can
+make an almost perfect separation
+of the salt water into salt and water.
+
+Now let us place in the kettle a
+sample of beer that contains about 3 per cent alcohol by weight. Let us further
+assume that the beer contains only alcohol and water. Now examine the drops
+of liquid that condense on a cold object and you will find by chemical tests that
+the condensed liquid is richer in alcohol than the original beer. This occurs because
+alcohol is more volatile than water and boils at only 1730 F, while water
+boils at 2120 F. The beer will boil somewhere between these two temperatures.
+But when the boiling takes place, the molecules of alcohol will boil
+off far more rapidly than those of water. Thus, when the vapor is condensed
+by cooling it will be found to be richer in alcohol than the original mixture.
+
+Now if we wished to get a sample even richer in alcohol, we could collect
+some of the drops that condensed and place them in a smaller teakettle and
+distill once more. Of course this would be a tedious job. Therefore, for industrial
+purposes, huge towers are constructed in which the simple step of
+distillation is repeated many times in one process. As a result, we achieve an
+excellent separation of the two liquids that were present in the original solution.
+These huge towers are called fractionating columns, and most of us

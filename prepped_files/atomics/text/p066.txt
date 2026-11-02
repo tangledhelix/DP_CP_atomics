@@ -1,0 +1,29 @@
+
+Chapter Seven
+
+Discovering Atomic Architecture
+
+Leading to the key problem . . .
+
+During the first decade of the present century, the intensive study of
+various rays in the cathode-ray tube and of the radiations from
+radium had revealed a number of important conclusions about
+atoms and the particles of which they are composed.
+
+There was no doubt that the atom existed. All the work of the chemist and
+much of the labor of the physicist had proved that conclusively. There was
+no doubt, also, that the atom contained small fundamental particles having
+mass and electric charge. The electron, the unit of negative electricity, and the
+proton, the unit of positive electricity, were already well known. The key
+question was, How are these particles arranged in the atom? Is the mass of
+the atom distributed uniformly, as if it resembled a baseball? Or, taking the
+other extreme, does the atom resemble our own solar system, in which the sun
+may be considered the nucleus or core around which move small planets separated
+by great distances from the sun and from each other? Within 16 years,
+this problem was solved. And the method of solution might be termed atomic
+artillery practice.
+
+Puzzle in a mattress box . . .
+
+The general plan of attack on the problem is crudely illustrated by this
+example. Assume that we have a large, flat cardboard box such as may have

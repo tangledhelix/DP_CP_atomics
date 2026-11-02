@@ -1,0 +1,43 @@
+separated from the 238 and bombarded with slow neutrons. It was found that
+fissions came only from the uranium 235. No fissions were detected when slow
+neutrons were used to bombard pure uranium 238. Thus another fact necessary
+to the liberation of large-scale atomic energy from uranium was unearthed.
+
+Neutrons are also formed during fission . . .
+
+Now another vital fact was uncovered. It was shown that when a single
+neutron bombarded an atom of U235, other neutrons shot out of the atom,
+along with the fission fragments. Von Halban, Joliot, and Kowarski calculated
+that, on the average, 3.5 neutrons were emitted per fission. Anderson,
+Fermi, and Hanstein, working in the United States, later reported
+about 2 neutrons per fission. Many other investigators tackled this problem.
+In a careful study, Zinn and Szilard, writing in Physical Review, estimated
+that 2.3 secondary neutrons, on the average, were emitted as the result of
+the splitting of a U235 atom.
+
+This fact opened up new possibilities. If one neutron could cause a
+uranium 235 atom to split and release a large amount of energy, and at the
+same time produce a number of new neutrons, then it might be possible for
+these secondary neutrons to repeat the process and cause additional U235
+atoms to split. Thus, for the first time the possibility of a chain reaction
+was established, in which one neutron would start a whole series of fissions
+which would not stop until all atoms of U235 had been split.
+
+Large-scale atomic energy might now be possible . . .
+
+Of hundreds of well-known nuclear reactions, uranium fission offered
+the first opportunity to obtain nuclear energy on a practical scale. As far
+back as 1932, Cockroft and Walton, working in England, bombarded a
+target of lithium metal with 700,000-volt protons. Two alpha particles were
+produced as a result of each successful collision. The combined kinetic
+energy of the alpha particles was 17 M.e.v. Simple calculations proved that
+this large energy came from the mass that was lost in this reaction. Here
+then was an example of the conversion of mass into energy. Why not use
+this reaction or similar ones to obtain atomic power i
+
+The answer applied to all laboratory experiments up to 1939, including
+those with cyclotrons and other high-energy artillery machines. Unfortunately,
+not enough particles could be made to react in a reasonable time.
+For example, 17 M.e.v. corresponds to an almost infinitesimal part of a
+kilowatt-hour. Even a million billion collisions between lithium atoms and
+protons furnishes only about 1/1,000 kilowatt-hour, or enough energy to

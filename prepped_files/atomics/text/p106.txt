@@ -1,0 +1,38 @@
+weight is the same. This collision is of additional interest because it serves in
+many experiments as a convenient source of neutrons. All that is required here
+is a sample of radium and a piece of beryllium. Today neutron sources can
+be obtained from atomic-energy piles and indirectly by the use of beams of
+charged particles produced by the cyclotron.
+
+"Ghosts" in the cloud chamber . . .
+
+It was not long before a whole series of similar transmutations were discovered.
+The most effective of these producers of neutrons seem to be the
+light metals, with beryllium the most efficient of all.
+
+Further evidence for the existence of these neutrons came when nitrogen
+gas was bombarded with the "radiations" resulting from the collision of alpha
+particles with beryllium. The neutrons produced by these bombardments
+were permitted to pass through nitrogen gas in a cloud chamber. No path
+was detected for the neutrons, inasmuch as they passed between the atoms
+without causing any ionization. However, the cloud tracks showed the
+sudden appearance in the cloud chamber of fast ionizing particles that
+seemed to have no direct connection with the source of the neutrons. What
+had happened? The original path of the neutron could not be seen because
+it left no ionization in its wake. But occasionally it would make a head-on
+collision with a molecule and cause several ions to shoot out at great
+speed from the scene of the collision. These ions have enough energy to leave
+a wake of other ions in their path and produce a track in the cloud chamber.
+The neutrons thus act like "ghosts" in the cloud chamber, not leaving any
+tracks of their own but causing the formation of high-speed ions as shown
+by the intense proton track in the illustration.
+
+OBSERVED
+
+SOURCE OF NEUTRONS
+
+SOLVED
+
+PROTON
+
+NEUTRON

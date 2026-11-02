@@ -1,0 +1,32 @@
+charged particle differ in their action toward atoms. The physicist has developed
+a very simple "roller-coaster" picture of these particles approaching
+the nucleus that helps us to understand what is taking place.
+
+NUCLEUS
+3 M.E.V.
+2 M.E.V.
+1 M.E.V.
+SPEED-UP TRACK
+
+The diagram shows a speed-up track for a positively charged projectile
+trying to get at the nuclear target, represented at the bottom of the track. The
+speed-up track in this case might represent the accelerating tube of a Van de
+Graaff generator or the high speed imparted to a particle by a cyclotron. At the
+bottom of the tube--or speed-up track--the particle has acquired a considerable
+amount of energy with which to climb "over the nuclear wall." Suppose we
+start with the projectile at A. It has an initial energy of i M.e.v. As it begins
+to climb the wall leading to the target, it experiences strong repulsive forces.
+As a result it is stopped completely as soon as it has climbed to its original
+height. In other words, there is little likelihood that this particle will penetrate
+to the target by climbing over the hill. The same would be true for a 2-M.e.v.
+proj ectile. It will climb up to point J? and then start to slide back.
+
+If the particle has an energy of 3 M.e.v., however, it can go over the top and
+penetrate into the nucleus. A different nucleus has now been produced and
+changes may be expected. The new nucleus may be radioactive.
+
+If the projectile has an energy of 10 M.e.v. instead of the required 3 M.e.v.,
+then it will enter the nucleus carrying with it an additional 7 M.e.v. of energy.
+The presence of this new, fast "tenant" in the nucleus is more likely to cause
+some changes. Sometimes the extra energy may be emitted in the form of a
+gamma ray. Often an eviction takes place and a former resident of the nuclear
