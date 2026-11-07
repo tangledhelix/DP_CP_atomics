@@ -15,9 +15,88 @@
 - =, ✕ printed larger in the paper edition - increase size with <span>?
 - Ratios, e.g. 23:35-1/2 - does fraction tool understand this?
 - Comma in fraction: 1/1,000 - does fraction tool understand this?
+- Section headings sometimes end ~?...~ sometimes ~?....~; standardize
+- Section headings sometimes end ~...~ sometimes ~....~; standardize
+- A lot of proofers are treating U235, U238 as having subscripts, which is not correct. ~U_{235}~ would be a molecule made of 235 uranium atoms, which is not what U235 is.
+- Other chemical notations /do/ need subscripts, however, such as ~H_{2}O~.
 * Forum thread notes
-* P1 round
-* P2 round
+* P1 round (complete)
+| page | fixed? | descr                                                 |
+|------+--------+-------------------------------------------------------|
+| p061 | P2     | right-arrow missed                                    |
+| p062 | P2     | missed ~i~ → ~1~                                      |
+| p071 | P2     | missed line end of page                               |
+| p075 | P2     | missed ~i~ → ~1~ (2x)                                 |
+| p079 | P2     | missed ~no~ → ~110~                                   |
+| p080 | P2     | missed ~i~ → ~1~, missed line end of page             |
+| p081 | P2     | missed ~no~ → ~110~                                   |
+| p083 |        | spaced emdash misreplaced with spaced hyphen          |
+|      |        | hyphen/minus brought up to prior line                 |
+| p085 | P2     | extra word added, end of page                         |
+| p087 | P2     | missed 2 lines end of page                            |
+| p088 | P2     | missed joining hyphenated word                        |
+| p091 | P2     | didn't add a missing word                             |
+| p092 | P2     | hyphens removed from mixed numbers                    |
+| p098 | P2     | missed ~i~ → ~1~                                      |
+| p099 |        | scanno fix is still typo: ~exactlydy~                 |
+| p104 | P2     | missed adding missing word                            |
+| p110 | P2     | missed adding missing word, and ~Unes~ → ~lines~      |
+| p114 | P2     | missed adding missing word, miss punct error          |
+| p115 | P2     | missed adding missing word                            |
+| p116 | P2     | missed adding missing word                            |
+| p117 | P2     | missed joining hyphenated word, adding missing word   |
+| p120 | P2     | missed ~i~ → ~1~                                      |
+| p126 | P2     | missed ~he~ → ~The~                                   |
+| p129 |        | subscript without braces                              |
+| p129 | P2     | missed adding missing word                            |
+| p130 | P2     | missed adding line, end of page                       |
+| p131 | P2     | missed ~i~ → ~1~, ~J?~ → ~B~                          |
+| p138 | P2     | missed line end of page                               |
+| p141 | P2     | missed line end of page                               |
+| p142 | P2     | missed adding missing word                            |
+| p144 | P2     | missed ~i~ → ~1~                                      |
+| p151 | P2     | missed line end of page                               |
+| p152 | P2     | missed ~i~ → ~1~, multiple                            |
+| p153 | P2     | missed adding 2 missing words                         |
+| p163 | P2     | missed adding emdash                                  |
+| p166 | P2     | missed ~75~ → ~1/5~, add missing ~1~                  |
+| p171 | P2     | duplicated a line                                     |
+| p176 |        | subscript without braces (multiple)                   |
+| p177 |        | subscript without braces                              |
+| p178 | P2     | subscript without braces, missed ~week~ → ~weeks~     |
+| p180 |        | subscript without braces (multiple), with ~0~ for ~O~ |
+| p181 |        | subscript without braces (multiple)                   |
+| p182 | P2     | missed ~i~ → ~1~                                      |
+| p188 | P2     | missed adding missing ~"~                             |
+| p200 | P2     | missed stray ~J~                                      |
+| p204 | P2     | missed adding missing ~"~ (2x)                        |
+| p206 | P2     | missed adding missing word ~by~                       |
+| p207 | P2     | missed adding missing word ~A~                        |
+| p208 | P2     | missed removing stray ~k~, add missing ~9,~ EOL       |
+| p215 | P2     | missed removing extra ~I~                             |
+| p219 | P2     | missed ~i~ → ~1~                                      |
+| p222 | P2     | missed ~i~ → ~2~, ~i~ → ~1~, missing word ~It~        |
+| p225 | P2     | missed adding missing word ~does~ end of page         |
+| p226 | P2     | missed adding missing word ~some~                     |
+| p230 | P2     | missed adding sequence of several missing words       |
+| p234 | P2     | missed join hyphenated word, adding word ~from~       |
+| p239 | P2     | missed ~i~ → ~1~                                      |
+| p240 | P2     | missed missing word ~of~, and ~fr~ → ~from~           |
+| p241 | P2     | missed adding line end of page                        |
+| p252 | P2     | missed missing word ~If~                              |
+| p260 | P2     | missed removing some right-margin extra chars (3x)    |
+| p262 | P2     | missed ~fr~ → ~from~                                  |
+* P2 round (complete)
+| page | fixed? | descr                                                |
+|------+--------+------------------------------------------------------|
+| p093 |        | missed arrow character                               |
+| p094 |        | missed arrow character                               |
+| p115 |        | deleted a P1 comment                                 |
+|      |        | modified text w/o adding new comment either!         |
+| p142 |        | deleted a P1 comment, added text that wasn't on page |
+| p180 |        | fixed ~0~ to be ~O~ but still no subscript braces    |
+| p181 |        | fixed ~0~ to be ~O~ but still no subscript braces    |
+|      |        | deleted a proofer note, changed text from scan       |
 * P3 round
 * F1 round
 * F2 round
